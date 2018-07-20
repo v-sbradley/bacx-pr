@@ -6,6 +6,6 @@
 |---|---|---|
 | Public  |n/a   |   |
 | MicrosoftDocs  |n/a  |   |
-| Contributors  |   |   |
+| Contributors  | [bacx-contribute](https://github.com/orgs/MicrosoftDocs/teams/bacx-contribute/members)  | Anyone outside of BACX who contributes to the repos. They have write access, and can create branches. They aren't able to push content to _master_ or _live_ branches.  |
 | BACX  |   |   |
 | Admin |   |   |
