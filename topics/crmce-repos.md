@@ -2,6 +2,7 @@
 
 | Description                                        | URL                                                                  |
 |----------------------------------------------------|----------------------------------------------------------------------|
+| Common Data Model - Private                        | https://github.com/MicrosoftDocs/common-data-model                   |
 | Customer Engagement - Private                      | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr |
 | Customer Engagement - Public                       | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement    |
 | Flow - Private                                     | https://github.com/MicrosoftDocs/flow-docs-pr                        |
