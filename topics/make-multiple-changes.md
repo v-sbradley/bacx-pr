@@ -17,7 +17,7 @@ pull request to merge all the changes your branch.
 
 ## Prerequisites
 
-Ensure you have completed steps in [Getting started](getting-started.md).
+Ensure you have completed steps in [Get started](get-started.md).
 
 ## Create a branch
 
