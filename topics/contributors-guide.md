@@ -8,7 +8,7 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
-# Contributors guide for PMs/Feature teams (Dynamics 365 CE, PowerApps, and flow)
+# Contributors guide for PMs/Feature teams (Dynamics 365 CE, PowerApps, and Flow)
 
 This guide provides information on how PMs and other members from the feature
 team can contribute to our official content on docs.microsoft.com for following products/features:
