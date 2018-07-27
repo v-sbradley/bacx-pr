@@ -1,4 +1,11 @@
 # [Business Applications Content Experience Team (BACX)](index.md)
+## [Contributors Guide for docs](contributors-guide.md)
+### [Get started](get-started.md)
+### [Work directly in our repos](work-repos.md)
+#### [Make quick edits to a topic](make-quick-edits.md)
+#### [Make multiple changes](make-multiple-changes.md)
+#### [Make major or long-running changes](make-major-changes.md)
+### [Legacy: Fork our repo](legacy-fork-repo.md) 
 ## GitHub Reference
 ### [Permission Levels](permission-levels.md)
-### [Repos managed by crmce](crmce-repos)
+### [Repos managed by crmce](crmce-repos.md)
