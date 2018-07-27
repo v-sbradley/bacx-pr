@@ -19,7 +19,7 @@ pull request to merge all the changes your branch.
 
 You must always create a branch before you start making changes to docs.
 
-1.  Browse to one of [our GitHub repos](get-started.md#our-repos).
+1.  Browse to one of [our repos](get-started.md#our-repos).
 
 2.  Ensure that you are on the **master** branch; if not, select the **master**
     branch.  
@@ -37,7 +37,7 @@ You must always create a branch before you start making changes to docs.
 
 ## Update multiple files
 
-1.  Browse to one of [our GitHub repos](get-started.md#our-repos).
+1.  Browse to one of [our repos](get-started.md#our-repos).
 
 2.  Ensure that your branch is selected in the branch list before working on
     your changes. If you don’t already have a branch, first create a branch.  
@@ -66,7 +66,7 @@ review link on docs in your email with your recent changes that you can review.
 
 ## Create a file
 
-1.  Browse to one of [our GitHub repos](get-started.md#our-repos).
+1.  Browse to one of [our repos](get-started.md#our-repos).
 
 2.  Ensure that your branch is selected in the branch list before working on
     your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).  
@@ -97,7 +97,7 @@ review link on docs in your email with your recent changes that you can review.
 
 ## Upload images
 
-1.  Browse to one of [our GitHub repos](get-started.md#our-repos).
+1.  Browse to one of [our repos](get-started.md#our-repos).
 
 2.  Ensure that your branch is selected in the branch list before working on
     your changes. If you don’t already have a branch, first [create a branch](#create-a-branch). 
@@ -133,7 +133,7 @@ review link on docs in your email with your recent changes that you can review.
 > Renaming a file will lead to broken links. Also, if the file is
 aready published live, a redirect must be set to route from the original URL to the new URL. Please work with your CPub contact before renaming a file to understand the implications.
 
-1.  Browse to one of [our GitHub repos](get-started.md#our-repos)
+1.  Browse to one of [our repos](get-started.md#our-repos)
 
 2.  Ensure that your branch is selected in the branch list before working on
     your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).      
@@ -158,7 +158,7 @@ aready published live, a redirect must be set to route from the original URL to 
 
 ### Delete a file
 
-1.  Browse to one of [our GitHub repos](get-started.md#our-repos)
+1.  Browse to one of [our repos](get-started.md#our-repos)
 
 2.  Ensure that your branch is selected in the branch list before working on
     your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).
@@ -177,7 +177,7 @@ aready published live, a redirect must be set to route from the original URL to 
 
 ### Finally: Create pull request to merge your changes and publish live
 
-1.  Browse to one of [our GitHub repos](get-started.md#our-repos)
+1.  Browse to one of [our repos](get-started.md#our-repos)
 
 2.  Ensure that your branch is selected in the branch list. Select **New pull
     request**. 
@@ -190,5 +190,7 @@ aready published live, a redirect must be set to route from the original URL to 
 
     ![](media/create-pr-02.png)
 
-At this point, you are done. A feature writer will pick up the pull request
-within next day or so, merge it to master, and publish live.
+Thats it! A writer will pick up your PR, merge it into the master branch, and publish live. After merging your PR, the writer will delete your branch to avoid branch clutter in our repo.
+
+> [!NOTE]
+> Any **stale** branches (branches with no active pull requests and no activity for 8 weeks) will be deleted from our repo. If you have a special situation, please contact [crmce](mailto:crmce@microsoft.com).
