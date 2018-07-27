@@ -45,3 +45,6 @@ These are the repos where we host our content:
 | Dynamics 365 Customer Engagement | <https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr> |
 | PowerApps                        | <https://github.com/MicrosoftDocs/powerapps-docs-pr>                   |
 | Microsoft Flow                   | <https://github.com/MicrosoftDocs/flow-docs-pr>                        |
+
+> [!div class="nextstepaction"]
+> [Work directly in our repos](work-repos.md)
