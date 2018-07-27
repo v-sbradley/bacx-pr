@@ -15,7 +15,9 @@ contributor to a repository, he/she should **clone** the repo on his/her local
 computer, and then make the updates in a branch. With this approach, you can
 update files in a markdown editor of your choice instead of a browser. 
 
-1.  Install [Git tools](https://gitforwindows.org/), accepting all the default
+1. Ensure you have completed steps in [Getting started](getting-started.md).
+
+2. Install [Git tools](https://gitforwindows.org/), accepting all the default
     values in the installation wizard.
 
 2.  There are multiple ways to clone a repo to your local computer:
@@ -31,6 +33,9 @@ update files in a markdown editor of your choice instead of a browser.
 3.  After cloning a repo to your local computer, create a branch to make your
     changes. [Visual Studio Code](https://code.visualstudio.com/) is the
     preferred tool to edit the .md files on your local computer.
+
+    > [!TIP]
+    > Install the [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) extension to help you as you edit files with features such as spell check, previewing includes files, and so on.
 
 4.  After making your changes, [create a pull
     request](https://help.github.com/articles/creating-a-pull-request/) from
