@@ -15,7 +15,7 @@ contributor to a repository, he/she should **clone** the repo on his/her local
 computer, and then make the updates in a branch. With this approach, you can
 update files in a markdown editor of your choice instead of a browser. 
 
-1. Ensure you have completed steps in [Getting started](getting-started.md).
+1. Ensure you have completed steps in [Get started](get-started.md).
 
 2. Install [Git tools](https://gitforwindows.org/), accepting all the default
     values in the installation wizard.

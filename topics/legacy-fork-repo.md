@@ -16,9 +16,9 @@ repo. Now that we are enabling internal contributors and PMs with write access
 to our repos (see the earlier section about working directly in our repo), there
 is no need for you to fork our repos.<br/> **Benefits of working directly in our repo over forking**: You don't have to create a pull request to view you changes on the review site on docs. Committing a change in your branch (and pushing to server in case your have cloned the repo) provides you with a review link on docs where you can view your changes before creating a pull request to publish live!<br/>[Work directly in our repos](work-repos.md) instead!
 
-## Get started
+## Prerequisites
 
-Complete steps #1 and #2 in the [Get started](get-started.md) topic. You don't need to request write access to our repo to fork.
+Complete steps 1 and 2 in the [Get started](get-started.md) topic. You don't need to request write access (step 3) to our repo to fork it.
 
 ## Making quick edits to a topic
 
