@@ -1,0 +1,42 @@
+---
+title: "Make major or long-running changes| MicrosoftDocs"
+ms.date: 07/26/2018
+ms.service: 
+ms.topic: "conceptual"
+author: "KumarVivek"
+ms.author: "kvivek"
+manager: "annbe"
+---
+
+# Make major or long-running changes
+
+For a contributor who needs to make major changes or will be a frequent
+contributor to a repository, he/she should **clone** the repo on his/her local
+computer, and then make the updates in a branch. With this approach, you can
+update files in a markdown editor of your choice instead of a browser. 
+
+1.  Install [Git tools](https://gitforwindows.org/), accepting all the default
+    values in the installation wizard.
+
+2.  There are multiple ways to clone a repo to your local computer:
+    - **Using cmdline**: To know more, see <https://help.github.com/articles/cloning-a-repository>
+    - **Using GUI tool such as GitHub Desktop**: To know more, see <https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop>
+
+        You can download **GitHub Desktop** tool here: <https://desktop.github.com/>  
+    
+    While cloning a repo, you will need the address (URL) of the repo. See
+    [our repos](get-started.md#our-repos) section to find out the
+    URL of the repo you want to clone.
+
+3.  After cloning a repo to your local computer, create a branch to make your
+    changes. [Visual Studio Code](https://code.visualstudio.com/) is the
+    preferred tool to edit the .md files on your local computer.
+
+4.  After making your changes, [create a pull
+    request](https://help.github.com/articles/creating-a-pull-request/) from
+    your branch to the **master** branch to merge your changes and publish live.
+
+Thats it! A writer will pick up your PR, merge it into the master branch, and publish live. After merging your PR, the writer will delete your branch to avoid branch clutter in our repo.
+
+> [!NOTE]
+> Any **stale** branches (branches with no active pull requests and no activity for 8 weeks) will be deleted from our repo. If you have a special situation, please contact [crmce](mailto:crmce@microsoft.com).

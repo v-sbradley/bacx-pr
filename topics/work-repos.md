@@ -8,16 +8,11 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
-# Work on our repos
+# Work directly in our repos
 
 There are multiple ways in which you can contribute to our docs:
 
-- Using browser to work directly in your branch in our repo
-- Cloning our repo on your local PC and then remotely working in your branch
-
-Using a browser to work on our repo is a quick way to contribute to our docs, and does not require you to install any tools on your local computer. Cloning our repo requires you to install Git tools and a markdown editor (we suggest Visual Studio Code). Make your choice:
-
-Use browser to contribute
-
-Clone our repo
+- [Make quick edits to a topic](make-quick-edits.md): Read this topic if you are just starting to contribute to docs, and have small changes to make in a topic. No tools required; do all your edits in browser.
+- [Make multiple changes](make-multiple-changes.md): Read this topic if you want to know how to make changes in multiple files, create a file, upload an image, and so on. No tools required; do all your changes in browser.
+- [Make major or long running changes](make-major-changes.md): Read this topic if you would like to clone our repo to your local computer, and use an editor of your choice to edit the .md files instead of editing in browser. This requires you to install some tools on your computer.
 
