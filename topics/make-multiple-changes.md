@@ -1,5 +1,5 @@
 ---
-title: "Use browser to contribute| MicrosoftDocs"
+title: "Make multiple changes to docs| MicrosoftDocs"
 ms.date: 07/26/2018
 ms.service: 
 ms.topic: "conceptual"
@@ -8,46 +8,7 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
-# Use browser to contribute
-
-## Making quick edits to a topic
-
-1.  Identify the topic that you want to edit. For example:
-    <https://docs.microsoft.com/en-us/powerapps/maker/index>
-
-2.  Add **review** before **docs** in the URL to ensure that you are making
-    changes to the internal (private) docs repo. For example, change the above
-    URL to <https://review.docs.microsoft.com/en-us/powerapps/maker/index>
-
-3.  Select **Edit** in the top-right corner of the topic to edit.  
-    
-
-    ![](media/quick-edits-01.png)
-
-4.  If you are not already signed in to your GitHub account, you will be
-    prompted to sign in. After providing the GitHub credentials, and signing in,
-    you will be taken to the source topic on GitHub.
-
-5.  Select the pencil icon on GitHub to edit the topic:  
-    
-
-    ![](media/quick-edits-02.png)
-
-6.  After making the required changes, scroll to the bottom of the page, type a
-    title and description for your changes, *select to create a new branch*, and
-    click **Propose file change**.     
-
-    ![](media/quick-edits-03.png)
-
-7.  Next, create a pull request from
-    your newly created branch to the **master** branch.
-
-8.  A writer will pick up your PR, merge it into the master branch, and publish live. After merging your PR, the writer will delete your branch to avoid branch clutter in our repo.
-
-> [!NOTE]
-> Any **stale** branches (branches with no active pull requests and no activity for 8 weeks) will be deleted from our repo. If you have a special situation, please contact [crmce](mailto:crmce@microsoft.com).
-
-## Making multiple changes in your branch
+# Make multiple changes to docs
 
 If you want to make changes in multiple files and are aware of the file location
 in [our GitHub repo](get-started.md#our-repos), you must *start
@@ -56,7 +17,7 @@ pull request to merge all the changes your branch.
 
 ## Create a branch
 
-You must always create a branch to work on your changes.
+You must always create a branch before you start making changes to docs.
 
 1.  Browse to one of [our GitHub repos](get-started.md#our-repos).
 
@@ -74,7 +35,7 @@ You must always create a branch to work on your changes.
 
     ![](media/create-branch-02.png)
 
-### Update multiple files
+## Update multiple files
 
 1.  Browse to one of [our GitHub repos](get-started.md#our-repos).
 
@@ -134,13 +95,12 @@ review link on docs in your email with your recent changes that you can review.
 6.  When your changes are ready to publish live, create a pull request as described
     later in this topic.
 
-### Upload images
+## Upload images
 
 1.  Browse to one of [our GitHub repos](get-started.md#our-repos).
 
 2.  Ensure that your branch is selected in the branch list before working on
-    your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).  
-    
+    your changes. If you don’t already have a branch, first [create a branch](#create-a-branch). 
 
     ![](media/upload-images-01.png)
 
@@ -165,7 +125,7 @@ review link on docs in your email with your recent changes that you can review.
     ![](media/upload-images-03.png)
 
 8.  When your changes are ready to publish live, create a pull request as described
-    later in this document.
+    later in this topic.
 
 ## Rename a file
 
@@ -184,33 +144,31 @@ aready published live, a redirect must be set to route from the original URL to 
     edit the topic:  
     
 
-    ![](media/698a47457ed7f6a449aca9128a08b5ef.png)
+    ![](media/rename-file-01.png)
 
 4.  Instead of editing the contents, change the file name at the top:  
     
 
-    ![](media/2c50445fe53c4ed4dcc611cc563a076d.png)
+    ![](media/rename-file-02.png)
 
 5.  Commit the change directly to your branch.
 
-6.  When your changes are ready to ship, create a pull request as described
-    later in this document.
+6.  When your changes are ready to publish live, create a pull request as described
+    later in this topic.
 
 ### Delete a file
 
-1.  Browse to one of our GitHub repos. See here: [Reference: our
-    repos](#_Reference:_our_repos_1)
+1.  Browse to one of [our GitHub repos](get-started.md#our-repos)
 
 2.  Ensure that your branch is selected in the branch list before working on
-    your changes. If you don’t already have a branch, first create a branch.  
-    
+    your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).
 
-    ![](media/ce22faf9fdc00b3db55f35457752770e.png)
+    ![](media/upload-images-01.png)
 
 3.  Browse to the file that you want to delete, and select the delete icon:  
     
 
-    ![](media/8b4ed49aa1146f1c1f8756deec9dba6e.png)
+    ![](media/delete-file-01.png)
 
 4.  Commit directly in your branch to delete the file.
 
@@ -219,21 +177,18 @@ aready published live, a redirect must be set to route from the original URL to 
 
 ### Finally: Create pull request to merge your changes and publish live
 
-1.  Browse to one of our GitHub repos. See here: [Reference: our
-    repos](#_Reference:_our_repos_1)
+1.  Browse to one of [our GitHub repos](get-started.md#our-repos)
 
 2.  Ensure that your branch is selected in the branch list. Select **New pull
-    request**.  
-    
+    request**. 
 
-    ![](media/65ec02ca3eaf8cf0edd0a9ad11567401.png)
+    ![](media/create-pr-01.png)
 
 3.  Ensure that the **master** branch is on the left and your branch on the
     right before you create a pull request. Type a pull request title and select
-    **Create pull request**.  
-    
+    **Create pull request**.    
 
-    ![](media/8b69badd8e4b5cf4d7cf9fc7d844e89b.png)
+    ![](media/create-pr-02.png)
 
 At this point, you are done. A feature writer will pick up the pull request
-within next day or so, and merge it to master, and publish live.
+within next day or so, merge it to master, and publish live.
