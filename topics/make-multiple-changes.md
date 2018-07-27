@@ -15,6 +15,10 @@ in [our GitHub repo](get-started.md#our-repos), you must *start
 with creating a branch* in the repo, make all your changes, and then create a
 pull request to merge all the changes your branch.
 
+## Prerequisites
+
+Ensure you have completed steps in [Getting started](getting-started.md).
+
 ## Create a branch
 
 You must always create a branch before you start making changes to docs.
