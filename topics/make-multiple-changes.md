@@ -135,12 +135,12 @@ review link on docs in your email with your recent changes that you can review.
 
 > [!CAUTION]
 > Renaming a file will lead to broken links. Also, if the file is
-aready published live, a redirect must be set to route from the original URL to the new URL. Please work with your CPub contact before renaming a file to understand the implications.
+aready published live, a redirect must be set to route users from the original URL to the new URL. Please work with your CPub contact before renaming a file to understand the implications, and address them.
 
 1.  Browse to one of [our repos](get-started.md#our-repos)
 
 2.  Ensure that your branch is selected in the branch list before working on
-    your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).      
+    your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).
 
     ![](media/upload-images-01.png)
 
@@ -160,7 +160,11 @@ aready published live, a redirect must be set to route from the original URL to 
 6.  When your changes are ready to publish live, create a pull request as described
     later in this topic.
 
-### Delete a file
+## Delete a file
+
+> [!CAUTION]
+> Deleting a file will lead to broken links from other topics or TOC. Also, if the file is
+aready published live, a redirect must be set to route users from the original URL to the new URL. Please work with your CPub contact before deleting a file to understand the implications, and address them.
 
 1.  Browse to one of [our repos](get-started.md#our-repos)
 
@@ -179,7 +183,7 @@ aready published live, a redirect must be set to route from the original URL to 
 5.  When your changes are ready to ship, create a pull request as described
     later in this topic.
 
-### Finally: Create pull request to merge your changes and publish live
+## Finally: Create pull request to merge your changes and publish live
 
 1.  Browse to one of [our repos](get-started.md#our-repos)
 
