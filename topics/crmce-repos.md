@@ -1,3 +1,7 @@
+---
+akey: avalue
+---
+
 # Repos managed by crmce
 
 | Description                                        | URL                                                                  |
