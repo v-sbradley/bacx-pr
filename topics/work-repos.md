@@ -8,9 +8,9 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
-# Choose the best method for working in our repos
+# Choose the best method for your content work
 
-Depending on the level of changes you want to make and whether you prefer working online using browser or use Git tools to work on a remote copy of the repo (clone) of your computer, select one of the following to know how to contribute:
+Depending on the level of changes you want to make and whether you prefer working online using browser or use Git tools to work on a local copy of the repo (clone) on your computer, select one of the following methods:
 
 | | |
 |--|--|
