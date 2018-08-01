@@ -1,4 +1,4 @@
----
+--
 title: "Work on our repos| MicrosoftDocs"
 ms.date: 07/26/2018
 ms.service: 
@@ -16,4 +16,4 @@ Depending on the level of changes you want to make and whether you prefer workin
 | --- | --- | --- |
 |[Make quick edits to a topic](make-quick-edits.md)|Do all your edits directly in remote branches using a browser. No additional tools required. | People who are just starting to contribute to docs, and want to get up and running quickly to make a few edits. | 
 |[Make more extensive changes](make-multiple-changes.md)|Do all your edits directly in remote branches using a browser, including adding images and working in multiple files. No additional tools required. | People who plan to create detailed topics regularly. If you plan to be a regular contributor, this is a good place to start.|
-|[Make major or long-running changes](make-major-changes.md)|Do all your edits in a local clone of the repo, ensuring that your changes are merged into the correct remote branch. | This method requires you to install some additional tools, and is best for people who understand the difference between working locally and remotely, and already have mastery of GitHub and markdown.|  
+|[Make major or long-running changes](make-major-changes.md)|Do all your edits in a local clone of the repo, ensuring that your changes are merged into the correct remote branch. | People who understand the difference between working locally and remotely, and already have mastery of GitHub and markdown. This method requires you to install some additional tools. |  
