@@ -12,7 +12,6 @@ manager: "annbe"
 
 Depending on the level of changes you want to make and whether you prefer working online using browser or use Git tools to work on a local copy of the repo (clone) on your computer, select one of the following methods:
 
-| | |
 |If you want to...|Use this method|Best for...|
 | --- | --- | --- |
 |[Make quick edits to a topic](make-quick-edits.md)|Do all your edits directly in remote branches using a browser. No additional tools required. | Using the GitHub UI in a browser is best for people who are just starting to contribute to docs, and want to get up and running quickly to make a few edits. | 
