@@ -10,7 +10,7 @@ manager: "annbe"
 
 # Choose the best method for your content work
 
-Depending on the level of changes you want to make and whether you prefer working online using browser or use Git tools to work on a local copy of the repo (clone) on your computer, select one of the following methods:
+Depending on the level of changes you want to make and whether you prefer working online using a browser or using Git tools to work on a local copy of the repo (clone) on your computer, select one of the following methods:
 
 |If you want to...|Use this method|Best for...|
 | --- | --- | --- |
