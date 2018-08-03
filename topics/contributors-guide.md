@@ -8,7 +8,7 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
-# Contributors guide for PMs/Devs (Dynamics 365 CE, PowerApps, and Flow)
+# Contributors guide for PMs/Devs
 
 This guide provides information on how PMs and other members from the feature
 team can contribute to our official content on docs.microsoft.com for following products/features:
@@ -19,8 +19,9 @@ team can contribute to our official content on docs.microsoft.com for following 
     - Dynamics 365 for Project Service and Field Service
     - Dynamics 365 for Marketing
     - Social Engagement
-- PowerApps
 - Microsoft Flow
+- PowerApps
+- Power platform
 
 > [!IMPORTANT]
 > - **Folks who already contribute to Release Notes repo**: You are all set to contribute; you don't need to request additional access. Jump on to [Work directly in our repos](work-repos.md)
