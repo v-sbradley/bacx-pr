@@ -1,5 +1,5 @@
 ---
-title: "Make multiple changes to docs| MicrosoftDocs"
+title: "Make extensive changes to docs| MicrosoftDocs"
 ms.date: 07/26/2018
 ms.service: 
 ms.topic: "conceptual"
@@ -8,7 +8,7 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
-# Make multiple changes to docs
+# Make extensive changes to docs
 
 If you want to make changes in multiple files and are aware of the file location
 in [our GitHub repo](get-started.md#our-repos), you must *start
