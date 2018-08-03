@@ -1,6 +1,6 @@
 ---
 title: "Contributors guide to docs for PMs/Feature teams| MicrosoftDocs"
-ms.date: 07/26/2018
+ms.date: 08/01/2018
 ms.service: 
 ms.topic: "conceptual"
 author: "KumarVivek"
@@ -14,11 +14,18 @@ This guide provides information on how PMs and other members from the feature
 team can contribute to our official content on docs.microsoft.com for following products/features:
 
 - Dynamics 365 Customer Engagement (CE)
+    - Dynamics 365 for Sales
+    - Dynamics 365 for Customer Service
+    - Dynamics 365 for Project Service and Field Service
+    - Dynamics 365 for Marketing
+    - Social Engagement
 - PowerApps
 - Microsoft Flow
 
-> [!NOTE]
-> PowerApps and Flow PMs who are already contributing to docs use the (legacy) forking model, which is still supported. This guide introduces them to work directly in their own branches in our repo by granting "write" access. You are already familiar with this model from your work on Release Notes.<br/> **Benefits of working directly in our repo over forking**: You don't have to create a pull request to view you changes on the review site on docs. Committing a change in your branch automatically provides you with a review link on docs. If everything looks good, you can create a pull request to publish live!
+> [!IMPORTANT]
+> - If you already contribute to Release Notes, you are all set. You don't need to request additional access. Jump on to [Work directly in our repos](work-repos)
+> - PowerApps and Flow PMs who are already contributing to docs use the (legacy) forking model, which is still supported. This guide introduces them to work directly in their own branches in our repo by granting **"write"** access. You are already familiar with this model from your work on Release Notes. 
+> - **Benefits of working directly in our repo over forking**: You don't have to create a pull request to view you changes on the review site on docs. Committing a change in your branch automatically provides you with a review link on docs. If everything looks good, you can create a pull request to merge it with master and publish live!
 
 
 > [!div class="nextstepaction"]

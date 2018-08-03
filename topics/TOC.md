@@ -3,7 +3,7 @@
 ### [Get started](get-started.md)
 ### [Work directly in our repos](work-repos.md)
 #### [Make quick edits to a topic](make-quick-edits.md)
-#### [Make multiple changes](make-multiple-changes.md)
+#### [Make extensive changes](make-extensive-changes.md)
 #### [Make major or long-running changes](make-major-changes.md)
 ### [Legacy: Fork our repo](legacy-fork-repo.md) 
 ## GitHub Reference
