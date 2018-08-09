@@ -51,7 +51,7 @@ update files in a markdown editor of your choice instead of a browser.
     request](https://help.github.com/articles/creating-a-pull-request/) from
     your branch to the **master** branch to merge your changes and publish live.
 
-That's it! A writer will pick up your PR, merge it into the master branch, and publish live. After merging your PR, the writer will delete your branch to avoid branch clutter in our repo.
+That's it! A writer will pick up your PR, merge it into the **master** branch, and publish your changes live. After merging your PR, the writer will delete your branch to avoid branch clutter in our repo.
 
 > [!NOTE]
 > Any **stale** branches (branches with no active pull requests and no activity for 8 weeks) will be deleted from our repo. If you have a special situation, please contact [crmce](mailto:crmce@microsoft.com).
