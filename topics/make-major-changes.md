@@ -37,7 +37,17 @@ update files in a markdown editor of your choice instead of a browser.
     > [!TIP]
     > Install the [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) extension to help you as you edit files with features such as spell check, previewing includes files, and so on.
 
-4.  After making your changes, [create a pull
+4. If your changes take more than an few days to make, refresh your local branch with changes from the **master** branch of the repo at least weekly to avoid merge conflicts.
+
+    - To refresh your local branch in Visual Studio Code:
+        1. Ensure that the name of your branch appears in the lower-left corner.
+        1. Press Ctrl-Shift-G to open Source Control.
+        1. Select the ellipsis > **Pull from** > **origin** > **origin/master**.
+    - To refresh your local branch at a command prompt:
+        1. Type **git checkout** *BranchName*.
+        1. Type **git pull origin master**.
+
+5.  After making your changes, [create a pull
     request](https://help.github.com/articles/creating-a-pull-request/) from
     your branch to the **master** branch to merge your changes and publish live.
 
