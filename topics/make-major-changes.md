@@ -37,7 +37,7 @@ update files in a markdown editor of your choice instead of a browser.
     > [!TIP]
     > Install the [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) extension to help you as you edit files with features such as spell check, previewing includes files, and so on.
 
-4. If your changes take more than an few days to make, refresh your local branch with changes from the **master** branch of the repo at least weekly to avoid merge conflicts.
+4. If your changes take more than a few days to make, refresh your local branch with changes from the **master** branch of the repo at least weekly to avoid merge conflicts.
 
     - To refresh your local branch in Visual Studio Code:
         1. Ensure that the name of your branch appears in the lower-left corner.
