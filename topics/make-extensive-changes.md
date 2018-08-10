@@ -39,6 +39,8 @@ You must always create a branch before you start making changes to docs.
 
     ![](media/create-branch-02.png)
 
+**Note**: If your branch stays open for more than a few days, pull in changes from the **master** branch at least weekly to avoid merge conflicts. To pull in these changes, create and merge a PR in which the base branch (on the left) is set to your branch and the head branch for comparison (on the right) is set to **master**.
+
 ## Update multiple files
 
 1.  Browse to one of [our repos](get-started.md#our-repos).
@@ -57,7 +59,7 @@ You must always create a branch before you start making changes to docs.
 
 4.  After changing the file, commit *directly* to your branch.  
     
-
+    
     ![](media/change-files-03.png)
 
 5.  Browse to another file, make changes, and commit to your branch. Repeat
@@ -191,14 +193,14 @@ aready published live, a redirect must be set to route users from the original U
     request**. 
 
     ![](media/create-pr-01.png)
-
+    
 3.  Ensure that the **master** branch is on the left and your branch on the
     right before you create a pull request. Type a pull request title and select
     **Create pull request**.    
 
     ![](media/create-pr-02.png)
 
-Thats it! A writer will pick up your PR, merge it into the master branch, and publish live. After merging your PR, the writer will delete your branch to avoid branch clutter in our repo.
+That's it! A writer will pick up your PR, merge it into the **master** branch, and publish your changes live. After merging your PR, the writer will delete your branch to avoid branch clutter in our repo.
 
 > [!NOTE]
 > Any **stale** branches (branches with no active pull requests and no activity for 8 weeks) will be deleted from our repo. If you have a special situation, please contact [crmce](mailto:crmce@microsoft.com).
