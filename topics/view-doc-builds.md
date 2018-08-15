@@ -10,7 +10,7 @@ manager: "annbe"
 
 # View doc builds for your changes
 
-After you **commit** your changes in GitHub (**commit + push** your changes in case you have cloned a repo), our publishing system created a doc build so that you can see your changes in the review site on docs.microsoft.com.
+After you **commit** your changes in GitHub (**commit + push** your changes in case you have cloned a repo), our publishing system creates a doc build so that you can see your changes in the review site on docs.microsoft.com.
 
 You will get an email within minutes containing the review site link to the email account you used for signing up to GitHub (typically @microsoft.com).
 
