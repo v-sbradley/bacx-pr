@@ -48,6 +48,10 @@ update files in a markdown editor of your choice instead of a browser.
     - To refresh your local branch at a command prompt, type these commands:
         1. **git checkout** *BranchName*
         1. **git pull origin master**
+    - To refresh your local branch using the web UI:
+        1. Open a pull request to merge from master to your working branch
+        1. Resolve any conflicts
+        1. Merge the changes
 
 5.  After making your changes, [create a pull
     request](https://help.github.com/articles/creating-a-pull-request/) from
