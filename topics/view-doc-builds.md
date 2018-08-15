@@ -14,7 +14,7 @@ After you **commit** your changes in GitHub (**commit + push** your changes in c
 
 You will get an email within minutes containing the review site link to the email account you used for signing up to GitHub (typically @microsoft.com).
 
-You can also manually go and look up your build status in ops.microsoft.com.
+You can also manually see your build status and get your review links in **ops.microsoft.com**.
 
 1. Browse to <https://ops.microsoft.com>.
 2. Select **Sign in with GitHub**.
