@@ -25,6 +25,8 @@ update files in a markdown editor of your choice instead of a browser.
     - **Using GUI tool such as GitHub Desktop**: To know more, see <https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop>
 
         You can download **GitHub Desktop** tool here: <https://desktop.github.com/>  
+        
+    - **Within VS Code**: To know more, see <https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository>
     
     While cloning a repo, you will need the address (URL) of the repo. See
     [our repos](get-started.md#our-repos) section to find out the
