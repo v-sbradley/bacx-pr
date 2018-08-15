@@ -5,6 +5,7 @@
 #### [Make quick edits to a topic](make-quick-edits.md)
 #### [Make extensive changes](make-extensive-changes.md)
 #### [Make major or long-running changes](make-major-changes.md)
+#### [View doc builds for your changes](view-doc-builds.md)
 ### [Legacy: Fork our repo](legacy-fork-repo.md) 
 ## GitHub Reference
 ### [Permission Levels](permission-levels.md)
