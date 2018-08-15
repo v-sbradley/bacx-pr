@@ -41,7 +41,7 @@ This is helpful if you are looking to make quick edits to a topic, and don't wan
 
     ![](media/quick-edits-03.png)
     
-    You have just commited your change to the GitHub repo. You can [Review your topic changes](review-topics).
+    You have just commited your change to the GitHub repo. You can [Review your topic changes](review-topics.md).
 
 7.  Next, create a pull request from
     your newly created branch to the **master** branch.
