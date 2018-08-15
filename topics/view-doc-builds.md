@@ -19,7 +19,7 @@ You can also manually see your build status and get your review links in **ops.m
 1. Browse to <https://ops.microsoft.com>.
 2. Select **Sign in with GitHub**.
 3. Provide your GitHub credentials to sign in.
-4. In the GitHub Portal, type the repo name where you made the change in the upper left corner. You can find the repo names here: [our repos](get-started.md#our-repos).
+4. In the OPS Portal, type the repo name where you made the change in the upper left corner. You can find the repo names here: [our repos](get-started.md#our-repos).
     
     For example, if the repo URL is https://github.com/MicrosoftDocs/flow-docs-pr, then your reo name is **flow-docs-pr** 
 
