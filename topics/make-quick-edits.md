@@ -17,7 +17,7 @@ This is helpful if you are looking to make quick edits to a topic, and don't wan
 2. Identify the topic that you want to edit on the docs site. For example:
     <https://docs.microsoft.com/en-us/powerapps/maker/index>
 
-2.  Add **review** before **docs** in the URL to ensure that you are making
+2.  IMPORTANT: Add **review** before **docs** in the URL to ensure that you are making
     changes to the internal (private) docs repo. For example, change the above
     URL to <https://review.docs.microsoft.com/en-us/powerapps/maker/index>
 
