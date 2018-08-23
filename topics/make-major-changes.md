@@ -39,7 +39,7 @@ update files in a markdown editor of your choice instead of a browser.
     > [!TIP]
     > Install the [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) extension to help you as you edit files with features such as spell check, previewing includes files, and so on.
 
-4. If your changes take more than a few days to make, refresh your local branch with changes from the **master** branch of the repo at least weekly to avoid merge conflicts.
+4. If you leave your branch open but don't update it for a few days, avoid merge conflicts by refreshing your branch with changes from the **master** branch before you make further updates.
 
     - To refresh your local branch in Visual Studio Code:
         1. Ensure that the name of your branch appears in the lower-left corner.
@@ -48,10 +48,6 @@ update files in a markdown editor of your choice instead of a browser.
     - To refresh your local branch at a command prompt, type these commands:
         1. **git checkout** *BranchName*
         1. **git pull origin master**
-    - To refresh your local branch using the web UI:
-        1. Open a pull request to merge from master to your working branch
-        1. Resolve any conflicts
-        1. Merge the changes
 
 5.  After making your changes, [create a pull
     request](https://help.github.com/articles/creating-a-pull-request/) from
