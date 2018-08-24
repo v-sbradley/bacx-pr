@@ -41,9 +41,11 @@ These are the repos where we host our content:
 
 | **Product/Feature**              | **Repo URL**                                                           |
 |----------------------------------|------------------------------------------------------------------------|
+| Dynamics 365 AI                  | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                    |
 | Dynamics 365 Hub                 | https://github.com/MicrosoftDocs/dynamics365hubpages                   |
 | Dynamics 365 Customer Engagement | <https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr> |
 | Microsoft Flow                   | <https://github.com/MicrosoftDocs/flow-docs-pr>                        |
+| Mixed Reality                    | https://github.com/microsoftdocs/dynamics-365-mixed-reality-pr         |
 | PowerApps                        | <https://github.com/MicrosoftDocs/powerapps-docs-pr>                   |
 | Power platform                   | <https://github.com/MicrosoftDocs/power-platform-pr>                   |
 
