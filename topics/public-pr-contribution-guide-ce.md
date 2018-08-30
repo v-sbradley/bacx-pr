@@ -12,15 +12,13 @@ manager: "renwe"
 
 We have made our Customer-Engagement repository public. This results in having two different repository which are
 
-	- **[Private repository](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr):** This repository will always be the main working repository for us.
+- **[Private Customer-Engagement repository](https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr):** This repository will always be the main working repository for us.
 
-	- **[Public repository]( https://github.com/MicrosoftDocs/dynamics-365-customer-engagement):** This repository is meant to receive **customer/public feedback** through the new feedback feature (which replaces LiveFyre). It helps to receive suggested changes through Pull-Requests/issues created by the customers/public.
+- **[Public Customer-Engagement repository]( https://github.com/MicrosoftDocs/dynamics-365-customer-engagement):** This repository is meant to receive **customer/public feedback** through the new feedback feature (which replaces LiveFyre). It helps to receive suggested changes through Pull-Requests/issues created by the customers/public.
 
 > [!IMPORTANT]
 > - The public repository exposes Live and Master branch to the outside world and an automatically created sync branch (repo_sync_working_branch). All these branches in any point of time contains content which are already published/released or is ready to be published.
-
 > - In our private repository, both Master and Live branch are always in sync with each other and we no longer support staging branch.
-
 > - An auto assignment tool keeps polling the public repository for any new Pull-Request and assign it to the relevant contributors based on the changed files in the Pull-Request. The Pull-Request is assigned to the authors who owns the areas to which the changed files belong.
 
 ## Syncing configurations in OPS for private and public customer-engagement repository
