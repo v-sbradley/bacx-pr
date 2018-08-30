@@ -8,9 +8,9 @@ ms.author: buckg
 manager: renwe
 ---
 
-# Merging conflicting files
+# Merging Conflicts Can Be Tricky
 
-I updated this sentence in the merge conflict branch.  
+This is the sentence I have authored in the master branch.  
   
 In go to **Analytics** > **Conversations** to access the conversations page.  
 
