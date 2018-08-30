@@ -8,9 +8,9 @@ ms.author: buckg
 manager: renwe
 ---
 
-# Merging conflicts
+# Merging Conflicts can be difficult
 
-Get detailed content analytics and understand data about most-used phrases, their volume, sources of these conversations, and sentiment.  
+In master, the content says this.  
   
 In go to **Analytics** > **Conversations** to access the conversations page.  
 
