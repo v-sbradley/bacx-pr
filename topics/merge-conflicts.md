@@ -10,7 +10,7 @@ manager: renwe
 
 # Merging Conflicts Can Be Tricky
 
-This is the sentence I have authored in the master branch.  
+This is the sentence I have and I updated it again in the master branch.  
   
 In go to **Analytics** > **Conversations** to access the conversations page.  
 
