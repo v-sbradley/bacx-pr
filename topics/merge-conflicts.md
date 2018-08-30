@@ -8,9 +8,9 @@ ms.author: buckg
 manager: renwe
 ---
 
-# Merging conflicting files
+# Merging your conflicting files
 
-I updated this sentence in the merge conflict branch.  
+I updated this sentence for the second time in the merge conflict branch.  
   
 In go to **Analytics** > **Conversations** to access the conversations page.  
 
