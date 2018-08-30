@@ -7,6 +7,8 @@
 #### [Make major or long-running changes](make-major-changes.md)
 #### [View doc builds for your changes](view-doc-builds.md)
 ### [Legacy: Fork our repo](legacy-fork-repo.md) 
+### [Public pull-request contribution guide](public-pr-contribution-guide.md)
+#### [Guide for Customer-Engagement repository](public-pr-contribution-guide-ce.md)
 ## GitHub Reference
 ### [Permission Levels](permission-levels.md)
 ### [Repos managed by crmce](crmce-repos.md)
