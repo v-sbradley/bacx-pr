@@ -10,7 +10,7 @@ manager: "renwe"
 
 # Public Pull-Request Contribution Guide
 
-This guide explains the process to handle public contribution for repos managed by BACX Content-Engineering team. Following are the available guides.
+This guide explains the process to handle public contribution for repositories managed by BACX Content-Engineering team. Following are the available guides.
 
 - [Guide for Customer-Engagement repository](public-pr-contribution-guide-ce.md)
 
