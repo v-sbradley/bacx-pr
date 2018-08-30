@@ -8,9 +8,9 @@ ms.author: buckg
 manager: renwe
 ---
 
-# Merging conflicts
+# Merging conflicting files
 
-Get detailed content analytics and understand data about most-used phrases, their volume, sources of these conversations, and sentiment.  
+I updated this sentence in the merge conflict branch.  
   
 In go to **Analytics** > **Conversations** to access the conversations page.  
 
