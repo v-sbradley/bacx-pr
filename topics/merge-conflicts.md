@@ -8,9 +8,9 @@ ms.author: buckg
 manager: renwe
 ---
 
-# Merging Conflicts Can Be Tricky
+# Merging Conflicts
 
-This is the sentence I have and I updated it again in the master branch.  
+This is the sentence I have and I updated it for a third time in the master branch.  
   
 In go to **Analytics** > **Conversations** to access the conversations page.  
 
