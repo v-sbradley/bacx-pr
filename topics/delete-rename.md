@@ -18,14 +18,14 @@ There are also localization considerations with deletions. If the deleting isn't
 
 Follow this process for deleting a file.
 
- 1.  Writer/Editor updates TOC, planned features, change history, and any other topics referencing the removed content. They then coordinate the appropriate reviews and push the changes to "master"
+ -  Writer/Editor updates TOC, planned features, change history, and any other topics referencing the removed content. They then coordinate the appropriate reviews and push the changes to "master"
    > [!NOTE]
    > These changes can be pushed live at any time. They will effectively hide the removed content from users. Actually deleting/renaming the topic needs to be timed with localization.
- 2.	Writer/Editor opens TFS item, using [this template](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub.ContentEngineering/_workitems/create/Task?templateId=5f40a615-c903-4905-9240-2c720bd56075&ownerId=b9f83a31-db17-49e3-848b-c891c5b1e1c1), for CE listing topics to delete, and redirection target for each deleted topic
- 1.	CE coordinates timing with localization
- 1.	CE deletes topic(s), and implements redirect(s) in a working branch
- 1.	CE opens PR from working branch to "master", adds Writer/Editor as reviewer
- 1.	When approved by Writer/Editor, CE merges to "master" and deletes working branch
+ -	Writer/Editor opens TFS item, using [this template](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub.ContentEngineering/_workitems/create/Task?templateId=5f40a615-c903-4905-9240-2c720bd56075&ownerId=b9f83a31-db17-49e3-848b-c891c5b1e1c1), for CE listing topics to delete, and redirection target for each deleted topic
+ -	CE coordinates timing with localization
+ -	CE deletes topic(s), and implements redirect(s) in a working branch
+ -	CE opens PR from working branch to "master", adds Writer/Editor as reviewer
+ -	When approved by Writer/Editor, CE merges to "master" and deletes working branch
 
 
 ## Renaming a topic file
