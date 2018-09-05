@@ -36,3 +36,6 @@ Here is the best practice for deleting a file.
 **Topic file names should not be changed**. Changing a topic file name can break a localization handback, cause significant additional localization cost, and create errors for customers.
 
 If you have a business case for renaming a topic file, contact [crmce](mailto:crmce@microsoft.com) and outline your reasons for the rename. If your case is approved by AnnBe, Content Publishing Director, your Cpub contacts will work with you to implement the rename.
+
+   >[!NOTE]
+   >The approval bar for file renaming is very high. The risk of breaking a localization handback is high, so approvals will be rare exceptions.
