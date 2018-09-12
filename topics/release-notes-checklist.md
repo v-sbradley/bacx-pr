@@ -1,4 +1,4 @@
-Use this checklist to make sure your Release Notes topics are current:
+Use this checklist to make all the necessary consistency changes to your Release Notes topics when you revise them or review a PR from a PM:
 - **Metadata:**
   - Update the ms.date value.
   - Make sure the right authors are listed for ms.author, author, and ms.reviewer.
