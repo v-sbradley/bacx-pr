@@ -12,3 +12,5 @@
 ## GitHub Reference
 ### [Permission Levels](permission-levels.md)
 ### [Repos managed by crmce](crmce-repos.md)
+## Release Notes guide
+### [Release Notes checklist](release-notes-checklist.md)
