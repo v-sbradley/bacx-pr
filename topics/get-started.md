@@ -1,6 +1,6 @@
 ---
 title: "Contributors guide: Get started| MicrosoftDocs"
-ms.date: 07/31/2017
+ms.date: 09/24/2018
 ms.service: 
 ms.topic: "conceptual"
 author: "KumarVivek"
@@ -48,6 +48,7 @@ These are the repos where we host our content:
 | Mixed Reality                    | https://github.com/microsoftdocs/dynamics-365-mixed-reality-pr         |
 | PowerApps                        | <https://github.com/MicrosoftDocs/powerapps-docs-pr>                   |
 | Power platform                   | <https://github.com/MicrosoftDocs/power-platform-pr>                   |
+| Release Notes                    | <https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes>    |
 
 > [!div class="nextstepaction"]
 > [Work directly in our repos](work-repos.md)
