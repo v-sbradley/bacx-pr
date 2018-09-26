@@ -6,6 +6,7 @@
 #### [Make extensive changes](make-extensive-changes.md)
 #### [Make major or long-running changes](make-major-changes.md)
 #### [View doc builds for your changes](view-doc-builds.md)
+#### [Delete topics](delete-rename.md)
 ### [Legacy: Fork our repo](legacy-fork-repo.md) 
 ### [Public pull-request contribution guide](public-pr-contribution-guide.md)
 #### [Guide for Customer-Engagement repository](public-pr-contribution-guide-ce.md)
