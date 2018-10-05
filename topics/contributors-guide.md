@@ -13,6 +13,7 @@ manager: "annbe"
 This guide provides information on how PMs and other members from the feature
 team can contribute to our official content on docs.microsoft.com for following products/features:
 
+- Business Applications Release Notes
 - Dynamics 365 Customer Engagement (CE)
     - Dynamics 365 for Sales
     - Dynamics 365 for Customer Service
