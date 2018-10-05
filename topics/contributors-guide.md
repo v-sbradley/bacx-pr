@@ -29,7 +29,7 @@ team can contribute to our official content on docs.microsoft.com for following 
 > - **Benefits of working directly in our repo over forking**: You don't have to create a pull request to view you changes on the review site on docs. Committing a change in your branch automatically provides you with a review link on docs. If everything looks good, you can create a pull request to merge it with master and publish live!
 
 > [!NOTE]
-> You can watch an introductory brown bag session recording [here](https://microsoft.sharepoint.com/teams/BusinessApplicationsContentExperienceBACX/Shared%20Documents/General/GitHub%20Contributors%20Brownbag/Brownbag-GitHubTraining.mp4).
+> You can watch an introductory brown bag session recording [here](https://microsoft-my.sharepoint.com/:v:/p/kvivek/EUZzYN7D-shMn8fqatI9ZW0BilImrH8cIO5a2NTXPfpHbA?e=Mmc0mL).
 
 > [!div class="nextstepaction"]
 > [Get started](get-started.md)
