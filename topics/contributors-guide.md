@@ -28,5 +28,8 @@ team can contribute to our official content on docs.microsoft.com for following 
 > - **PowerApps and Flow PMs who already contribute to docs**: Currently, use the (legacy) forking model, which is still supported. This guide introduces them to work directly in their own branches in our repo by granting **"write"** access. You are already familiar with this model from your work on Release Notes. See [Get started](get-started.md) to request write access to PowerApps and Flow repos.
 > - **Benefits of working directly in our repo over forking**: You don't have to create a pull request to view you changes on the review site on docs. Committing a change in your branch automatically provides you with a review link on docs. If everything looks good, you can create a pull request to merge it with master and publish live!
 
+> [!NOTE]
+> You can watch an introductory brown bag session recording [here](https://microsoft.sharepoint.com/teams/BusinessApplicationsContentExperienceBACX/Shared%20Documents/General/GitHub%20Contributors%20Brownbag/Brownbag-GitHubTraining.mp4).
+
 > [!div class="nextstepaction"]
 > [Get started](get-started.md)
