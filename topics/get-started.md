@@ -50,5 +50,8 @@ These are the repos where we host our content:
 | Power platform                   | <https://github.com/MicrosoftDocs/power-platform-pr>                   |
 | Release Notes                    | <https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes>    |
 
+> [!NOTE]
+> This list contains the most used GitHub repos. For a complete list of the repos managed by the BACX CE team, see [Repos managed by BACX Content Engineering](crmce-repos.md)
+
 > [!div class="nextstepaction"]
 > [Work directly in our repos](work-repos.md)
