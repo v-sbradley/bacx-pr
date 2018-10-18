@@ -6,7 +6,7 @@ akey: avalue
 
 | Description                                        | GitHub URL                                                           | Content URL | 
 |----------------------------------------------------|----------------------------------------------------------------------|-------------|
-| AI - Private                                       | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                  | https://docs.microsoft.com/dynamics365/ai |
+| AI - Private                                       | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                  | https://review.docs.microsoft.com/dynamics365/ai |
 | Common Data Model - Private                        | https://github.com/MicrosoftDocs/common-data-model                   | https://review.docs.microsoft.com/common-data-service |
 | Customer Engagement - Private                      | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr | https://review.docs.microsoft.com/dynamics365/customer-engagement |
 | Customer Engagement - Public                       | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement    | https://review.docs.microsoft.com/dynamics365/customer-engagement |
