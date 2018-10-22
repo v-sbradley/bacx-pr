@@ -20,6 +20,13 @@ team can contribute to our official content on docs.microsoft.com for following 
     - Dynamics 365 for Project Service and Field Service
     - Dynamics 365 for Marketing
     - Social Engagement
+- Dynamics 365 AI
+    - Customer Service Insights
+    - Market Insights
+    - Sales
+- Dynamics 365 Mixed Reality
+    - Remote Assist
+    - Layout
 - Microsoft Flow
 - PowerApps
 - Power platform
