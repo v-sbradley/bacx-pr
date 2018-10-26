@@ -6,6 +6,7 @@ ms.topic: "conceptual"
 author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
+# Checklist: Before you merge your PR
 
 Use this checklist to make all the necessary consistency changes to your Release Notes topics when you revise them or review a PR from a PM:
 - If you added or removed a topic, make sure that change is updated in the TOC.
