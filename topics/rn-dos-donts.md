@@ -6,7 +6,7 @@ ms.service:
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
 ms.author: "renwe"
----
+----
 # Do's and don'ts in the Release Notes
 
 ## Don'ts
