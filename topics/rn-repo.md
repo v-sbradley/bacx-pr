@@ -8,7 +8,7 @@ ms.author: "renwe"
 ---
 # Explore the Release Notes repo
 
-The root of the [release notes repo](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes) contains an articles folder, which contains: 
+The root of the [release notes repo](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes) contains an **articles** folder, which contains: 
 
 - **April19** folder is in a separate branch until it is published for the first time in January: [april-19](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes/tree/april-19/articles/April19)
 	- In the **articles** folder, see the **April19** folder, which is for features that will release between April 2019 and September 2019 (inclusive)
