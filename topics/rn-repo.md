@@ -11,7 +11,6 @@ Each version folder (April18, April19, and October10) contains:
 - a folder for each product area
 
 
-
 Each product-area folder contains:
 - a topic that summarizes the product area (named **index.md** under October18 and April19 and **overview.md** under April18)
 - a topic that indicates a release date for each feature (named **planned-features.md** under October18 and April19 and **whats-new…md** under April18)
