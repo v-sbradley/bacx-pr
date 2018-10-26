@@ -1,3 +1,12 @@
+---
+title: "Checklist: Before you merge your PR"
+ms.date: 10/25/2018
+ms.service: 
+ms.topic: "conceptual"
+author: "ReneeW-CPub"
+ms.author: "renwe"
+---
+
 Use this checklist to make all the necessary consistency changes to your Release Notes topics when you revise them or review a PR from a PM:
 - If you added or removed a topic, make sure that change is updated in the TOC.
 - If you want to remove or rename a topic, WAIT!!!! Follow these instructions only: [Deleting or renaming topic files](delete-rename.md)
