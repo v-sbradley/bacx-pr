@@ -6,6 +6,7 @@ ms.topic: "conceptual"
 author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
+# Explore the Release Notes repo
 
 The root of the [release notes repo](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes) contains an articles folder, which contains: 
 - **April18** folder, which is for features that have released or will release between April 2018 and September 2018 (inclusive)
