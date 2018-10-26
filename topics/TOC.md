@@ -15,5 +15,6 @@
 ### [Repos managed by crmce](crmce-repos.md)
 ## Release Notes guide
 ### [Release Notes repo](rn-repo.md)
+### [Content workflow](rn-content-workflow.md)
 ### [Topic types](rn-topics.md)
 ### [Release Notes checklist](release-notes-checklist.md)
