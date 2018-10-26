@@ -1,7 +1,7 @@
 
 ---
-title: "Dos and donts in the Release Notes"
-ms.date: 10/29/2018
+title: "Dos and don'ts in the Release Notes"
+ms.date: 10/25/2018
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
