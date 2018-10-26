@@ -1,4 +1,11 @@
-
+---
+title: "Topic types and their requirements"
+ms.date: 10/25/2018
+ms.service: 
+ms.topic: "conceptual"
+author: "ReneeW-CPub"
+ms.author: "renwe"
+---
 
 ## Feature topics
 - Don’t update any metadata tags except title and description.
