@@ -6,6 +6,7 @@ ms.topic: "conceptual"
 author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
+# Topic types and their requirements
 
 ## Feature topics
 - Don’t update any metadata tags except title and description.
