@@ -14,7 +14,7 @@
 ### [Permission Levels](permission-levels.md)
 ### [Repos managed by crmce](crmce-repos.md)
 ## Release Notes guide
-### [Release Notes repo](rn-repo.md)
-### [Content workflow](rn-content-workflow.md)
-### [Topic types](rn-topics.md)
-### [Release Notes checklist](release-notes-checklist.md)
+### [Explore the Release Notes repo](rn-repo.md)
+### [Authoring process swimlane](rn-content-workflow.md)
+### [Topic types and their requirements](rn-topics.md)
+### [Checklist: Before your merge your PR](release-notes-checklist.md)
