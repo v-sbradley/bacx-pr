@@ -1,4 +1,12 @@
 
+---
+title: "Do's and don'ts in the Release Notes"
+ms.date: 10/29/2018
+ms.service: 
+ms.topic: "conceptual"
+author: "ReneeW-CPub"
+ms.author: "renwe"
+---
 
 # Do's and don'ts in the Release Notes
 
