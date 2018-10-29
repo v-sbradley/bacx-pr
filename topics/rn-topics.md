@@ -30,6 +30,7 @@ For example, see how Talent and PowerApps did their change history tables.
 - Include screenshots or an image to help users see the benefits, if a visual element can add interest.
 - Be as descriptive as you can. And go back when you know more to add more info. It's the number one piece of feedback we get from customers about the Release Notes. They want more details about your features. 
 - Once a feature ships, make sure to add the links to the shipped docs that went with it so users can get as much info as possible.
+- If this is a new feature, it should have the new feature label.
 - If you change a feature’s title, make the same change in these places:
   - the title tag of the topic for that feature 
   - the H1 of the same topic
@@ -39,15 +40,19 @@ For example, see how Talent and PowerApps did their change history tables.
   - the link (if any) from change-history to the feature topic
 - Ensure that the description tag follows the same guidelines as other topics do for SEO, etc.
 - Ensure that the body of the topic (everything after the H1) meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, screen shots have the div class for borders, etc.
+- Ensure that toc.md shows features in the same sequence as planned-features.md.
 
 If you are using the Flow/PA authoring tool, these are additional guidelines for you:
 - Don’t update any metadata tags except title and description.
+- If a feature’s release type is changed from GA to public preview, ensure that ”Public Preview” appears at the end of the H1 for that feature’s topic.
+- If a feature’s release type is changed from public preview to GA, ensure that ”Public Preview” doesn’t appear at the end of the H1 for that feature’s topic.
 
-## Summary of what's new topics 
+## Summary of what's new (planned-features.md) topics 
 
 Feature column:
 - Put the name of the feature
 - When possible, make the name a link to the topic about the feature
+- Ensure that the feature’s entry appears with other features of the same release type and date
 
 Release type column:
 - For features in public preview, use "Public Preview", not just "Preview". (We do not put private preview features in the Release Notes.)
@@ -67,12 +72,13 @@ Weekly release column:
 - Please note this applies only to some teams, such as Flow.
 
 
-## Change history topic
+## Change history (change-history.md) topic
 If a change is made to a published topic, make sure it's represented in the Change history topic.
 
 General guidelines:
 - See the comments at the top of the change-history.md file for a template for each type of table you might need. Use those templates so we are consistent within the topic. 
-Don’t create multiple entries for the same feature. For example, a feature may slip more than once, slip before being removed, etc. In those cases, just update the existing entry to the new date or move the entry to the table for removed features, etc. as appropriate.
+- Ensure that an entry is created in change-history.md, and follow the precedents in existing entries. (For example, link to the feature topic, and don’t include the year when you specify a date.)
+- Don’t create multiple entries for the same feature. For example, a feature may slip more than once, slip before being removed, etc. In those cases, just update the existing entry to the new date or move the entry to the table for removed features, etc. as appropriate.
 - Do not put private preview features in the Release Notes.
 
 Types of change tables:
