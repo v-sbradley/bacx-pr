@@ -18,8 +18,7 @@ Also check out these great examples of each type:
   - Cloud/online or on-premises table: [Summary of what's new in Finance and Operations](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features)
 
 - Change history: [Change history](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/change-history)
-
-For example, see how Talent and PowerApps did their change history tables. 
+  For example, see how Talent and PowerApps did their change history tables. 
 
 - Overview: [Overview of Dynamics 365 for Finance and Operations October '18 release](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/)
 
