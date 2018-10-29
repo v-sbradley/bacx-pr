@@ -1,6 +1,6 @@
 ---
 title: "Explore the Release Notes repo"
-ms.date: 10/25/2018
+ms.date: 10/29/2018
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
@@ -18,7 +18,8 @@ The root of the [release notes repo](https://github.com/MicrosoftDocs/BusinessAp
 Each version folder (April19, October18, and April18) contains:
 - **toc.md**, which controls the left nav for all products in that release
 - **change-history.md**, which contains information about additions, deletions, and other changes in all products in that release
-- a folder for each product area
+	- **Note:** April19 does not have a change history topic yet. We don't need one until after it ships for the first time.
+- a folder for each product area 
 
 
 Each product-area folder contains:
