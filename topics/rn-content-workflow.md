@@ -18,5 +18,6 @@ PMs: A best practice is to create your own branch off of the working branch, and
 
 **Important:** If you use the Flow/PA tool to create your content, your steps will start in that tool, not in GitHub. 
 
- ![Authoring process](media/rn-add-change-feature.png)](media/rn-add-change-feature.png)
+ [![Authoring process](media/rn-add-change-feature.png)](media/rn-add-change-feature.png)
+ 
 
