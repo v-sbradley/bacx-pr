@@ -11,16 +11,16 @@ Here are general requirements for each type of topic we have in the Release Note
 
 Also check out these great examples of each type: 
 
-Feature: [Late Payment Prediction extension](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-business-central/late-payment-prediction)
+- Feature: [Late Payment Prediction extension](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-business-central/late-payment-prediction)
 
-Summary of what's new: 
-- Online-only table: [Summary of what's new for Dynamics 365 Omni-channel Engagement Hub](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/service/customer-service-omni-channel-release-notes/planned-features)
-- Cloud/online or on-premises table: [Summary of what's new in Finance and Operations](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features)
+- Summary of what's new: 
+  - Online-only table: [Summary of what's new for Dynamics 365 Omni-channel Engagement Hub](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/service/customer-service-omni-channel-release-notes/planned-features)
+  - Cloud/online or on-premises table: [Summary of what's new in Finance and Operations](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features)
 
-Change history: [Change history](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/change-history)
+- Change history: [Change history](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/change-history)
 For example, see how Talent and PowerApps did their change history tables. 
 
-Overview: [Overview of Dynamics 365 for Finance and Operations October '18 release](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/)
+- Overview: [Overview of Dynamics 365 for Finance and Operations October '18 release](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/)
 
 
 
