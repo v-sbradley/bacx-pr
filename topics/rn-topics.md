@@ -18,6 +18,7 @@ Also check out these great examples of each type:
   - Cloud/online or on-premises table: [Summary of what's new in Finance and Operations](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features)
 
 - Change history: [Change history](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/change-history)
+
 For example, see how Talent and PowerApps did their change history tables. 
 
 - Overview: [Overview of Dynamics 365 for Finance and Operations October '18 release](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/)
@@ -43,7 +44,8 @@ For example, see how Talent and PowerApps did their change history tables.
 - Ensure that toc.md shows features in the same sequence as planned-features.md.
 
 If you are using the Flow/PA authoring tool, these are additional guidelines for you:
-- Don’t update any metadata tags except title and description.
+- If you are the CP Owner, don’t update any metadata tags except title and description.
+PMs are the only one who can change other fields because only they can do so in the tool. Also the next two bullets might be moot (not sure; please check) because the tool takes care of them automatically.
 - If a feature’s release type is changed from GA to public preview, ensure that ”Public Preview” appears at the end of the H1 for that feature’s topic.
 - If a feature’s release type is changed from public preview to GA, ensure that ”Public Preview” doesn’t appear at the end of the H1 for that feature’s topic.
 
@@ -82,9 +84,9 @@ General guidelines:
 - Do not put private preview features in the Release Notes.
 
 Types of change tables:
-- Feature section changed
-- Feature added to Release Notes
 - Release date changed
+- Feature section changed
+- Features added
 - Features removed
 
 Feature column:
