@@ -18,8 +18,7 @@ Summary of what's new:
 - Cloud/online or on-premises table: [Summary of what's new in Finance and Operations](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features)
 
 Change history: [Change history](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/change-history)
-
-For example, see how Talent and PowerApps have done their change history tables. https://docs.microsoft.com/en-us/business-applications-release-notes/October18/service/customer-service-omni-channel-release-notes/planned-features)
+For example, see how Talent and PowerApps did their change history tables. 
 
 Overview: [Overview of Dynamics 365 for Finance and Operations October '18 release](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/)
 
@@ -27,8 +26,10 @@ Overview: [Overview of Dynamics 365 for Finance and Operations October '18 relea
 
 ## Feature topics
 
-
-
+- Start by saying the value proposition of the feature.
+- Include screenshots or an image to help users see the benefits, if a visual element can add interest.
+- Be as descriptive as you can. And go back when you know more to add more info. It's the number one piece of feedback we get from customers about the Release Notes. They want more details about your features. 
+- Once a feature ships, make sure to add the links to the shipped docs that went with it so users can get as much info as possible.
 - If you change a feature’s title, make the same change in these places:
   - the title tag of the topic for that feature 
   - the H1 of the same topic
