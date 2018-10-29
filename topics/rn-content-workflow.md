@@ -14,6 +14,8 @@ If you are not familiar with using GitHub, please first read the [Contributors G
 
 PMs: A best practice is to create your own branch off of the working branch, and then make all your changes to it for the feature or features you are working on. For example, if you update the description and target release date for a feature, you would create one branch and then make your changes to the feature's topic, the summary of what’s new topic, and change history topic all as part of one pull request (PR). 
 
+**Warning:** Once you merge a PR into master, it can go live at any time. Never merge into master until you are ready for information about your feature to be public knowledge. 
+
 **Important:** If you use the Flow/PA tool to create your content, your steps will start in that tool, not in GitHub. 
 
  ![](media/rn-add-change-feature.png)
