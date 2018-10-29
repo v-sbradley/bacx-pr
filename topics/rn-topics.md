@@ -10,7 +10,7 @@ ms.author: "renwe"
 Here are general requirements for each type of topic we have in the Release Notes. 
 
 Also check out these great examples of each type: 
-Feature: 
+Feature: [Late Payment Prediction extension](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-business-central/late-payment-prediction)
 
 Summary of what's new: 
 - Online-only table: [Summary of what's new for Dynamics 365 Omni-channel Engagement Hub](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/service/customer-service-omni-channel-release-notes/planned-features)
