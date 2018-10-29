@@ -99,3 +99,16 @@ Date column:
 
 ## Overview topics
 It's important to write a strong overview that outlines all the investments for the product area you are covering, and to group those investments by themes. More guidance coming soon...
+
+## Topic metadata
+
+- Author- PM’s GitHub user name
+- ms.author - PM alias
+- ms.reviewer – CP owner alias
+- ms.manager – not needed. Don’t use.
+- Description – Write a good description loaded with keywords. Minimum 75, max 300 characters including spaces. Per APEX, displays on the search page inline with the article date stamp. If your intro para describes your article's intent, you can use it here edited for length.
+- Page title - 
+- Topic type – For almost all topics, use “article”. Exceptions: Overviews use “overview” and planned-features uses “summary”. 
+- ms.date – 01/21/2019 (always use mm/dd/yyyy format)
+- ms.service – business-applications
+
