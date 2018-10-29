@@ -45,9 +45,6 @@ For example, see how Talent and PowerApps did their change history tables.
 
 If you are using the Flow/PA authoring tool, these are additional guidelines for you:
 - If you are the CP Owner, don’t update any metadata tags except title and description.
-PMs are the only one who can change other fields because only they can do so in the tool. Also the next two bullets might be moot (not sure; please check) because the tool takes care of them automatically.
-- If a feature’s release type is changed from GA to public preview, ensure that ”Public Preview” appears at the end of the H1 for that feature’s topic.
-- If a feature’s release type is changed from public preview to GA, ensure that ”Public Preview” doesn’t appear at the end of the H1 for that feature’s topic.
 
 ## Summary of what's new (planned-features.md) topics 
 
@@ -68,6 +65,9 @@ Cloud/Online or on-premises column:
 Date column:
 - For before a feature ships, use the month and year the feature is planned to ship. Example: April 2019
 - For once the features has shipped, use the day, month, and year. Example: April 12, 2019
+- For features that are not scheduled, put "Undetermined"
+- For features that are both not scheduled and might ship after the current release notes timeframe, put "Undetermined (may release after ". For example: Undetermined (may release after March 2019)
+
 
 Weekly release column:
 - Use the same version information that customers are being given and make it a link to the corresponding weekly release notes topic.
@@ -84,20 +84,21 @@ General guidelines:
 - Do not put private preview features in the Release Notes.
 
 Types of change tables:
-- Release date changed
-- Feature section changed
 - Features added
+- Release date changed
+- Feature description changed
+- Feature section changed
 - Features removed
 
 Feature column:
 - Put the name of the feature
 - When possible, make the name a link to the topic about the feature
 
-Date column:
-- Put the month and day 
-- For features that are not scheduled, put "Undetermined"
-- For features that are both not scheduled and might ship after the current release notes timeframe, put "Undetermined (may release after <month year>". For example: Undetermined (may release after March 2019)
-  
+Change and Additional info columns:
+- Put a concise description that describes the nature of the change and uses the same wording as other Change and Additional info columns.
+
+Date changed, Date added, and Date removed columns:
+- Put the month and day you made the change in the Release Notes. Example: September 24  
 
 ## Overview topics
 It's important to write a strong overview that outlines all the investments for the product area you are covering, and to group those investments by themes. More guidance coming soon...
