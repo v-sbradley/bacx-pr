@@ -17,4 +17,4 @@
 ### [Explore the Release Notes repo](rn-repo.md)
 ### [Authoring process swimlane](rn-content-workflow.md)
 ### [Topic types and their requirements](rn-topics.md)
-### [Checklist: Before your merge your PR](release-notes-checklist.md)
+### [Checklist: Before your merge your PR](rn-checklist.md)
