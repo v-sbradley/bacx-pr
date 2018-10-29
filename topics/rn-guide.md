@@ -1,3 +1,5 @@
+# Release Notes guide
+
 This guide provides information about how PMs, Writers, Content Strategists, and other members from the feature team can contribute to our official Release Notes content on [docs.microsoft.com](https://docs.microsoft.com/en-us/business-applications-release-notes/). 
 For all basic information about using GitHub to create content with our team, refer to the main [Contributors Guide](contributors-guide.md). Use this guide for specifics about the Release Notes project, including [differences](rn-dos-donts.md) from the Contributors Guide. 
 
