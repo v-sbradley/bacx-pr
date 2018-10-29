@@ -15,7 +15,7 @@
 ### [Repos managed by crmce](crmce-repos.md)
 ## [Release Notes guide](rn-guide.md)
 ### [Explore the Release Notes repo](rn-repo.md)
-### [Authoring process swimlane](rn-content-workflow.md)
+### [Authoring process](rn-content-workflow.md)
 ### [Topic types and their requirements](rn-topics.md)
 ### [Do's and don'ts in the Release Notes](rn-dos-donts.md)
 ### [Checklist: Before your merge your PR](rn-checklist.md)
