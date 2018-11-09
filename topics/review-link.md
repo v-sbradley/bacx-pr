@@ -28,4 +28,5 @@ Also check your Outlook rules to make sure the messages aren't beening blocked.
 
 ### Build one from scratch
 
-> ![NOTE] It can be helpful to bookmark a review link or two for future reference.
+> [!NOTE]
+> It can be helpful to bookmark a review link or two for future reference.
