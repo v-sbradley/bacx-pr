@@ -54,9 +54,11 @@ Much of the time, you can use your browser to navigate your way to your review c
   > [!NOTE]
   > You can also edit the URL. Set the **branch** parameter to your branch name.
 
+  4. If necessary, use the TOC to navigate to your topic.
+
 ## Creating review links
 
-You can also build review links. The easiest method is to navigate to a link in the same set of documentation, use the 
+You can also build review links. 
 
 > [!NOTE]
 > It can be helpful to bookmark a review link or two for future reference.
