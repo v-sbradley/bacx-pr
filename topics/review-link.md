@@ -6,7 +6,7 @@ There are multiple methods for finding, or creating, review links for content in
 
 ### OPS build email
 
-Each time you commit a change, the build system ("OPS") generates a build. When that build completes (or fails), the OPS system sends a status email message. The subject line for these messages will be **[Succeeded With Warning] Open Publishing Build Service - Publish**, or similar. The text in the brackets can be "Succeeded", "Succeeded With Warning", or "Failed". These messages contain review links for pages that were successuflly built.
+Each time you commit a change, the build system ("OPS") generates a build. When that build completes (or fails), the OPS system sends a status email message. The subject line for these messages will be **[Succeeded With Warning] Open Publishing Build Service - Publish**, or similar. The text in the brackets can be "Succeeded", "Succeeded With Warning", or "Failed". These messages contain review links for pages that were successfully built.
 
 > [!div class="mx-imgBorder"]
 > ![Review links in build status email](media/review-email.png)
