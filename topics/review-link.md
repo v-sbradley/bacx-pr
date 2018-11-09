@@ -2,7 +2,7 @@
 
 There are multiple methods for finding, or creating, review links for content in your branches.
 
-## Finding reivew links
+## Finding review links
 
 ### OPS build email
 
