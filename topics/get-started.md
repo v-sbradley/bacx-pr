@@ -23,7 +23,8 @@ two** steps again. Also, this is just a one-time setup.
 1.  [Create a GitHub account](https://github.com/join) using your
     **\@Microsoft.com** email with 2-Factor Auth enabled.  
     If you already have a GitHub account, ensure that you change/set the primary
-    email ID as your **\@Microsoft.com** email.
+    email ID as your **\@Microsoft.com** email.<br/>
+    You must ensure that your GitHub profile info adheres to the profile requirements listed in the next section. 
 
 2.  Join the **MicrosoftDocs** org:
     <https://repos.opensource.microsoft.com/MicrosoftDocs>
