@@ -4,7 +4,7 @@ author: buck1ey
 
 # Review links
 
-There are multiple methods for finding review links to content in your branches.
+There are multiple ways to find review links to content in your branches.
 
 Each time you commit a change, the build system ("OPS") generates a build, and provides review links. You can find these in build status emails, or on the OPS build portal. You can also navigate between branches on the review site to find your content.
 
