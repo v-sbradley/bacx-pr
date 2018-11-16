@@ -43,7 +43,7 @@ receive two-factor authentication codes. Your recovery codes are available here:
 As a Microsoft employee, you *must* clearly identify yourself as one. Set up your GitHub profile as follows:
 - **Profile picture**: A picture of you (required).
 - **Name**: Your first and last name (required).
-- **Email**: Your Microsoft email address (optional).
+- **Public email**: Your Microsoft email address (optional).
 - **Company**: "Microsoft Corporation" or "@Microsoft" (required).
 - **Location**: Your location (optional).
 
