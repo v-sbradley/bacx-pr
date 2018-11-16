@@ -46,7 +46,8 @@ As a Microsoft employee, you *must* clearly identify yourself as one. Set up you
 - **Company**: "Microsoft Corporation" or @Microsoft (required).
 - **Location**: Your location (optional).
 
-You can update your profile by visiting here: <https://github.com/settings/profile>
+You can update your GitHub profile info here: <https://github.com/settings/profile>
+
 ## Our repos
 
 These are the repos where we host our content:
