@@ -43,7 +43,7 @@ As a Microsoft employee, you *must* clearly identify yourself as one. Set up you
 - **Profile picture**: A picture of you (required).
 - **Name**: Your first and last name (required).
 - **Email**: Your Microsoft email address (optional).
-- **Company**: "Microsoft Corporation" or @Microsoft (required).
+- **Company**: "Microsoft Corporation" or "@Microsoft" (required).
 - **Location**: Your location (optional).
 
 You can update your GitHub profile info here: <https://github.com/settings/profile>
