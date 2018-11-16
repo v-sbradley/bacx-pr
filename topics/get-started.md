@@ -14,6 +14,8 @@ Our content is hosted on GitHub. Complete the following steps to get started
 with contributing or editing content in our docs repos on
 GitHub.
 
+## Create GitHub account and join our org
+
 > [!IMPORTANT]  
 > Folks who already contribute content to our repos don’t have to perform the **first
 two** steps again. Also, this is just a one-time setup.
@@ -35,6 +37,16 @@ access your account in the event you lose access to your device and cannot
 receive two-factor authentication codes. Your recovery codes are available here:
 <https://github.com/settings/auth/recovery-codes>
 
+## GitHub profile requirements
+
+As a Microsoft employee, you *must* clearly identify yourself as one. Set up your GitHub profile as follows:
+- **Profile picture**: A picture of you (required).
+- **Name**: Your first and last name (required).
+- **Email**: Your Microsoft email address (optional).
+- **Company**: "Microsoft Corporation" or @Microsoft (required).
+- **Location**: Your location (optional).
+
+You can update your profile by visiting here: <https://github.com/settings/profile>
 ## Our repos
 
 These are the repos where we host our content:
