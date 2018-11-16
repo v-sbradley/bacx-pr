@@ -11,7 +11,8 @@
 ### [Public pull-request contribution guide](public-pr-contribution-guide.md)
 #### [Guide for Customer-Engagement repository](public-pr-contribution-guide-ce.md)
 ## GitHub Reference
-### [Permission Levels](permission-levels.md)
+### [Review links](review-links.md)
+### [Permission levels](permission-levels.md)
 ### [Repos managed by crmce](crmce-repos.md)
 ## [Release Notes guide](rn-guide.md)
 ### [Explore the Release Notes repo](rn-repo.md)
