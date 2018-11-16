@@ -9,7 +9,7 @@ There are multiple methods for finding, or creating, review links for content in
 Each time you commit a change, the build system ("OPS") generates a build. When that build completes (or fails), the OPS system sends a status email message. The subject line for these messages will be similar to **[Succeeded With Warning] Open Publishing Build Service - Publish**. The text in the brackets can be "Succeeded", "Succeeded With Warning", or "Failed". These messages contain review links for pages that were successfully built.
 
  > [!div class="mx-imgBorder"]
- > ![Review links in build status email](media/de3b8b59dbfb5a1f1d78525a5b022c66.png "Review links in build status email")
+ > ![Review links in build status email](media/review-email.png "Review links in build status email")
 
 Click **View** to navigate to a review build of a particular page. To find links for all topics included in a build, click **Open Publishing Publish Report** near the end of the build status email.
 
@@ -40,6 +40,9 @@ The OPS build portal gives an overview of OPS builds. To see the status of your 
 
  6. Scroll down for review links. You can also click **Report** to see the build report.
 
+ > [!div class="mx-imgBorder"]
+ > ![Review links on OPS site](media/build-url.png "Review links on OPS site")
+
 ## Navigating the review site
 
 Most of the time, you can use your browser to navigate to your review content.
@@ -51,7 +54,7 @@ Most of the time, you can use your browser to navigate to your review content.
  3. Use the branch dropdown to select your branch.
 
  >[!div class="mx-imgBorder"]
- >![Branch dropdown](media/ea0a88d77cc4a9f4346e2939aa5514ae.gif "Branch dropdown")
+ >![Branch dropdown](media/branch-dropdown.gif "Branch dropdown")
 
  > [!NOTE]
  > You can also edit the URL. Set the **branch=** parameter to your branch name.
