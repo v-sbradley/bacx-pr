@@ -1,12 +1,18 @@
+---
+author: buck1ey
+---
+
 # Review links
 
 There are multiple methods for finding, or creating, review links for content in your branches.
 
 ## Finding review links
 
+Each time you commit a change, the build system ("OPS") generates a build, and provides review links. You can find these in build status emails, or on the OPS build portal. You can also navigate the review site to find your built content.
+
 ### OPS build email
 
-Each time you commit a change, the build system ("OPS") generates a build. When that build completes (or fails), the OPS system sends a status email message. The subject line for these messages will be similar to **[Succeeded With Warning] Open Publishing Build Service - Publish**. The text in the brackets can be "Succeeded", "Succeeded With Warning", or "Failed". These messages contain review links for pages that were successfully built.
+ When a build completes (or fails), the OPS system sends a status email message. The subject line for these messages will be similar to **[Succeeded With Warning] Open Publishing Build Service - Publish**. The text in the brackets can be "Succeeded", "Succeeded With Warning", or "Failed". These messages contain review links for pages that were successfully built.
 
  > [!div class="mx-imgBorder"]
  > ![Review links in build status email](media/review-email.png "Review links in build status email")
