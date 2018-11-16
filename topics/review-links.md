@@ -4,13 +4,11 @@ author: buck1ey
 
 # Review links
 
-There are multiple methods for finding, or creating, review links for content in your branches.
+There are multiple methods for finding review links to content in your branches.
 
-## Finding review links
+Each time you commit a change, the build system ("OPS") generates a build, and provides review links. You can find these in build status emails, or on the OPS build portal. You can also navigate between branches on the review site to find your content.
 
-Each time you commit a change, the build system ("OPS") generates a build, and provides review links. You can find these in build status emails, or on the OPS build portal. You can also navigate the review site to find your built content.
-
-### OPS build email
+## OPS build email
 
  When a build completes (or fails), the OPS system sends a status email message. The subject line for these messages will be similar to **[Succeeded With Warning] Open Publishing Build Service - Publish**. The text in the brackets can be "Succeeded", "Succeeded With Warning", or "Failed". These messages contain review links for pages that were successfully built.
 
@@ -27,7 +25,7 @@ If you aren't receiving build status emails, check your GitHub notification sett
 
 Also check your Outlook rules to make sure the messages aren't being blocked.
 
-### OPS build portal
+## OPS build portal
 
 The OPS build portal gives an overview of OPS builds. To see the status of your build, and access review links:
 
@@ -67,9 +65,3 @@ Most of the time, you can use your browser to navigate to your review content.
 
  4.  If necessary, use the TOC to navigate to your topic.
 
-## Creating review links
-
-You can also create review links.
-
- > [!NOTE]
- > It can be helpful to bookmark a review link or two for future reference.
