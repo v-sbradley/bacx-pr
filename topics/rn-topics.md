@@ -1,6 +1,6 @@
 ---
 title: "Topic types and their requirements"
-ms.date: 10/29/2018
+ms.date: 01/21/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
@@ -39,11 +39,15 @@ Also check out these great examples of each type:
   - the link from planned-features.md to the feature topic
   - the link (if any) from change-history to the feature topic
 - Ensure that the description tag follows the same guidelines as other topics do for SEO, etc.
-- Ensure that the body of the topic (everything after the H1) meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, screen shots have the div class for borders, etc.
+- Ensure that the body of the topic (everything after the H1) meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, etc.
 - Ensure that toc.md shows features in the same sequence as planned-features.md.
 
 If you are using the Flow/PA authoring tool, these are additional guidelines for you:
 - If you are the CP Owner, don’t update any metadata tags except title and description.
+
+> [!NOTE]
+> As of January 2019, we are not adding border tags to images in release notes only. This is because the tags result in a non-caption style and strip the alt-text in the PDF. This might be resolved at some point, but for now we should not add border tags. We will work around the tags already in release notes topics.
+
 
 ## Summary of what's new (planned-features.md) topics 
 
@@ -104,13 +108,14 @@ It's important to write a strong overview that outlines all the investments for 
 
 ## Topic metadata
 
-- Author- PM’s GitHub user name
+- author- PM’s GitHub user name
 - ms.author - PM alias
 - ms.reviewer – CP owner alias
 - ms.manager – not needed. Don’t use.
-- Description – Write a good description loaded with keywords. Minimum 75, max 300 characters including spaces. Per APEX, displays on the search page inline with the article date stamp. If your intro para describes your article's intent, you can use it here edited for length.
-- Page title - 
-- Topic type – For almost all topics, use “article”. Exceptions: Overviews use “overview” and planned-features uses “summary”. 
+- description – Write a good description loaded with keywords. Minimum 75, max 300 characters including spaces. Per APEX, displays on the search page inline with the article date stamp. If your intro para describes your article's intent, you can use it here edited for length.
+- title (page title) - This is the page title that will appear in search results and if a users hovers their mouse over the browser tab. This should be similar to the H1 heading in the topic, but not the same per SEO instructions. Goal is for page titles to be 59 char or less, including spaces. 
+- ms.type – For almost all topics, use the topic type “article”. Exceptions: overviews use “overview” and planned-features uses “summary”. 
 - ms.date – 01/21/2019 (always use mm/dd/yyyy format)
 - ms.service – business-applications
+- ms.assetid: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx (this is needed only for topics generated with the Flow/PA authoring tool, and not for topics authored directly in GitHub.)
 
