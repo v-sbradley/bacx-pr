@@ -4,7 +4,7 @@ BACX Servers are located in Advanta C / 1335. To find the room, follow these ste
 
 > 1. Go to the Galaga/Ms. PacMan machine near the kitchen.
 > 2. Walk down the hallway toward the library.
-> 3. Turn right at the library
+> 3. Turn right at the library.
 
 > [!div class="mx-imgBorder"] 
 > ![Step one](media/step-1.png "Step one")
