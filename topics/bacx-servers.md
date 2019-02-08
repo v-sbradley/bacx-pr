@@ -24,4 +24,4 @@ BACX Servers are located in Advanta C / 1335. To find the room, follow these ste
 ## Map to the server room
 
 > [!div class="mx-imgBorder"] 
-> ![Map to the server room](media/c-map.png "Map to the server room")
+> ![Map to the server room](media/c-map.gif "Map to the server room")
