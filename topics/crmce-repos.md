@@ -4,8 +4,8 @@ akey: avalue
 
 # Repos managed by BACX Content Engineering
 
-| Description                                        | GitHub URL                                                           | Content URL | Loc info |
-|----------------------------------------------------|----------------------------------------------------------------------|-------------|
+| Description | GitHub URL | Content URL | Loc info |
+|-------------|------------|-------------|----------|
 | AI - Private                                       | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                  | https://docs.microsoft.com/dynamics365/ai | Not all AI funded for Loc |
 | Common Data Model - Private                        | https://github.com/MicrosoftDocs/common-data-model-pr                | https://docs.microsoft.com/common-data-model | English only |
 | Common Data Model - Public                         | https://github.com/MicrosoftDocs/common-data-model-and-service       | https://docs.microsoft.com/common-data-model |   |
@@ -22,3 +22,13 @@ akey: avalue
 | PowerApps - Public                                 | https://github.com/MicrosoftDocs/powerapps-docs                      | https://docs.microsoft.com/powerapps | Shared Loc with APEX |
 | Power Platform - Private                           | https://github.com/MicrosoftDocs/power-platform-pr                   | https://docs.microsoft.com/power-platform | Not yet Loc'ed |
 | Release Notes - Private                            | https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes    | https://docs.microsoft.com/business-applications-release-notes | Loc by BAG IE CE |
+
+# BACX repos managed by other teams
+
+| Description | GitHub URL | Content URL | Loc info |
+|-------------|------------|-------------|----------|
+| Business Central - Private | https://github.com/MicrosoftDocs/dynamics365smb-docs-pr | https://docs.microsoft.com/en-us/dynamics365/business-central/index | |
+| Business Central - Public | https://github.com/MicrosoftDocs/dynamics365smb-docs | https://docs.microsoft.com/en-us/dynamics365/business-central/index | |
+| Finance and Operations - Private | https://github.com/MicrosoftDocs/Dynamics-365-Operations | https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops | |
+| Finance and Operations - Public | https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public | https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops | |
+
