@@ -22,6 +22,8 @@ Follow this process for deleting a file.
    > [!NOTE]
    > These changes can be pushed live at any time. They will effectively hide the removed content from users. Actually deleting/renaming the topic needs to be timed with localization.
  -	Writer/Editor opens TFS item, using [this template](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub.ContentEngineering/_workitems/create/Task?templateId=5f40a615-c903-4905-9240-2c720bd56075&ownerId=b9f83a31-db17-49e3-848b-c891c5b1e1c1), for CE listing topics to delete, and redirection target for each deleted topic
+   > [!NOTE]
+   > If you don't have access to the OneCRM TFS instance, go to [http://myaccess](http://myaccess) and request access to either *CRM FTE Dev/Test Source Read-Write* (for FTEs), or *CRM Vendor Source* (for vendors).
  -	CE coordinates timing with localization
  -	CE deletes topic(s), and implements redirect(s) in a working branch
  -	CE opens PR from working branch to "master", adds Writer/Editor as reviewer

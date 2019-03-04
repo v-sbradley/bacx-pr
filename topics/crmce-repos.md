@@ -11,6 +11,7 @@ akey: avalue
 | Common Data Model - Public                         | https://github.com/MicrosoftDocs/common-data-model-and-service       | https://docs.microsoft.com/common-data-model |   |
 | Customer Engagement - Private                      | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr | https://docs.microsoft.com/dynamics365/customer-engagement | Loc by BAG IE CE |
 | Customer Engagement - Public                       | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement    | https://docs.microsoft.com/dynamics365/customer-engagement | Feedback English only |
+| Dynamics GP - Public                             | https://github.com/MicrosoftDocs/msftdynamicsgpdocs    | https://docs.microsoft.com/en-us/dynamics-gp |  |
 | Flow - Private                                     | https://github.com/MicrosoftDocs/flow-docs-pr                        | https://docs.microsoft.com/flow | Loc by APEX |
 | Flow - Public                                      | https://github.com/MicrosoftDocs/flow-docs                           | https://docs.microsoft.com/flow | Loc by APEX |
 | Forms Pro - Private                                | https://github.com/MicrosoftDocs/forms-pro-pr                        | https://review.docs.microsoft.com/en-us/forms-pro |  |
