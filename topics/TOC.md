@@ -22,4 +22,4 @@
 ### [Style tips for release notes](style-tips.md)
 ### [Checklist: Before your merge your PR](rn-checklist.md)
 ## [Editorial guide](editor-guide.md)
-##[Content Engineering requests](content-engineering-requests.md)
+## [Content Engineering requests](content-engineering-requests.md)
