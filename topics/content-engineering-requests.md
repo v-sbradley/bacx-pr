@@ -28,5 +28,5 @@ Please use the following VSTS task templates to raise a content engineering requ
 |[Content Reporting](https://dynamicscrm.visualstudio.com/OneCRM/_workitems/create/Task?templateId=e86a6606-c215-4e13-9a59-3dc500b927ff&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)|Use this template to create a request for content reports like metadata, tokens and others. Please provide the required info in the task description.|*Repository/Docset\*, Report Type (Metadata, Tokens, Others)\*, Details\**|
 |[New Repository/Docset Request](https://dynamicscrm.visualstudio.com/OneCRM/_workitems/create/Task?templateId=0be2842b-9457-43a2-b1ed-677cf5c96329&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)|Use this template to create a request for commissioning a new repository/docset. Please provide the required details in the task description.|*New Repository/Docset\*, Docset Folder\*, URL structure (ex- https://docs.microsoft.com/<product\>)\*, Target Go Live Date\*, Details*|
 
-> [!NOTE]
->To request access for VSTS, please contact [crmce](mailto:crmce@microsoft.com).
+   > [!NOTE]
+   > If you don't have access to the OneCRM TFS instance, go to [http://myaccess](http://myaccess) and request access to either *CRM FTE Dev/Test Source Read-Write* (for FTEs), or *CRM Vendor Source* (for vendors).
