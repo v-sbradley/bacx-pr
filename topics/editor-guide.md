@@ -55,7 +55,7 @@ Copy editors edit for:
 * Adherence to [Microsoft Writing Style Guide](https://worldready.cloudapp.net/Styleguide/Read?id=2700), [Dynamics 365 Writing Toolkit](https://microsoft.sharepoint.com/teams/DynDoc/AXContentResources/SitePages/Create%20new%20content.aspx), [Cloud Style Guide](https://worldready.cloudapp.net/StyleGuide/Read?id=2696), and (coming soon) Dynamics 365 Style Guide.
 * Correct formatting of text elements. Follow guidelines in the [BACX contributors guide](https://review.docs.microsoft.com/en-us/bacx/contributors-guide?branch=master). 
 * Appropriate terminology and word choice. Style guide word lists and Term Studio are resources for this.
-* Compliance with Microsoft legal standards, such as use of fictitious names, product names, and trademarking. The [CELA website](https://microsoft.sharepoint.com/sites/lcaweb/home) is a resource for this. 
+* Compliance with Microsoft legal standards, such as use of fictitious names, product names, and trademarking. The [CELA website](https://microsoft.sharepoint.com/sites/lcaweb/home) is a resource for this. Also see [Fictitious names](fictitious-names.md). 
 * Basic readability. If a sentence is not understandable, flag it for the CP person to revise (for example, noun stacks). Please note where there is “word salad”. But you don’t need to question whether tech terms are correct. 
 
 ### Dev edits
