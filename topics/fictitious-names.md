@@ -45,7 +45,7 @@ Here are the approved names for FY19.  
 
 Tracking notes: Marina Hogan-Maguire approved them on 7/12/2018.
 
-**Femaale names**
+**Female names**
 
 | **First Name**  | **Last Name**  | **Gender**  |
 |-----------------|----------------|-------------|
