@@ -15,7 +15,7 @@ people and places in order to provide a good scenario. However, at Microsoft we
 can't use the names of real people or places. Instead, we use what is called
 fictitious content. There are many types of fictitious content: 
 
--   People names (scroll down on this page to the approved names) 
+-   People names (scroll down on this page to the [approved fictitious names](#approved-fictitious-names)) 
 
 -   Company names 
 
@@ -43,7 +43,9 @@ BACX CE Editors (crmed) to help you. *There are more steps beyond just generatin
 
 Here are the approved names for FY19.  
 
-Tracking notes: Marina Hogan-Maguire approved them on 7/12/2018.  
+Tracking notes: Marina Hogan-Maguire approved them on 7/12/2018.
+
+**Femaale names**
 
 | **First Name**  | **Last Name**  | **Gender**  |
 |-----------------|----------------|-------------|
@@ -68,8 +70,9 @@ Tracking notes: Marina Hogan-Maguire approved them on 7/12/2018.  
 | Gilda           | Moss           | Female      |
 
  
+**Male names**
 
-| **​First Name**  | **Last Name**  | **Gender**  |
+| **First Name**  | **Last Name**  | **Gender**  |
 |-----------------|----------------|-------------|
 | Samuel          | Barba          | Male        |
 | Bert            | Hair           | Male        |
