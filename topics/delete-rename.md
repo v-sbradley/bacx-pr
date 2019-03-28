@@ -12,9 +12,9 @@ manager: "renwe"
 
 Deleting or renaming a topic file in GitHub will cause any existing links to the topic to error on docs.microsoft.com. To give customers a better experience, we can put redirections in place.
 
-There are also localization considerations with deletions. If the deleting isn't coordinated correctly, the localization handback can fail.
+There are also localization considerations with deletions and renames. If the deleting or renaming isn't coordinated correctly, the localization handback can fail.
 
-Follow this process for deleting a file.
+Follow this process for deleting or renaming a file.
 
  1.  Writer/Editor updates TOC, planned features, change history, and any other topics referencing the removed content. They then coordinate the appropriate reviews and push the changes to "master."
 These changes can be pushed live at any time. They will effectively hide the removed content from users. Actually deleting/renaming the topic needs to be timed with localization.
