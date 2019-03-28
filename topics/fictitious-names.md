@@ -39,11 +39,13 @@ names, URLs, email and physical addresses, and phone numbers for you to use:
 > If you need more people names or different people names, please contact
 BACX CE Editors (crmed) to help you. *There are more steps beyond just generating names with the tool before they are considered approved*.
 
-In addition to the lists below, you can also use the sample data that ships with Common Data Service.
 
 ## Approved fictitious names
 
-Here are the approved names for FY19.  
+Here are the approved names for FY19. 
+
+> [!IMPORTANT]
+> In addition to the approved names below, you can also use the names in the sample data that ships with Common Data Service.
 
 Tracking notes: Marina Hogan-Maguire approved them on 7/12/2018.
 
