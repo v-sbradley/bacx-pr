@@ -11,10 +11,9 @@ manager: "annbe"
 # Legacy: Fork our repo
 
 > [!IMPORTANT]
-> You fork a repo only if you don’t have *write* access to the
-repo. Now that we are enabling internal contributors and PMs with write access
-to our repos (see the earlier section about working directly in our repo), there
-is no need for you to fork our repos.<br/> **Benefits of working directly in our repo over forking**: You don't have to create a pull request to view you changes on the review site on docs. Committing a change in your branch (and pushing to server in case your have cloned the repo) provides you with a review link on docs where you can view your changes before creating a pull request to publish live!<br/>[Work directly in our repos](work-repos.md) instead!
+> - This is an old/legacy process and should not be used anymore. Because we are enabling internal contributors and PMs with write access to our repos (see the earlier section about working directly in our repo), *there
+is no need for you to fork our repos*.
+> - **Benefits of working directly in our repo over forking**: You don't have to create a pull request to view you changes on the review site on docs. Committing a change in your branch (and pushing to server in case your have cloned the repo) provides you with a review link on docs where you can view your changes before creating a pull request to master, So, you must create branches and [work directly in our repos](work-repos.md) instead!
 
 ## Prerequisites
 
