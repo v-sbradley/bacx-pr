@@ -39,7 +39,7 @@ You must always create a branch before you start making changes to docs.
 
     ![](media/create-branch-02.png)
 
-**Note**: If you haven't created or updated your branch in a few days, avoid merge conflicts by pulling in recent changes from **master** *before* you make any changes. To pull changes from **master** into your branch, create and merge a PR in which the base branch (on the left) is set to your branch and the head branch for comparison (on the right) is set to **master**.
+**Note**: If you haven't updated your existing branch in a few days, avoid merge conflicts by pulling in recent changes from **master** *before* you make any changes. To pull changes from **master** into your branch, create and merge a PR in which the base branch (on the left) is set to your branch and the head branch for comparison (on the right) is set to **master**.
 
 ## Update multiple files
 
