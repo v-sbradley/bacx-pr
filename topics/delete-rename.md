@@ -15,7 +15,9 @@ Deleting or renaming a topic file in GitHub will cause any existing links to the
 There are also localization considerations with deletions and renames. If the deleting or renaming isn't coordinated correctly, the localization handback can fail.
 
 > [!NOTE]
-> We have introduced a new validation check in GitHub for deleted/renamed files for Pull-Requests targeting master branch. This validation check will run along with other build checks by OPS when a pull-request is created. Once the check is finished validating, it reports back the deleted files (if any) as a comment in the pull-request similar to build comments. If any deleted file is reported, if deleted files are reported by the new validation check for pull-request, please add back the deleted files and follow the listed steps to mitigate the pull-request build error for deleted/renamed files.
+> We have introduced a new validation check in GitHub for deleted/renamed files for Pull-Requests targeting master branch. This validation check will run along with other build checks by OPS when a pull-request is created. Once the check is finished validating, it reports back the deleted files (if any) as a comment in the pull-request similar to build comments. If any deleted files are reported by the new validation check for pull-request, please add back the deleted files and follow the listed steps to mitigate the pull-request build error for deleted/renamed files.
+
+> Currently the validation check is enabled only for the **Customer-Engagement** repository.
 
 Follow this process for deleting or renaming a file.
 
