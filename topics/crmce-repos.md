@@ -8,6 +8,7 @@ akey: avalue
 |-------------|------------|-------------|----------|
 | AI - Private                                       | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                  | https://docs.microsoft.com/dynamics365/ai | Not all AI funded for Loc |
 | AI - Public                                       | https://github.com/MicrosoftDocs/dynamics-365-ai                  | https://docs.microsoft.com/dynamics365/ai |   |
+| AI Builder - Private | https://github.com/MicrosoftDocs/ai-builder-pr | https://review.docs.microsoft.com/ai-builder |   |
 | Common Data Model - Private                        | https://github.com/MicrosoftDocs/common-data-model-pr                | https://docs.microsoft.com/common-data-model | English only |
 | Common Data Model - Public                         | https://github.com/MicrosoftDocs/common-data-model-and-service       | https://docs.microsoft.com/common-data-model |   |
 | Customer Engagement - Private                      | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr | https://docs.microsoft.com/dynamics365/customer-engagement | Loc by BAG IE CE |
