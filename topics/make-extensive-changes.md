@@ -39,7 +39,7 @@ You must always create a branch before you start making changes to docs.
 
     ![](media/create-branch-02.png)
 
-**Note**: If you haven't created or updated your branch in a few days, avoid merge conflicts by pulling in recent changes from **master** *before* you make any changes. To pull changes from **master** into your branch, create and merge a PR in which the base branch (on the left) is set to your branch and the head branch for comparison (on the right) is set to **master**.
+**Note**: If you haven't updated your existing branch in a few days, avoid merge conflicts by pulling in recent changes from **master** *before* you make any changes. To pull changes from **master** into your branch, create and merge a PR in which the base branch (on the left) is set to your branch and the head branch for comparison (on the right) is set to **master**.
 
 ## Update multiple files
 
@@ -139,28 +139,7 @@ review link on docs in your email with your recent changes that you can review.
 > Renaming a file will lead to broken links. Also, if the file is
 aready published live, a redirect must be set to route users from the original URL to the new URL. Please work with your CPub contact before renaming a file to understand the implications, and address them.
 
-1.  Browse to one of [our repos](get-started.md#our-repos)
-
-2.  Ensure that your branch is selected in the branch list before working on
-    your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).
-
-    ![](media/upload-images-01.png)
-
-3.  Browse to the file that you want to rename, and select the pencil icon to
-    edit the topic:  
-    
-
-    ![](media/rename-file-01.png)
-
-4.  Instead of editing the contents, change the file name at the top:  
-    
-
-    ![](media/rename-file-02.png)
-
-5.  Commit the change directly to your branch.
-
-6.  When your changes are ready to publish live, create a pull request as described
-    later in this topic.
+See [Deleting or renaming topic files](delete-rename.md)
 
 ## Delete a file
 
@@ -168,22 +147,7 @@ aready published live, a redirect must be set to route users from the original U
 > Deleting a file will lead to broken links from other topics or TOC. Also, if the file is
 aready published live, a redirect must be set to route users from the original URL to the new URL. Please work with your CPub contact before deleting a file to understand the implications, and address them.
 
-1.  Browse to one of [our repos](get-started.md#our-repos)
-
-2.  Ensure that your branch is selected in the branch list before working on
-    your changes. If you don’t already have a branch, first [create a branch](#create-a-branch).
-
-    ![](media/upload-images-01.png)
-
-3.  Browse to the file that you want to delete, and select the delete icon:  
-    
-
-    ![](media/delete-file-01.png)
-
-4.  Commit directly in your branch to delete the file.
-
-5.  When your changes are ready to ship, create a pull request as described
-    later in this topic.
+See [Deleting or renaming topic files](delete-rename.md)
 
 ## Finally: Create pull request to merge your changes and publish live
 
