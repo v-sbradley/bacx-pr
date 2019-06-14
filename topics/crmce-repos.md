@@ -20,7 +20,7 @@ akey: avalue
 | Fraud Protection - Private                         | https://github.com/MicrosoftDocs/dynamics-365-fraud-protection-pr    | https://docs.microsoft.com/en-us/dynamics365/fraud-protection | Not yet Loc'ed |
 | Hub Pages - Private                                | https://github.com/MicrosoftDocs/dynamics365hubpages                 | https://docs.microsoft.com/dynamics365 | Loc by BAG IE F&O |
 | Mixed Reality - Private                            | https://github.com/microsoftdocs/dynamics-365-mixed-reality-pr       | https://docs.microsoft.com/dynamics365/mixed-reality | Loc by BAG IE F&O |
-| Product Insights - Private                         | https://github.com/MicrosoftDocs/product-insights-pr                      | https://docs.microsoft.com/en-us/dynamics365/product360 |   |
+| Product Insights - Private                         | https://github.com/MicrosoftDocs/product-insights-pr                      | https://docs.microsoft.com/en-us/dynamics365/product360 | Not yet Loc'ed |
 | PowerApps - Private                                | https://github.com/MicrosoftDocs/powerapps-docs-pr                   | https://docs.microsoft.com/powerapps | Shared Loc with APEX |
 | PowerApps - Public                                 | https://github.com/MicrosoftDocs/powerapps-docs                      | https://docs.microsoft.com/powerapps | Shared Loc with APEX |
 | Power Platform - Private                           | https://github.com/MicrosoftDocs/power-platform-pr                   | https://docs.microsoft.com/power-platform | Not yet Loc'ed |
