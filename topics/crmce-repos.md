@@ -6,7 +6,7 @@ akey: avalue
 
 | Description | GitHub URL | Content URL | Loc info |
 |-------------|------------|-------------|----------|
-| AI - Private                                       | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                  | https://docs.microsoft.com/dynamics365/ai | Not all AI funded for Loc |
+| AI - Private                                       | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                  | https://docs.microsoft.com/dynamics365/ai |Loc'd by BAG IE team (all folders except Market Insights are in localization) |
 | AI - Public                                       | https://github.com/MicrosoftDocs/dynamics-365-ai                  | https://docs.microsoft.com/dynamics365/ai |   |
 | AI Builder - Private | https://github.com/MicrosoftDocs/ai-builder-pr | https://review.docs.microsoft.com/ai-builder | Not yet Loc'ed |
 | Common Data Model - Private                        | https://github.com/MicrosoftDocs/common-data-model-pr                | https://docs.microsoft.com/common-data-model | English only |
