@@ -15,7 +15,7 @@
 ### [Permission levels](permission-levels.md)
 ### [Repos managed by crmce](crmce-repos.md)
 ## [Release plans guide](rn-guide.md)
-### [Explore the Release Notes repo](rn-repo.md)
+### [Explore the release plans repos](rn-repo.md)
 ### [Authoring process](rn-content-workflow.md)
 ### [Topic types and their requirements](rn-topics.md)
 ### [Do's and don'ts in the release plans](rn-dos-donts.md)
