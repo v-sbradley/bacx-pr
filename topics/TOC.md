@@ -1,7 +1,3 @@
----
-author: ReneeW-CPub
----
-
 # [Business Applications Content Experience Team (BACX)](index.md)
 ## [Contributors Guide for docs](contributors-guide.md)
 ### [Get started](get-started.md)
