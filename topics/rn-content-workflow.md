@@ -10,7 +10,7 @@ ms.author: "renwe"
 
 Our wave 2 content is created and updated in the Release Planner tool and edited on GitHub. April '19 release notes are created, updated, and edited in GitHub. You'll need to be familiar with both.
 
-To create or update release plans, you should work in the [Release Planner tool](https://aka.ms/bagreleasenotes). 
+To create or update release plans, **PMs** should work in the [Release Planner tool](https://aka.ms/bagreleasenotes). 
 
 For guidance on using the tool, see these resources (available under Resources in the left navigation pane of the tool):
 - [BAG Release Planner App Guide](https://microsoft.sharepoint.com/:w:/t/ProjectBahnhof/EYBGZgE9Js5CioBE2LAIjSwBCgn_hvM9QtZ7gPimS85vkQ?rtime=RWW9laMl10g) 
