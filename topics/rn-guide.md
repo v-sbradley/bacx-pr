@@ -1,4 +1,4 @@
-# Release Plans guide
+# Release plans guide
 
 This guide provides information about how you can contribute to our official Release Plans content on [docs.microsoft.com](https://docs.microsoft.com/en-us/business-applications-release-notes/).
 
