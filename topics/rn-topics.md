@@ -7,84 +7,94 @@ author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
 # Topic types and their requirements
-Here are general requirements for each type of topic we have in the Release Notes. 
+Here are general requirements for each type of topic we have in the release plans. 
 
 Also check out these great examples of each type: 
 
-- Feature: [Late Payment Prediction extension](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-business-central/late-payment-prediction)
+- **Overview**: [Overview of Dynamics 365 for Marketing 2019 release wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-marketing/)
 
-- Summary of what's new: 
-  - Online-only table: [Summary of what's new in Microsoft Flow](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/microsoft-flow/planned-features)
-  - Cloud/online or on-premises table: [Summary of what's new in Finance and Operations](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features)
+- **Feature**: [Timeline wall filter improvements](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/microsoft-powerapps/timeline-wall-filter-improvements)
 
-- Change history: [Change history](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/change-history)
-  For example, see how Talent and PowerApps did their change history tables. 
+- **Summary of what's new**: [What's new and planned for Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/planned-features)
 
-- Overview: [Overview of Dynamics 365 for Finance and Operations October '18 release](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/)
+- **Change history**: [Power Platform change history](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/change-history)
 
+## Overview topics
+
+It's important to write a strong overview that outlines all the investments for the product area you are covering, and to group those investments by themes. 
 
 
 ## Feature topics
 
-- Start by saying the value proposition of the feature.
-- Include screenshots or an image to help users see the benefits, if a visual element can add interest.
-- Be as descriptive as you can. And go back when you know more to add more info. It's the number one piece of feedback we get from customers about the Release Notes. They want more details about your features. 
-- Once a feature ships, make sure to add the links to the shipped docs that went with it so users can get as much info as possible.
-- If this is a new feature, it should have the new feature label.
-- If you change a feature’s title, make the same change in these places:
-  - the title tag of the topic for that feature 
-  - the H1 of the same topic
-  - For features that will ship to public preview in the six-month window of the release, ensure that “(Public Preview)” appears at the end of the H1.
-  -  the link from toc.md to the feature topic
-  - the link from planned-features.md to the feature topic
-  - the link (if any) from change-history to the feature topic
-- Ensure that the description tag follows the same guidelines as other topics do for SEO, etc.
-- Ensure that the body of the topic (everything after the H1) meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, etc.
-- Ensure that toc.md shows features in the same sequence as planned-features.md.
+- In the business value section of the tool, describe the value of the feature to end users.
 
-If you are using the Flow/PA authoring tool, these are additional guidelines for you:
-- If you are the CP Owner, don’t update any metadata tags except title and description.
+- In the feature details section of the tool, be descriptive. Update this section if you get more info. It's the No. 1 piece of feedback we get from customers about the release plans: They want more details about your features. 
+
+- Use Markdown format.
+
+- Include screenshots or an image to help users see the benefits, if a visual element can add interest.
+
+- In the summary section of the tool, give a short description that differs from the feature title, keeping SEO in mind. 
+
+- Once a feature ships, make sure to add links to the shipped docs that went with it so users can get as much info as possible.
+
+<!-- editor note: Is the following still true? -->
+
+- If this is a new feature, it should have the new feature label.
+
+- Ensure that the body of the topic (everything after the H1) meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, etc.
+
+If you change a feature title in April '19 release notes, you also must make the same change in these places:
+- The title tag of the topic for that feature. 
+- The H1 of the same topic.
+- The link from toc.md to the feature topic.
+- The link from planned-features.md to the feature topic.
+- The link (if any) from change-history.md to the feature topic.
 
 > [!NOTE]
-> As of January 2019, we are not adding border tags to images in release notes only. This is because the tags result in a non-caption style and strip the alt-text in the PDF. This might be resolved at some point, but for now we should not add border tags. We will work around the tags already in release notes topics.
-
+> We no longer add border tags to images in the release plans. This is because the tags result in a non-caption style and strip the alt-text in the PDF. 
 
 ## Summary of what's new (planned-features.md) topics 
 
+For content developed in wave 2 or later, this page is generated by the Release Planner Tool. It includes the following:
+
 Feature column:
-- Put the name of the feature
-- When possible, make the name a link to the topic about the feature
-- Ensure that the feature’s entry appears with other features of the same release type and date
+- Lists the features.
+- Links to the topic about the feature.
+- Shows who the feature is enabled for.
+- Lists public preview month and year. 
+- Lists general availability month and year (or month-date-year if released).
+- Lists early access availability.
 
-Release type column:
-- For features in public preview, use "Public Preview", not just "Preview". (We do not put private preview features in the Release Notes.)
+Release dates:
+- Before a feature ships, we use the month and year the feature is planned to ship. Example: April 2019
+- Once the feature has shipped, we use the month, day, and year. Example: April 12, 2019
+- For features that are not scheduled, we use "Undetermined."
+- For features that are not scheduled and might ship after the current release plan timeframe, we use "Undetermined (may release after )". For example: Undetermined (may release after March 2019).
 
-Cloud/Online or on-premises column:
--Use either "Cloud" or "Online" in the column heading, depending on which word your product uses. 
+> [!NOTE]
+> We don't include private preview features in the release plans. 
+
+Some April '19 release notes include a Cloud/Online or on-premises column:
+- Use either "Cloud" or "Online" in the column heading, depending on which word your product uses. 
   - Cloud or on-premises
   - Online or on-premises
- -Values for the cells can be "Cloud," "Online", "On-premises", or "Both". Only use "Both" if online and on-premises are shipping at the same time.
-
-Date column:
-- For before a feature ships, use the month and year the feature is planned to ship. Example: April 2019
-- For once the features has shipped, use the day, month, and year. Example: April 12, 2019
-- For features that are not scheduled, put "Undetermined"
-- For features that are both not scheduled and might ship after the current release notes timeframe, put "Undetermined (may release after ". For example: Undetermined (may release after March 2019)
-
-
-Weekly release column:
-- Use the same version information that customers are being given and make it a link to the corresponding weekly release notes topic.
-- Please note this applies only to some teams, such as Flow.
+- Values for the cells can be "Cloud," "Online", "On-premises", or "Both". Only use "Both" if online and on-premises are shipping at the same time.
 
 
 ## Change history (change-history.md) topic
-If a change is made to a published topic, make sure it's represented in the Change history topic.
 
-General guidelines:
+For content developed in **wave 2 or later**, this page is generated by the Release Planner Tool. 
+
+If you are making changes to content in the **April '19** release notes, you will also need to update the April '19 change history. Follow these general guidelines:
+
 - See the comments at the top of the change-history.md file for a template for each type of table you might need. Use those templates so we are consistent within the topic. 
+
 - Ensure that an entry is created in change-history.md, and follow the precedents in existing entries. (For example, link to the feature topic, and don’t include the year when you specify a date.)
-- Don’t create multiple entries for the same feature. For example, a feature may slip more than once, slip before being removed, etc. In those cases, just update the existing entry to the new date or move the entry to the table for removed features, etc. as appropriate.
-- Do not put private preview features in the Release Notes.
+
+- Don’t create multiple entries for the same feature. For example, a feature may slip more than once, slip before being removed, etc. In those cases, just update the existing entry to the new date or move the entry to the table for removed features, etc., as appropriate.
+
+- Do not put private preview features in the release plans.
 
 Types of change tables:
 - Features added
@@ -94,28 +104,30 @@ Types of change tables:
 - Features removed
 
 Feature column:
-- Put the name of the feature
-- When possible, make the name a link to the topic about the feature
+- Enter the name of the feature
+- When possible, link the feature name to the feature topic
 
-Change and Additional info columns:
-- Put a concise description that describes the nature of the change and uses the same wording as other Change and Additional info columns.
+Feature description changed table:
+- Enter a concise description of the nature of the change and use the same wording as in other Feature description changed columns.
 
 Date changed, Date added, and Date removed columns:
-- Put the month and day you made the change in the Release Notes. Example: September 24  
+- Enter the month and day you made the change in the release plans. Example: September 24  
 
-## Overview topics
-It's important to write a strong overview that outlines all the investments for the product area you are covering, and to group those investments by themes. More guidance coming soon...
 
 ## Topic metadata
 
-- author- PM’s GitHub user name
+For content developed in **wave 2 or later**, the tool creates metadata based on your entries in the tool's fields. 
+
+If you are working on content in the **April '19** release notes, you might need to add to or update the topic metadata. Follow these guidelines:
+
+- author - PM’s GitHub user name
 - ms.author - PM alias
 - ms.reviewer – CP owner alias
 - ms.manager – not needed. Don’t use.
-- description – Write a good description loaded with keywords. Minimum 75, max 300 characters including spaces. Per APEX, displays on the search page inline with the article date stamp. If your intro para describes your article's intent, you can use it here edited for length.
-- title (page title) - This is the page title that will appear in search results and if a users hovers their mouse over the browser tab. This should be similar to the H1 heading in the topic, but not the same per SEO instructions. Goal is for page titles to be 59 char or less, including spaces. 
-- ms.type – For almost all topics, use the topic type “article”. Exceptions: overviews use “overview” and planned-features uses “summary”. 
+- description – Write a good description loaded with keywords. Minimum 75, max 300 characters including spaces. Per APEX, displays on the search page inline with the article date stamp. If your intro paragraph describes your article's intent, you can use it here edited for length.
+- title (page title) - This is the page title that will appear in search results and if a user hovers their mouse over the browser tab. This should be similar to the H1 heading in the topic, but not the same per SEO instructions. Goal is for page titles to be 59 char or less, including spaces. 
+- ms.type – For almost all topics, use the topic type “article”. Exceptions: overviews use “overview” and planned features use “summary”. 
 - ms.date – 01/21/2019 (always use mm/dd/yyyy format)
 - ms.service – business-applications
-- ms.assetid: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx (this is needed only for topics generated with the Flow/PA authoring tool, and not for topics authored directly in GitHub.)
+- ms.assetid: not needed for topics authored directly in GitHub.
 
