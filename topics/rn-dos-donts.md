@@ -1,6 +1,6 @@
 ---
 title: "Do's and don'ts in the release plans"
-ms.date: 01/21/2019
+ms.date: 08/21/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
