@@ -11,11 +11,11 @@ ms.author: "renwe"
 
 We currently use three repos for our release plans content:
 
-[dynamics365-releasenotes-pr](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr). For **Dynamics 365 wave 2** (October '19) release plans and later.
+- [dynamics365-releasenotes-pr](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr). For **Dynamics 365 wave 2** (October '19) release plans and later.
 
-[powerplatform-releasenotes-pr](https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr). For **Power Platform wave 2** (October '19) release plans and later.
+- [powerplatform-releasenotes-pr](https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr). For **Power Platform wave 2** (October '19) release plans and later.
 
-[BusinessApplication-ReleaseNotes](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes). For **April '19** release notes and earlier.
+- [BusinessApplication-ReleaseNotes](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes). For **April '19** release notes and earlier.
 
 Updated content is pushed from the Release Planner Tool to the two **wave 2** repos once a week, where it is edited, merged, and published. The team's editors manage this process.
 
