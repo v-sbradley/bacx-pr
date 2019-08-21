@@ -1,3 +1,4 @@
+
 # Release plans guide
 
 This guide provides information on how you can contribute to our official release plans content on [docs.microsoft.com](https://docs.microsoft.com/en-us/business-applications-release-notes/).
@@ -19,5 +20,3 @@ Here are links to our current and past release plans on docs.microsoft.com:
 - **[October '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/index)**: Updates are made directly in GitHub and published twice weekly. If you merge changes to master, they will be picked up with the next weekly publish on Docs. PDF no longer is being updated.
 
 - **[April '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April18/index)**: Updates are made directly in GitHub and published twice weekly. If you merge changes to master, they will be picked up with the next weekly publish on Docs. PDF no longer is being updated.
-
-
