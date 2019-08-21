@@ -24,6 +24,6 @@ We author some things differently in the release plans than in other docs. The d
 - Do put a blank line after a sentence introducing a list. This keeps the list from breaking in the PDF.
 - Don't add border tags to images ([!div class="mx-imgBorder"]). The tags result in a non-caption style and strip the alt-text from the PDF during the conversion process. 
 
-**(April '19 and earlier only)**
+**(April '19 and earlier only)**:
 - Do remember to put changes in the Change history (change-history.md) topic. See the comments in the topic for formatting you can copy and paste.
 - Do remember to update the TOC file when you add new topics.  
