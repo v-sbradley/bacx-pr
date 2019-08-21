@@ -6,12 +6,19 @@ ms.topic: "conceptual"
 author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
-# Checklist: Before you merge your PR
+# Checklist: Before you merge a PR
 
-Use this checklist to make all the necessary consistency changes to your Release Notes topics when you revise them or review a PR from a PM:
-- **If you want to remove or rename a topic, WAIT!!!!** Follow these instructions **only**: [Deleting or renaming topic files](delete-rename.md)
-- If you added or removed a topic, or renamed a topic, make sure that change is updated in the TOC.
-- If you change a release date, add or remove a feature, or change the details about a feature, make sure it's represented in the Change history topic.
-- Update the ms.date value.
+Merging PRs now falls primarily to the team's editors. 
+
+Editors or anyone else merging a PR should use this checklist to make sure all the necessary consistency changes to the release plan topics are complete:
+
+- If the PR removes or renames a topic (**April '19 or earlier**), make sure a redirect has been set up. Here are the instructions for doc owners on [Deleting or renaming topic files](delete-rename.md).
+
+- If the PR adds or removes a topic, or renames a topic, make sure that change is reflected in the TOC, change history, and planned features. 
+
+- If a topic's release date changes, make sure it's reflected in the change history.
+
+- Make sure the ms.date value is updated to reflect the date of the change.
+
 - Make sure the right authors are listed for ms.author, author, and ms.reviewer.
-- When the feature ships, add the ship date in the Date column on the Summary of what's new page, and add links to the published documentation for it in the feature description topic.  
+
