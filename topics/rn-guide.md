@@ -1,7 +1,7 @@
 
 # Release plans guide
 
-This guide provides information on how PMs, Writers, Content Strategists, Editors, and other members of the team can contribute to our official release plans content on [docs.microsoft.com](https://docs.microsoft.com/business-applications-release-notes/).
+This guide provides information on how PMs, writers, content strategists, editors, and other team members can contribute to our official release plans content on [docs.microsoft.com](https://docs.microsoft.com/business-applications-release-notes/).
 
 Use this guide for specifics about the release plans, including [differences](rn-dos-donts.md) from the Contributors Guide. 
 
@@ -10,9 +10,9 @@ With the **2019 release wave 2 plans**, we implemented the following changes:
 
 - Moved to new repos in GitHub.
 
-- Split the content into two parts: Dynamics 365 and Power Platform. This includes publishing two separate PDFs instead of one.  
+- Split the content into two parts: Dynamics 365 and Power Platform. This includes publishing two separate PDFs.  
 
-- Introduced the Release Planner Tool, which is where PMs put all the relevant feature information that is then pushed into GitHub and also used for the BAG product roadmap. 
+- Introduced the Release Planner Tool. PMs use this to input their feature information for the release plans. The information is pushed into GitHub and used for the BAG product roadmap. 
 
 For information on using the Release Planner Tool for **wave 2 and later** release plans, see the [BAG Release Planner App Guide](https://microsoft.sharepoint.com/:w:/t/ProjectBahnhof/EYBGZgE9Js5CioBE2LAIjSwBCgn_hvM9QtZ7gPimS85vkQ?rtime=wfKEAl4m10g).
 
