@@ -47,7 +47,7 @@ We don't use border tags with images ([!div class="mx-imgBorder"]) in release no
 
 ### Names in screenshots 
 
-Check your images for names of people, companies, or other PII. Any names must be from Microsoft-approved fictitious names lists. More information: [Fictitious names](fictitious-names.mc)
+Check your images for names of people, companies, or other PII. Any names must be from Microsoft-approved fictitious names lists. More information: [Fictitious names](fictitious-names.md)
 
 ### Alt text 
 
