@@ -30,7 +30,7 @@ With that in mind, here are some do's and don'ts for release plans:
 
 - Don't add border tags to images ([!div class="mx-imgBorder"]). The tags result in a non-caption style and strip the alt-text from the PDF during the conversion process. 
 
-**(April '19 and earlier only)**:
+**April '19 and earlier only**:
 - **Don't rename or remove topics that have been merged or published. If you want to remove or rename a topic, WAIT!!!!** Follow these instructions **only**: [Deleting or renaming topic files](delete-rename.md)
 
 - Do remember to put changes in the change history (change-history.md) topic. See the comments in the topic for formatting you can copy and paste.
