@@ -12,9 +12,9 @@ With the **2019 release wave 2 plans**, we implemented the following changes:
 
 - Split the content into two parts: Dynamics 365 and Power Platform. This includes publishing two separate PDFs.  
 
-- Introduced the Release Planner Tool. PMs use this to input their feature information for the release plans. The information is pushed into GitHub and used for the BAG product roadmap. 
+- Introduced the Release Planner tool. PMs use this to input their feature information for the release plans. The information is pushed into GitHub and used for the BAG product roadmap. 
 
-For information on using the Release Planner Tool for **wave 2 and later** release plans, see the [BAG Release Planner App Guide](https://microsoft.sharepoint.com/:w:/t/ProjectBahnhof/EYBGZgE9Js5CioBE2LAIjSwBCgn_hvM9QtZ7gPimS85vkQ?rtime=wfKEAl4m10g).
+For information about using the Release Planner tool for **wave 2 and later** release plans, see the [BAG Release Planner App Guide](https://microsoft.sharepoint.com/:w:/t/ProjectBahnhof/EYBGZgE9Js5CioBE2LAIjSwBCgn_hvM9QtZ7gPimS85vkQ?rtime=wfKEAl4m10g).
 
 For information about using GitHub to edit content with our team, refer to the main [Contributors Guide](contributors-guide.md). 
 
