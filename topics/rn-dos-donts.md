@@ -14,9 +14,9 @@ With that in mind, here are some do's and don'ts for release plans:
 
 <!--editors note: Is the following info about deleting/renaming still correct now that we're using the tool? -->
 
-- **Don't rename or remove topics that have been merged or published. If you want to remove or rename a topic, WAIT!!!!** Follow these instructions **only**: [Deleting or renaming topic files](delete-rename.md)
+- **If you revise a release plan title or remove a title from release plans in the tool, the tool will handle it when the GitHub PRs are created. ** Never manually rename or remove topics in GitHub. 
 
-- Don't use HTML formatting in tables. 
+- Don't use HTML formatting. It breaks the PDFs. 
 
 <!--editors note: check with Buckley to see if the following is still true. -->
 
@@ -31,6 +31,8 @@ With that in mind, here are some do's and don'ts for release plans:
 - Don't add border tags to images ([!div class="mx-imgBorder"]). The tags result in a non-caption style and strip the alt-text from the PDF during the conversion process. 
 
 **(April '19 and earlier only)**:
+- **Don't rename or remove topics that have been merged or published. If you want to remove or rename a topic, WAIT!!!!** Follow these instructions **only**: [Deleting or renaming topic files](delete-rename.md)
+
 - Do remember to put changes in the change history (change-history.md) topic. See the comments in the topic for formatting you can copy and paste.
 
 - Do remember to update the TOC file when you add or remove a topic.  
