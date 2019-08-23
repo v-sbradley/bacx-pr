@@ -20,7 +20,7 @@
 ### [Topic types and their requirements](rn-topics.md)
 ### [Do's and don'ts in the release plans](rn-dos-donts.md)
 ### [Style tips for release plans](style-tips.md)
-### [Checklist: Before your merge your PR](rn-checklist.md)
+### [Checklist: Before you merge a PR](rn-checklist.md)
 ## [Editorial guide](editor-guide.md)
 ## [Fictitious names](fictitious-names.md)
 ## [Content Engineering requests](content-engineering-requests.md)
