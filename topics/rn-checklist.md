@@ -1,6 +1,6 @@
 ---
 title: "Checklist: Before you merge your PR"
-ms.date: 10/29/2018
+ms.date: 08/23/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
