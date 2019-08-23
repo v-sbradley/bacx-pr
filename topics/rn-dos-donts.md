@@ -12,17 +12,11 @@ We author some things differently in the release plans than in other docs. The d
 
 With that in mind, here are some do's and don'ts for release plans:
 
-<!--editors note: Is the following info about deleting/renaming still correct now that we're using the tool? -->
-
-- **If you revise a release plan title or remove a title from release plans in the tool, the tool will handle it when the GitHub PRs are created. ** Never manually rename or remove topics in GitHub. 
+- Don't manually rename or delete topics in GitHub. If you revise a release plan title or remove a title from release plans in the Release Planner tool, the tool will handle it when the GitHub PRs are created. 
 
 - Don't use HTML formatting. It breaks the PDFs. 
 
-<!--editors note: check with Buckley to see if the following is still true. -->
-
-- Don't use bookmarks as links. In the PDF, they will not go to the correct place. 
-
-- Do remove the en-us/ from URLs used in topics; this is important for localization.
+- Do remove the **en-us/** from URLs used in topics; this is important for localization.
 
 - Don't use referential links for any links except within the current release plan version you are working in. For example, referential links to another version of the release plans will break in the PDF. 
 
