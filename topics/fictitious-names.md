@@ -32,7 +32,7 @@ names, URLs, email and physical addresses, and phone numbers for you to use:
 <https://microsoft.sharepoint.com/sites/lcaweb/home/copyrights-trademarks-and-patents/trademarks/fictitious-names> 
 
 > [!IMPORTANT]
-> Do not generate your own people names from this page on CELA web. BACX CE Editors have a pre-approved list of people names for you to use; see [Approved fictitious names](#approved-fictitious-names) section later in this topic. 
+> Do not generate your own people names from this page on CELA web. BACX CE Editors have a pre-approved list of people names for you to use; see the [Approved fictitious names](#approved-fictitious-names) section later in this topic. 
 > 
 > Always tell vendors or anyone you hire to create content or videos to use these approved names.
 > 
