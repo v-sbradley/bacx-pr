@@ -1,5 +1,11 @@
 ---
-akey: avalue
+title: "Repos managed by BACX Content Engineering"
+ms.date: 08/30/2018
+ms.service: 
+ms.topic: "conceptual"
+author: "buck1ey"
+ms.author: "buckg"
+manager: "renwe"
 ---
 
 # Repos managed by BACX Content Engineering
