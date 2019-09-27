@@ -55,15 +55,19 @@ These are the repos where we host our content:
 
 | **Product/Feature**              | **Repo URL**                                                           |
 |----------------------------------|------------------------------------------------------------------------|
+| Business Applications Release Notes   <https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes>    |
 |Common Data Model                 | https://github.com/MicrosoftDocs/common-data-model-pr                  |
 | Dynamics 365 AI                  | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                    |
 | Dynamics 365 Hub                 | https://github.com/MicrosoftDocs/dynamics365hubpages                   |
 | Dynamics 365 Customer Engagement | <https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr> |
+| Dynamics 365 Fraud Protection | <https://github.com/MicrosoftDocs/dynamics-365-fraud-protection-pr> |
+| Dynamics 365 Product Insights | <https://github.com/MicrosoftDocs/product-insights-pr> |
+| Dynamics 365 Release Plans | <https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr> |
 | Microsoft Flow                   | <https://github.com/MicrosoftDocs/flow-docs-pr>                        |
 | Mixed Reality                    | https://github.com/microsoftdocs/dynamics-365-mixed-reality-pr         |
 | PowerApps                        | <https://github.com/MicrosoftDocs/powerapps-docs-pr>                   |
 | Power platform                   | <https://github.com/MicrosoftDocs/power-platform-pr>                   |
-| Release Notes                    | <https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes>    |
+| Power platform Release Plans     | <https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr>    |
 
 > [!NOTE]
 > This list contains the most used GitHub repos. For a complete list of the repos managed by the BACX CE team, see [Repos managed by BACX Content Engineering](crmce-repos.md)
