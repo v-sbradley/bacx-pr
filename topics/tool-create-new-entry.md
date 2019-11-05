@@ -1,10 +1,10 @@
 ---
-title: "Create a new entry"
+title: "Create a new entry | MicrosoftDocs"
 ms.date: 11/05/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "emceachern"
-ms.author: "emceachern
+ms.author: "emcheachern"
 manager: "renwe"
 ---
 
@@ -48,7 +48,7 @@ This is where you will create, update, move, and duplicate release plans for a v
 6. Feeback URL (where do they find this?)
 7. Enter the Note information. This field will be published at the end of the feature in a note box to call any important information out (like what kind of web client this works on, or where the capability is avaliable)
 
-### Commuincations
+### Communications
 
 Choose the correct GPM/POC, Doc Owner, EPM. and CPM. If the person does not have permission for the tool (you can't find their name) contact us and we will give them access. 
 You will need to have one kind of documentation to submit your feature,. 
@@ -58,16 +58,10 @@ If there is a knowledge base (KB) article associated, select yes, add the articl
 
 ### Related
 This drop down is incredibly handy. It includes the audit history, so you can see when something was updated and what was changed. 
-It also includes: Attachments, release notes history, comments, the assoicated release polans, and the personas. 
+It also includes: Attachments, release notes history, comments, the assoicated release plans, and the personas. 
 
 Once you have entered all the necessary data, look to the top right of the feature. There are two toggles to be mindful of: 
 ⋅⋅* Include in Release plan
 ⋅⋅* Doc Owner Reviewed
 
 Note: For your feature to be published, both of these toggles must be set to "Yes" otherwise they will not be included. 
-
-
-
-
-
-

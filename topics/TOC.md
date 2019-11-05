@@ -24,6 +24,7 @@
 ## Release plans tool guide
 ### [Get started](tool-get-started.md)
 ### [Create new entry](tool-create-new-entry.md)
+### [FAQs](Tool-FAQ.md)
 ## [Editorial guide](editor-guide.md)
 ## [Fictitious names](fictitious-names.md)
 ## [Content Engineering requests](content-engineering-requests.md)
