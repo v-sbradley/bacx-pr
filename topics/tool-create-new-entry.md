@@ -40,13 +40,13 @@ This is where you will create, update, move, and duplicate release plans for a v
   * If this is selected, you will be prompted to enter a date to the corresponding field. 
 
 ### Details 
-1. Enter summary. <!--(here does this go?)-->
+1. Enter summary. This will be the metadata for the feature.
 2. Enter Business value. This field will be published as the "Business Value" section in the release plans.
 3. If applicable, select **Personas** associated with the feature.
 4. Enter the Feature Detail. This field will be published as the "Feature Details" section in the release plans.
 5. Ideas URL. <!--(what is this?)-->
 6. Feeback URL. <!--(where do they find this?)-->
-7. Enter the Note information. This field will be published at the end of the feature in a note box to call any important information out. <!--(like what kind of web client this works on, or where the capability is avaliable)-->
+7. Enter the Note information. This field will be published at the end of the feature in a note box to call any important information out, for example, what kind of web client this works on, or where the capability is avaliable. 
 
 ### Communications
 1. Choose the correct GPM/POC, Doc Owner, EPM, and CPM. If the person does not have permission for the tool, (you can't find their name) contact us and we will give them access. 
