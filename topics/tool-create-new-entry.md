@@ -16,11 +16,11 @@ Note: Be mindful of what's highlighted in the left nav since that is where this 
 This field will be published as the "Feature Details" section in the release plans.
 
 ## Product overview
-1. Select product (dropdown)
-2. Select owner (dropdown) 
-3. Select release wave (dropdown_
-4. Enter the product overview in the open text field. Remember, this uses markdown
-5. Save
+1. Select product (dropdown).
+2. Select owner (dropdown).
+3. Select release wave (dropdown).
+4. Enter the product overview in the open text field. Remember, this uses markdown.
+5. Save.
 
 ## Release plans
 
@@ -28,40 +28,40 @@ This is where you will create, update, move, and duplicate release plans for a v
 
 ### General 
 1. Input the feature name. No more than 55 characters and please be mindful of characters and hypens in the feature names,
-2. Select product (dropdown)
-3. Select release wave
-4. Choose the feature category (dropdown)
+2. Select product (dropdown).
+3. Select release wave.
+4. Choose the feature category (dropdown).
 5. Add Product Area (L2). You can select from a dropdown or add a new L2. 
 6. Add Product Team. You can select from a dropdown or add a new team.
-7. Internal working Note: This will not be published and is a good locatin to share internal information about a feature. 
-8 Select the status for Public Preview/Early Access (dropdown)
-⋅⋅* If this is selected, you will be prompted to enter a date to the corresponding field. 
+7. Internal working note: This will not be published and is a good locatin to share internal information about a feature. 
+8. Select the status for Public Preview/Early Access (dropdown).
+  * If this is selected, you will be prompted to enter a date to the corresponding field. 
 9. Select the stateus for GA (dropdown)
-⋅⋅* If this is selected, you will be prompted to enter a date to the corresponding field. 
+  * If this is selected, you will be prompted to enter a date to the corresponding field. 
 
 ### Details 
-1. Enter summary. (here does this go?)
+1. Enter summary. <!--(here does this go?)-->
 2. Enter Business value. This field will be published as the "Business Value" section in the release plans.
-3. If applicable, select Personas associate with the feature.
+3. If applicable, select **Personas** associated with the feature.
 4. Enter the Feature Detail. This field will be published as the "Feature Details" section in the release plans.
-5. Ideas URL (what is this?)
-6. Feeback URL (where do they find this?)
-7. Enter the Note information. This field will be published at the end of the feature in a note box to call any important information out (like what kind of web client this works on, or where the capability is avaliable)
+5. Ideas URL. <!--(what is this?)-->
+6. Feeback URL. <!--(where do they find this?)-->
+7. Enter the Note information. This field will be published at the end of the feature in a note box to call any important information out. <!--(like what kind of web client this works on, or where the capability is avaliable)-->
 
 ### Communications
-
-Choose the correct GPM/POC, Doc Owner, EPM. and CPM. If the person does not have permission for the tool (you can't find their name) contact us and we will give them access. 
-You will need to have one kind of documentation to submit your feature,. 
-If there is an associated blog, select yes, add the blog name and the URL.
-If there are doc associated, select yes, add the doc name and the URL.
-If there is a knowledge base (KB) article associated, select yes, add the article name and the URL. 
+1. Choose the correct GPM/POC, Doc Owner, EPM, and CPM. If the person does not have permission for the tool, (you can't find their name) contact us and we will give them access. 
+2. You will need to have one kind of documentation to submit your feature. 
+3. If there is an associated blog, select yes, then add the blog name and the URL.
+4. If there are docs associated, select yes, add the doc name and the URL.
+5. If there is a knowledge base (KB) article associated, select yes, add the article name and the URL. 
 
 ### Related
 This drop down is incredibly handy. It includes the audit history, so you can see when something was updated and what was changed. 
 It also includes: Attachments, release notes history, comments, the assoicated release plans, and the personas. 
 
 Once you have entered all the necessary data, look to the top right of the feature. There are two toggles to be mindful of: 
-⋅⋅* Include in Release plan
-⋅⋅* Doc Owner Reviewed
+* Include in Release plan
+* Doc Owner Reviewed
 
-Note: For your feature to be published, both of these toggles must be set to "Yes" otherwise they will not be included. 
+> ![Note]
+> For your feature to be published, both of these toggles must be set to "Yes" otherwise they will not be included. 
