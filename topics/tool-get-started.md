@@ -24,13 +24,13 @@ To request access to the tool, contact [rntoolfeedback@microsoft.com](mailto:rnt
 
 **Recent**: Shows the last 10 records you accessed.
 
-**Pinned**: Hosts any pinned items including records and views.
+**Pinned**: Hosts any pinned items including records and views. This is handy for storing things you access frequently.
 
 ### Dashboard
 
 **Schedule**: The schedule shows the upcoming trains, the current train, and the features that will be picked up by the current publish. This is a good place to check to make sure your features will or will not be included in the next publish.
 
-**Current release plan**: Quick access to the current plan.
+**Current release plan**: Quick access to the current release plan tracker.
 
 ### Release: 
 
@@ -41,9 +41,9 @@ To request access to the tool, contact [rntoolfeedback@microsoft.com](mailto:rnt
 ### Release Plans Admin – most of these entries are Read Only
 **Release Wave** – Lists the major releases by month and year.
 
-**Products** – Includes BAG products, product owners, GPMs, product marketing and content owner.
+**Products** – Includes BAG products, product owners, GPMs, product, marketing and content owner.
 
-**Product Area (L2)** – This field allows you to group features (e.g., Attract, Onboard for Talent and Supply chain management, Financial management for F&O).
+**Product Area (L2)** – This field allows you to group features (e.g., Attract, Onboard for Talent and Supply chain management).
 
 **Product team** – Allows features to be tracked under individual team in a single product. 
 
