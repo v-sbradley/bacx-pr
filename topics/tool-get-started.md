@@ -12,7 +12,7 @@ manager: "renwe"
 
 The release planner tool is where PMs, Doc Owners, and others can submit, modify, and track their features in the release plans.
 
-You can find the tool [here](https://aka.ms/BusinessAppsReleaseNotes). 
+You can find the tool [here]( https://aka.ms/BAGReleaseNotes). 
 
 To request access to the tool, contact [rntoolfeedback@microsoft.com](mailto:rntoolfeedback@microsoft.com). 
 
