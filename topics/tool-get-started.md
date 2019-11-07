@@ -1,5 +1,5 @@
 ---
-title: "Get started with the Release Notes Tool| MicrosoftDocs"
+title: "Get started with the Release Planner App| MicrosoftDocs"
 ms.date: 11/05/2018
 ms.service: 
 ms.topic: "conceptual"
@@ -8,13 +8,13 @@ ms.author: "emceachern"
 manager: "renwe"
 ---
 
-# Get started with the Release Notes Tool
+# Get started with the Release Planner App
 
-The release planner tool is where PMs, Doc Owners, and others can submit, modify, and track their features in the release plans.
+The release planner app is where PMs, Doc Owners, and others can submit, modify, and track their features in the release plans.
 
-You can find the tool [here]( https://aka.ms/BAGReleaseNotes). 
+You can find the app [here]( https://aka.ms/BAGReleaseNotes). 
 
-To request access to the tool, contact [rntoolfeedback@microsoft.com](mailto:rntoolfeedback@microsoft.com). 
+To request access, contact [rntoolfeedback@microsoft.com](mailto:rntoolfeedback@microsoft.com). 
 
 <!--Note: Add screenshot here-->
 
@@ -34,7 +34,7 @@ To request access to the tool, contact [rntoolfeedback@microsoft.com](mailto:rnt
 
 ### Release: 
 
-**Product Overview**: This overview appears in the release notes. There is one per product. 
+**Product Overview**: This overview appears in the release plans. There is one per product. 
 
 **Release Plans**: Lists every feature. 
 
@@ -55,7 +55,7 @@ To request access to the tool, contact [rntoolfeedback@microsoft.com](mailto:rnt
 
 **New** – This creates a new blank record based on where you are in the left navigation pane. If you are in Product Overview, it will create a blank product overview, or if you are in the Product Area (L2), it will create one there, and so on.
 
-**Refresh** – Updates the tool so you can view the current iteration of your work.
+**Refresh** – Updates the app so you can view the current iteration of your work.
 
 **Email a link** – Select the items you want to send (you can send multiple) and you can email a link to your chosen records.
 
