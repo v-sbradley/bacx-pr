@@ -27,13 +27,13 @@ This field will be published as the "Feature Details" section in the release pla
 This is where you will create, update, move, and duplicate release plans for a variety of reasons and functions.
 
 ### General 
-1. Input the feature name. No more than 55 characters and please be mindful of characters and hypens in the feature names,
+1. Input the feature name, but please don't use more than 55 characters. Also be mindful of other characters and hypens in names. 
 2. Select product (dropdown).
 3. Select release wave.
 4. Choose the feature category (dropdown).
 5. Add Product Area (L2). You can select from a dropdown or add a new L2. 
 6. Add Product Team. You can select from a dropdown or add a new team.
-7. Internal working note: This will not be published and is a good locatin to share internal information about a feature. 
+7. Internal working note: This will not be published and is a good location to share internal information about a feature. 
 8. Select the status for Public Preview/Early Access (dropdown).
   * If this is selected, you will be prompted to enter a date to the corresponding field. 
 9. Select the stateus for GA (dropdown)
