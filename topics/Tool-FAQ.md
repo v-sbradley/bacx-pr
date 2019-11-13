@@ -1,6 +1,6 @@
 ---
 title: "FAQs for the Release Planner App| MicrosoftDocs"
-ms.date: 11/05/2019
+ms.date: 11/13/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "emceachern"
@@ -12,7 +12,7 @@ manager: "renwe"
 
 #### How do I move my feature from one release plan to another?
 1. Click “Copy Release Plan” on the feature that you want to move.  
-2. In the copied release plan, can change the release wave to the corresponding release.   
+2. In the **copied release plan**, change the release wave to the corresponding release.   
 **Note**: The feature name appears with a prefix “Copy - “ Don’t forget to update it. Also, tool will prompt you to select the public preview or a GA date within the wave before saving.  
 3. On the existing plan (the plan you wanted to move from), toggle the Include in Release plan to No.  
 4. Set one of the following values in the removal reason:
@@ -34,28 +34,28 @@ The udpates will be included in the next publish which is shown on the schedule.
 The [schedule](https://msit.powerbi.com/groups/fce55d85-50c2-4249-b054-60f8643ad13f/reports/0eb6f27b-2d3a-447d-9a6a-cf77f35bfbcd/ReportSection31aec9950d0006de8110) lives in the tool now. You can see what's included in the next publish, the dates, and what the upcoming dates look like. There are two tabs at the bottom of the schedule so you can toggle between waves. 
 
 #### What do I do about the dates in the release plans if a feature is being released in different regions in a phased manner? 
-For before a feature ships, use the month and year the feature is planned to ship. Example: April 2019
-For once the features has shipped, use the day, month, and year. Example: April 12, 2019
-If a feature is being released in different regions in a phased manner, use the date it first shipped regardless of which geo that was. For example, if a feature is released in Japan on April 11 and in North America on April 25, then use April 11, 2019 in the Date column. 
+Before a feature ships, use the month and year the feature is planned to ship. Example: April 2019
+Once the features has shipped, use the day, month, and year. Example: April 12, 2019
+If a feature is being released in different regions in a phased manner, use the date it first shipped regardless of the geo. For example, if a feature is released in Japan on April 11 and in North America on April 25, then use April 11, 2019 in the Date column. 
 
 #### How do I create a view?
 1. Find the "Create view" button at the top of the page.
 2. Select it (make sure your pop-up blocker is turned off as this pops up in a seperate window).
-3. Select the appropriate perameters, keeping in mind that you  can pare down the results by choosing addtional fields to search for (like Release Date, Owner, or Product). 
+3. Select the appropriate perameters, keeping in mind that you can pare down the results by choosing addtional fields (like Release Date, Owner, or Product). 
 4. When you have all of your search perameters, hit "Results" under the exclamation point, and you will see the results of your view. 
 
 Views can be saved, shared, and modified. Don't forget to pin your saved view if you use it often.
 
 ## Doc Writers
 
-#### I wanted to have only my actionable item in the app. How do I get that?
+#### I only want my actionable item in the app. How do I get that?
 You can create personal views. You can also share views with other writers.
 
 #### As a doc reviewer, can I review other’s content and toggle “doc owner reviewed” to Yes?
 No. The workflow will reset the field to no if you are not the assigned doc owner.
 
 #### If I don’t review the content on time, what will happen?
-If the plan was earlier published, the existing article continue to be available publicly with no changes. If it is brand new topic, it won’t be published.
+If the plan was published earlier, the existing article will continue to be available publicly with no changes. If it is brand new topic, it won’t be published.
 
 #### How do I ensure all the uploaded images are available in GitHub?
 As soon as the image is uploaded, the image will be created in GitHub (master branch). 
@@ -85,5 +85,5 @@ If you are updating the overview (ms.topic: overview) or product area (L2) overv
 If you are updating an article that was not part of the PR update, the changes will not sync back. Why? The delta sync will lock only the plans that are updated. If you are updating the content that was not locked by the tool, the reverse sync simply ignores the changes.
 
 #### How do I change the Alt Text of an image?
-The alt text should be updated in the tool. If the image is included within the feature detail, then it should be updated in the feature detail as well
+The alt text should be updated in the tool. If the image is included within the feature detail, then it should be updated in the feature detail as well.
 
