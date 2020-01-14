@@ -24,7 +24,7 @@ IMAGE Steps 3-5
 
 A small popup will let you know that the document is being generated and will arrive in your mailbox. This is not immediate and is dependent upon how many products you select. 
 
-IMAGE Popup
+IMAGE Step 6
 
 In your inbox, you will get an email that looks like this: 
 
