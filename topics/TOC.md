@@ -21,6 +21,11 @@
 ### [Do's and don'ts in the release plans](rn-dos-donts.md)
 ### [Style tips for release plans](style-tips.md)
 ### [Checklist: Before you merge a PR](rn-checklist.md)
+## Release plans tool guide
+### [Get started](tool-get-started.md)
+### [Create new entry](tool-create-new-entry.md)
+### [Generate review document](generate-review-document.md)
+### [FAQs](Tool-FAQ.md)
 ## [Editorial guide](editor-guide.md)
 ## [Fictitious names](fictitious-names.md)
 ## [Content Engineering requests](content-engineering-requests.md)
