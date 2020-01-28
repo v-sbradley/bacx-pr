@@ -132,7 +132,7 @@ review link on docs in your email with your recent changes that you can review.
 
 8.  Next, reference the uploaded image in your topic using the following syntax:
     ```markdown
-    ![<alt text>*]](<folderPath>)
+    ![<alt text>]](<folderPath>)
     ```
     
     For example, to upload an image named **work-with-views.png** in the **media** folder:
