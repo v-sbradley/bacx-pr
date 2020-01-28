@@ -1,6 +1,6 @@
 ---
 title: "Make extensive changes to docs| MicrosoftDocs"
-ms.date: 07/26/2018
+ms.date: 01/27/2020
 ms.service: 
 ms.topic: "conceptual"
 author: "KumarVivek"
@@ -130,7 +130,18 @@ review link on docs in your email with your recent changes that you can review.
 
     ![](media/upload-images-03.png)
 
-8.  When your changes are ready to publish live, create a pull request as described
+8.  Next, reference the uploaded image in your topic using the following syntax:
+    ```markdown
+    ![<alt text>*]](<folderPath>)
+    ```
+    
+    For example, to upload an image named **work-with-views.png** in the **media** folder:
+    
+    ```markdown
+    ![Work with views](media/work-with-views.png)
+    ```
+
+9. When your changes are ready to publish live, create a pull request as described
     later in this topic.
 
 ## Rename a file
