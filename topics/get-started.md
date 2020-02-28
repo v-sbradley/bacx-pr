@@ -63,7 +63,7 @@ These are the repos where we host our content:
 | Dynamics 365 Fraud Protection | <https://github.com/MicrosoftDocs/dynamics-365-fraud-protection-pr> |
 | Dynamics 365 Product Insights | <https://github.com/MicrosoftDocs/product-insights-pr> |
 | Dynamics 365 Release Plans | <https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr> |
-| Power AUtomate                   | <https://github.com/MicrosoftDocs/power-automate-docs-pr>              |
+| Power Automate                   | <https://github.com/MicrosoftDocs/power-automate-docs-pr>              |
 | Mixed Reality                    | https://github.com/microsoftdocs/dynamics-365-mixed-reality-pr         |
 | PowerApps                        | <https://github.com/MicrosoftDocs/powerapps-docs-pr>                   |
 | Power platform                   | <https://github.com/MicrosoftDocs/power-platform-pr>                   |
