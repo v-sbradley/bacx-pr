@@ -25,24 +25,26 @@ If you want to do a video for another area under BAG, here are your contacts:
 | BAG promotional or marketing videos  | Jamey Toombs  | [Detailed process](https://microsoft.sharepoint.com/teams/Cloud_AI-Motion/SitePages/Alchemy-Video.aspx) |
 
 
-## Start the process for a video you're planning
+## Create a video
 
-1.	When you are planning your videos, fill out the following form: [Product demo video request form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9b5wR1zDLRMp9sYA_S9dMJURTJYNkNWR1FLRDNCV1FGSUNENEVPUkNMVi4u)
+1.	When you are planning your videos, fill out the following form per video: [Product demo video request form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9b5wR1zDLRMp9sYA_S9dMJURTJYNkNWR1FLRDNCV1FGSUNENEVPUkNMVi4u)
 2.	Ping Abhinav and Renee. 
 3.	Abhinav and Renee will review the form and ask for script revisions, if any. 
     Once they approve the script, you can record your video. <br>
     **Note:** If you don't have Camtasia yet, you can work on getting it while your script is reviewed.
-4.	Record the video using Camtasia. 
-5.	Abhinav edits the video.
-6.	PM views and signs off on the video.
-7.	Abhinav does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger (**need link**).
-8.	Abhinav submits the video for publishing.
+4.	Set up your computer for capturing video and audio OR plan to go to one of our local studios to use their equipment. 
+    a. Use these guidelines: [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0)
+5.  Record the video using Camtasia. 
+6.	Abhinav edits the video.
+7.	PM views and signs off on the video.
+8.	Abhinav does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger (**need link**).
+9.	Abhinav submits the video for publishing.
 
 > [!IMPORTANT]  
-> You will need Camtasia to create your video and audio. If you don't have a license for it, contact StudioOps or your organization's admin group for assistance. Our team does not provide Camtasia licenses. 
+> You will need Camtasia to create your video and audio. If you don't have a license for it, contact StudioOps or your organization's admin group for assistance. Our team (BACX) does not get the Camtasia licenses. 
 > (Add info for studios they can use per geo for screen cap and good mic - Abhinav)
 
-Please note when you do the original Camtasia recording, you will probably have to do it a second time after you get our feedback. You can sometimes avoid the churn by following the screen capture guidelines. Here are some common things that cause redos:
+Please note when you do the original Camtasia recording, you will probably have to do it a second time after you get our feedback. You can avoid a lot of churn by following the [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0). Here are some common things that cause redos:
 
 - Audio levels and quality
     - Flubs - saying "um", repeating or interrupting yourself, background noise (dog barking, horn honk), distracting sounds we can't edit out
