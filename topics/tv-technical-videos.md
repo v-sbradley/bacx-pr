@@ -10,7 +10,22 @@ manager: annbe
 
 # Technical videos: Get started
 
-Add overview paragraph.
+
+This wiki provides an overview of what it takes to ideate, script, record, and publish one. It's important that you familiarize yourself with the process because you're part of it, and you should know what to expect.
+The process described here is for technical videos for model-driven apps in Dynamics 365 (formerly called Customer Engagement apps) and Power Platform apps and features. 
+simple how-to videos used in documentation or blogs
+
+
+If you want to do a video for another area under BAG, here are your contacts:
+OAG, Sally Erickson, 
+Business Central, Brent Holtorf
+
+**Product area**              | **Contact**                                                 | **Process**
+|----------------------------------|--------------------------------------------------------|----------------------|
+| Business Central | Brent Holtorf | [Video production wiki](https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.wiki/tab::902d4109-2ae1-4992-bde9-f36a3f5be3ad?context=%7B%22subEntityId%22%3A%22%7B%5C%22pageId%5C%22%3A2%2C%5C%22origin%5C%22%3A2%7D%22%2C%22channelId%22%3A%2219%3A06d2c862bf264c5c8ff2b2a82f6eb6cd%40thread.skype%22%7D&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+| OAG              | Sally Erickson| [How to create videos](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fteams%2FDynDoc%2FAXContentResources%2FSitePages%2FWriting%2520resources%2520%26%2520best%2520practices.aspx&data=02%7C01%7Crenwe%40microsoft.com%7C6dd77398614e4c4f2d5108d720b5e674%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637013837941871212&sdata=kmXUxDZMa3Obut1DbJT4lMYQKDVTRz3CohhYQi%2BlzNk%3D&reserved=0) |
+| For promotional marketing videos  | Jamey Toombs  | [Detailed process](https://microsoft.sharepoint.com/teams/Cloud_AI-Motion/SitePages/Alchemy-Video.aspx) |
+
 
 ## Start the process for a video you're planning
 
