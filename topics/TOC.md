@@ -25,6 +25,8 @@
 ### [Get started](tool-get-started.md)
 ### [Create new entry](tool-create-new-entry.md)
 ### [Generate review document](generate-review-document.md)
+## Technical videos
+### [Technical videos](tv-technical-videos.md)
 ### [FAQs](Tool-FAQ.md)
 ## [Editorial guide](editor-guide.md)
 ## [Fictitious names](fictitious-names.md)
