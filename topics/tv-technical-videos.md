@@ -30,7 +30,7 @@ If you want to do a video for another area under BAG, here are your contacts:
 1.	When you are planning your videos, fill out the following form: [Product demo video request form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9b5wR1zDLRMp9sYA_S9dMJURTJYNkNWR1FLRDNCV1FGSUNENEVPUkNMVi4u)
 2.	Ping Abhinav and Renee. 
 3.	Abhinav and Renee will review the form and ask for script revisions, if any. 
-    Once they approve the script, you can record your video.
+    Once they approve the script, you can record your video. <br>
     **Note:** If you don't have Camtasia yet, you can work on getting it while your script is reviewed.
 4.	Record the video using Camtasia. 
 5.	Abhinav edits the video.
@@ -38,6 +38,9 @@ If you want to do a video for another area under BAG, here are your contacts:
 7.	Abhinav does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger (**need link**).
 8.	Abhinav submits the video for publishing.
 
+> [!IMPORTANT]  
+> You will need Camtasia to create your video and audio. If you don't have a license for it, contact StudioOps or your organization's admin group for assistance. Our team does not provide Camtasia licenses. 
+> (Add info for studios they can use per geo for screen cap and good mic - Abhinav)
 
 Please note when you do the original Camtasia recording, you will probably have to do it a second time after you get our feedback. You can sometimes avoid the churn by following the screen capture guidelines. Here are some common things that cause redos:
 
@@ -47,9 +50,4 @@ Please note when you do the original Camtasia recording, you will probably have 
 - Use of non-approved demo data (fictitious content)
 - Mouse movements that distract on screen
 - Flow of video and use of transitional graphics/images - don't talk about the new thing while still on the old screen
- 
-
-> [!IMPORTANT]  
-> Folks who already contribute content to our repos don’t have to perform the **first
-two** steps again. Also, this is just a one-time setup.
 
