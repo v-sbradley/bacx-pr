@@ -25,10 +25,12 @@ Add overview paragraph.
 6.	PM views and signs off on the video.
 7.	Abhinav does production work so the video can be published to YouTube and RedTiger.
 8.	Video team submits the video for publishing.
-Please note when you do the original Camtasia recording, you will probably have to do it a second time after you get our feedback. You can avoid them by following the screen capture guidelines. Here are some common things that cause redos:
+
+
+Please note when you do the original Camtasia recording, you will probably have to do it a second time after you get our feedback. You can sometimes avoid the churn by following the screen capture guidelines. Here are some common things that cause redos:
 
 1.	Audio levels and quality
-a.	Flubs - saying "um", repeating or interrupting yourself, background noise (dog barking, horn honk), things that are not possible to edit out
+a.	   Flubs - saying "um", repeating or interrupting yourself, background noise (dog barking, horn honk), things that are not possible to edit out
 2.	Wrong screen resolution
 3.	Use of non-approved demo data (fictitious content)
 4.	Mouse movements that distract on screen
