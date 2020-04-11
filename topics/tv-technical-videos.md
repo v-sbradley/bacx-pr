@@ -10,7 +10,7 @@ manager: annbe
 
 # Technical videos: Get started
 
-The process described here is for technical, how-to videos for model-driven apps in Dynamics 365 (formerly called Customer Engagement apps) and Power Platform apps and features. These videos are for use in product documentation on the [Dynamics 365 Docs site](https://docs.microsoft.com/en-us/dynamics365/).
+The process described here is for technical, how-to videos about the model-driven apps in Dynamics 365 (formerly called Customer Engagement apps) and Power Platform apps and features. These videos are for use as demos in product documentation on the [Dynamics 365 Docs site](https://docs.microsoft.com/en-us/dynamics365/).
 
 This page outlines the steps you take to script, record, and and get a video published. It's important that you familiarize yourself with the process because you're part of it, and you should know what to expect.
 
