@@ -10,11 +10,11 @@ manager: annbe
 
 # Technical videos: Get started
 
-PMs, writers, and content strategists, here is your process for creating the high-impact demo videos about your features in the model-driven apps in Dynamics 365 (formerly called Customer Engagement apps) and Power Platform apps. These videos are technical, how-tos to  create a full experience for readers of the product documentation on the [Dynamics 365 Docs site](https://docs.microsoft.com/en-us/dynamics365/). To see contacts for other areas in BAG, see the last section in this article.
+PMs, writers, and content strategists, here is your process for creating the high-impact demo videos about your features in the model-driven apps in Dynamics 365 (formerly called Customer Engagement apps) and Power Platform apps. These videos are technical, how-tos to  create a full experience for readers of the product documentation on the [Dynamics 365 Docs site](https://docs.microsoft.com/en-us/dynamics365/).
 
 This page outlines the steps you take to script, record, and and get a video published. It's important that you familiarize yourself with the process because you're part of it, and you should know what to expect.
 
-Your contacts are Abhinav Dhankar (abdhanka) and Renee Wesberry (renwe).
+Your contacts are Abhinav Dhankar (abdhanka) and Renee Wesberry (renwe). To see contacts for other areas in BAG, see the last section in this article.
 
 ## Create a video
 
