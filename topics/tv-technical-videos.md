@@ -30,7 +30,7 @@ If you want to do a video for another area under BAG, here are your contacts:
 1.	When you are planning a video, fill out the following form: [Product demo video request form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9b5wR1zDLRMp9sYA_S9dMJURTJYNkNWR1FLRDNCV1FGSUNENEVPUkNMVi4u)
 2.	Ping Abhinav and Renee. 
 3.	Abhinav and Renee will review the form with you and go over anything that's not clear. 
-4. You write your script. Here's an example script for reference: 
+4. You write your script. See examples for reference: [Sample scripts](tv-sample-scripts.md)
 5. Upload the script in step 6 of your [request form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9b5wR1zDLRMp9sYA_S9dMJURTJYNkNWR1FLRDNCV1FGSUNENEVPUkNMVi4u). 
 6. Abhinav and Renee will review it and may ask for script revisions. Once they approve the script, you can record your video. <br>
     **Note:** If you don't have Camtasia yet, you can work on getting it while your script is reviewed.
