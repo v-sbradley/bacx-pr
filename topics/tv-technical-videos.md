@@ -16,7 +16,7 @@ This page outlines the steps you take to script, record, and and get a video pub
 
 Your contacts are Abhinav Dhankar (abdhanka) and Renee Wesberry (renwe).
 
-If you want to do a video for another area under BAG, here are your contacts:
+If you want to do a video for a different area under BAG, here are your contacts:
 
 **Product area**              | **Contact**                                                 | **Process**
 |----------------------------------|--------------------------------------------------------|----------------------|
@@ -37,11 +37,11 @@ If you want to do a video for another area under BAG, here are your contacts:
 4.	Set up Camtasia on your computer, including screen resolution and other settings for screen cap and audio. <br>
     - Use these guidelines: [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0)
     - Optionally, you can go to a studio on your campus to use that laptop and mic. See the Note below for locations. 
-5.  Record the video and upload the file to this share: (Abhinav, where do they put the file(s)?)
+5.  Record the video and upload the file to this share: (**Abhinav**, where do they put the file(s)?)
 6.	Abhinav edits the video. 
 7.	You view and sign off on the video.
 8.	Abhinav does production work to complete the video.
-9.	Abhinav submits the video for publishing to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger (**Abhinav - need link**).
+9.	Abhinav submits the video for publishing to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger (**Abhinav** - need link).
 
 > [!IMPORTANT]  
 > You will need Camtasia to do the screen capture for your video. If you don't have a license for it, contact your organization's admin group for assistance. Our team (BACX) does not get the Camtasia licenses. 
@@ -50,11 +50,11 @@ If you want to do a video for another area under BAG, here are your contacts:
 Please note when you do the original Camtasia recording, you will probably have to do it a second time after you get our feedback. You can avoid a lot of churn by following the [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0). Here are some common things that cause redos:
 
 - Audio levels and quality
-    - Flubs - saying "um", repeating or interrupting yourself, background noise (dog barking, horn honk), distracting sounds we can't edit out
+- Verbal flubs and surprise background noise (saying "um", repeating or interrupting yourself, background noise (dog barking, horn honk); basically any distracting sounds we can't edit out
 - Wrong screen resolution
 - Use of non-approved demo data (fictitious content)
 - Mouse movements that distract on screen
 - Flow of video and use of transitional graphics/images - don't talk about the new thing while still on the old screen
 
 > [!NOTE] 
-> (Add info for studios they can use per geo for screen cap and good mic - Abhinav)
+> (Add info for studios they can use per geo for screen cap and good mic - **Abhinav**)
