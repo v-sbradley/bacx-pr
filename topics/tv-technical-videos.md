@@ -56,9 +56,12 @@ Please note when you do the original Camtasia recording, you will probably have 
 - Mouse movements that distract on screen
 - Flow of video and use of transitional graphics/images - don't talk about the new thing while still on the old screen
 
-> [!NOTE] 
-> (Add info for studios they can use per geo for screen cap and good mic - **Abhinav**)
-> If you want to do a video for a different area under BAG, here are your contacts:
+### Studio space to use 
+(Add info for studios they can use per geo for screen cap and good mic - **Abhinav**)
+
+
+### Videos for other areas in BAG
+If you want to do a video for a different area under BAG, here are your contacts:
 
 **Product area**              | **Contact**                                                 | **Process**
 |----------------------------------|--------------------------------------------------------|----------------------|
