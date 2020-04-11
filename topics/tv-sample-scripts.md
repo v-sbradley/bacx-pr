@@ -3,7 +3,7 @@ Here are some examples of scripts used for other technical, how-to demo videos t
 
 **Script sample 1**
 
-Hi, I’m (your name). I’m a program manager for Dynamics 365 for Finance and Operations and I’m going to show you the new, re-imagined expense experience on the Expense Management workspace.
+Hi, I’m (your name). I’m a program manager for Dynamics 365 - Gamification and I’m going to show you how to grant the necessary security role for a KPI manager.
 Users who create or administer games in Microsoft Dynamics 365 - Gamification must be KPI Managers in Dynamics 365 to effectively start and manage games. 
 This security role grants a user access and permissions on the Gamification solution.  
 KPI Managers can only edit KPIs they own, either those they create themselves or those they were assigned ownership by a System Administrator. 
