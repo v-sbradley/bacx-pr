@@ -27,9 +27,9 @@ team can contribute to our official content on docs.microsoft.com for following 
 - Dynamics 365 Mixed Reality
     - Remote Assist
     - Layout
-- Microsoft Flow
-- PowerApps
-- Power platform
+- Power Apps
+- Power Automate
+- Power Platform
 - Common Data Model
 
 > [!IMPORTANT]
