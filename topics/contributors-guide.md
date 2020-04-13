@@ -1,6 +1,6 @@
 ---
 title: "Contributors guide to docs for PMs/Feature teams| MicrosoftDocs"
-ms.date: 08/01/2018
+ms.date: 04/12/2020
 ms.service: 
 ms.topic: "conceptual"
 author: "KumarVivek"
