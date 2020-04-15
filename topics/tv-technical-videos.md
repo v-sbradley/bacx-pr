@@ -29,9 +29,7 @@ You will need Camtasia to do the screen capture for your video. If you don't hav
 
 Set up Camtasia on your computer, including screen resolution and other settings for screen capture and audio. <br>
 
-- Use these guidelines: [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0)
-
-- Optionally, you can go to a studio on your campus to use that laptop and mic. See the Note below for locations. 
+Use these guidelines: [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0)
 
 ### Avoiding redos
 Please note when you do the original Camtasia recording, you will probably have to do it a second time after you get our feedback. You can avoid a lot of churn by following the [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0). Here are some common things that cause redos:
