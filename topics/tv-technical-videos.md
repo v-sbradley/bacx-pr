@@ -27,7 +27,7 @@ Your contacts are Abhinav Dhankar (abdhanka) and your writer.
 ### Use Camtasia
 You will need Camtasia to do the screen capture for your video. If you don't have a license for it, contact your organization's admin group for assistance. Our team (BACX) does not get the Camtasia licenses. 
 
-Set up Camtasia on your computer, including screen resolution and other settings for screen capture and audio. <br>
+Set up Camtasia on your computer, including screen resolution and other settings for screen capture and audio. Here is a video to help you: [Camtasia settings](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Av%3A%2Ft%2FCRMHOME%2Fua%2FEbRnMc8iTLFFtKVFgXwgfvgBqoJ0UYoczV-5rQ3xWukywQ%3Fe%3DOg0W2b&data=02%7C01%7Crenwe%40microsoft.com%7Cf53f9eba2e55431f2b9708d7e111f887%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637225339637970339&sdata=eRO8yWqnhOIy5Ie5uvanKLzySFZYzFTC8H6Zge%2FC6nw%3D&reserved=0) <br>
 
 Use these guidelines: [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0)
 
