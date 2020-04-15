@@ -12,7 +12,7 @@ manager: annbe
 
 This process is for PMs to use to create demo videos about their features in the model-driven apps in Dynamics 365 (formerly called Customer Engagement apps) and Power Platform apps. 
 
-Your contacts are Abhinav Dhankar (abdhanka), your writer, and Renee Wesberry (renwe). 
+Your contacts are Abhinav Dhankar (abdhanka) and your writer. 
 
 ## Create a video
 
