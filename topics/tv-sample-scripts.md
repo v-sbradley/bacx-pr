@@ -1,3 +1,14 @@
+---
+title: Sample scripts for technical videos
+ms.date: 04/16/2020
+ms.service: 
+ms.topic: conceptual
+author: ReneeW-CPub
+ms.author: renwe
+manager: annbe
+---
+
+# Sample scripts
 Here are some examples of scripts used for other technical, how-to demo videos that were created for Dynamics 365 or Power Platform. 
 (More sample scripts are coming soon.)
 
