@@ -9,7 +9,8 @@ manager: annbe
 ---
 
 # Sample scripts
-Here are some examples of scripts used for other technical, how-to demo videos that were created for Dynamics 365 or Power Platform. 
+Here are some examples of scripts used for technical, how-to demo videos. You can use these as examples for the scripts you create for CCA, Business 360, Sales, Forms Pro, and Marketing. 
+
 (More sample scripts are coming soon.)
 
 **Script sample 1**
