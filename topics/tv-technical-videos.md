@@ -10,7 +10,7 @@ manager: annbe
 
 # Technical videos: Get started
 
-This process is for PMs to use to create demo videos about their features in the model-driven apps in Dynamics 365 (formerly called Customer Engagement apps) and Power Platform apps. 
+This process is for PMs to use to create demo videos about their features for CCA, Business 360, Sales, Forms Pro, and Marketing. 
 
 Your contacts are Abhinav Dhankar (abdhanka) and your writer. 
 
@@ -25,7 +25,7 @@ Your contacts are Abhinav Dhankar (abdhanka) and your writer.
 8. CP does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger.
 
 ### Use Camtasia
-You will need Camtasia to do the screen capture for your video. If you don't have a license for it, contact your organization's admin group for assistance. Our team (BACX) does not get the Camtasia licenses. 
+You will need Camtasia to do the screen capture for your video. If you don't have a license for it, contact your organization's admin group for assistance. CP does not get Camtasia licenses for PMs. 
 
 Set up Camtasia on your computer, including screen resolution and other settings for screen capture and audio. Here is a video to help you: [Camtasia settings](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Av%3A%2Ft%2FCRMHOME%2Fua%2FEbRnMc8iTLFFtKVFgXwgfvgBqoJ0UYoczV-5rQ3xWukywQ%3Fe%3DOg0W2b&data=02%7C01%7Crenwe%40microsoft.com%7Cf53f9eba2e55431f2b9708d7e111f887%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637225339637970339&sdata=eRO8yWqnhOIy5Ie5uvanKLzySFZYzFTC8H6Zge%2FC6nw%3D&reserved=0) <br>
 
