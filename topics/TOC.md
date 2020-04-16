@@ -26,6 +26,9 @@
 ### [Create new entry](tool-create-new-entry.md)
 ### [Generate review document](generate-review-document.md)
 ### [FAQs](Tool-FAQ.md)
+## Technical videos
+### [Technical videos](tv-technical-videos.md)
+### [Sample scripts](tv-sample-scripts.md)
 ## [Editorial guide](editor-guide.md)
 ## [Fictitious names](fictitious-names.md)
 ## [Content Engineering requests](content-engineering-requests.md)
