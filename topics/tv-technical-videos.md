@@ -1,6 +1,6 @@
 ---
 title: Technical videos
-ms.date: 04/16/2020
+ms.date: 04/24/2020
 ms.service: 
 ms.topic: conceptual
 author: ReneeW-CPub
@@ -16,12 +16,12 @@ Your contacts are Abhinav Dhankar (abdhanka) and your writer.
 
 ## Create a video
 
-1.	When a PM is planning a video, they let their writer know about their plans.
+1.	When a PM is planning a video, they let their writer know about their plans. Ideally, the PM and writer discuss videos as part of the product documentation planning. 
 2. The PM writes a short script that explains how to do something. The script should be about 1 page. See [Sample scripts](tv-sample-scripts.md) for examples or contact your writer for help. 
-3. CP reviews the script. 
+3. CP (both your writer and Abhinav) reviews the script. 
 4. The PM records the video using Camtasia. 
-5.	CP edits the video. 
-6.	The PM views and sign off on the video.
+5. CP edits the video. 
+6. The PM views and sign off on the video.
 7. CP does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger.
 
 ### Use Camtasia
