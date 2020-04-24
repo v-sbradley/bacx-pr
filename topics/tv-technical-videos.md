@@ -16,13 +16,13 @@ Your contacts are Abhinav Dhankar (abdhanka) and your writer.
 
 ## Create a video
 
-1.	When a PM is planning a video, they let their writer know, and fill out the following form: [Product demo video request form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9b5wR1zDLRMp9sYA_S9dMJURTJYNkNWR1FLRDNCV1FGSUNENEVPUkNMVi4u)
-2. The PM writes a short script that explains how to do something. The script should just be around 1 page. See [Sample scripts](tv-sample-scripts.md) for examples or contact your writer for help. 
-5. CP reviews the script. 
-6. The PM records the video using Camtasia. 
-4.	CP edits the video. 
-7.	The PM views and sign off on the video.
-8. CP does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger.
+1.	When a PM is planning a video, they let their writer know about their plans.
+2. The PM writes a short script that explains how to do something. The script should be about 1 page. See [Sample scripts](tv-sample-scripts.md) for examples or contact your writer for help. 
+3. CP reviews the script. 
+4. The PM records the video using Camtasia. 
+5.	CP edits the video. 
+6.	The PM views and sign off on the video.
+7. CP does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger.
 
 ### Use Camtasia
 You will need Camtasia to do the screen capture for your video. If you don't have a license for it, contact your organization's admin group for assistance. CP does not get Camtasia licenses for PMs. 
