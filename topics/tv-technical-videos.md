@@ -32,11 +32,11 @@ Set up Camtasia on your computer, including screen resolution and other settings
 Use these guidelines: [screen capture guidelines](https://nam06.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Aw%3A%2Ft%2FAlchemy%2FEa8PejgWzWhCnrleOlx5SYABru5dTRwSukHKmxxBSMNwEg%3Fe%3DW6TebI&data=02%7C01%7Crenwe%40microsoft.com%7C94c11c2b93c94696b12d08d7dc8f98cd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637220381621818780&sdata=1K1jVt3CDw7DveIE00cUfQvTubmthGuFFpaprfDB29M%3D&reserved=0)
 
 ### Use only approved sample data and fictitious content
-One of the most time-consuming fixes needed on videos is when someone uses the information and pictures of real people and companies. When you record your videos, use a clean environment with only sample data for recording the demo and it must not contain any junk data/personal data.
+One of the most time-consuming fixes needed on videos is when someone uses the information and pictures of real people and companies. When you record your video, use a clean environment with only sample data for recording the demo. It must not contain any junk data/personal data or we cannot publish it until that is fixed. 
 
 Please use only Microsoft-approved fictitious company names, people names and pictures, email addresses, etc in the demo and make sure no personal and sensitive data has been revealed.
 
-[MS approved fictitious content lists](https://microsoft.sharepoint.com/sites/lcaweb/home/copyrights-trademarks-and-patents/trademarks/fictitious-names#)
+[Microsoft-approved fictitious content lists](https://microsoft.sharepoint.com/sites/lcaweb/home/copyrights-trademarks-and-patents/trademarks/fictitious-names#)
 
 [Dynamics 365 approved people names for FY20](https://review.docs.microsoft.com/en-us/bacx/fictitious-names?branch=master) - if you need just a few names, you can use the names here. They have been pre-approved by CELA. 
 
