@@ -16,6 +16,7 @@ Here are some examples of scripts used for technical, how-to demo videos. You ca
 **Script sample 1**
 
 Video title: Grant security roles for KPI managers
+
 Product: Dynamics 365 - Gamification
 
 Hi, I’m (your name). I’m a program manager for Dynamics 365 - Gamification and I’m going to show you how to grant the necessary security role for a KPI manager.
