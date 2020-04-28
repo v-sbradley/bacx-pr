@@ -10,7 +10,7 @@ manager: annbe
 
 # Technical videos: Get started
 
-This process is for PMs to use to create demo videos about their features for CCA, Business 360, Sales, Forms Pro, and Marketing. 
+This process is for PMs to use to create post-release demo videos about their features for Customer Care apps, Business 360, Sales, Forms Pro, and Marketing. 
 
 Your contacts are Abhinav Dhankar (abdhanka) and your writer. 
 
