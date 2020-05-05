@@ -14,9 +14,10 @@ Here are some examples of scripts used for technical, how-to demo videos. You ca
 (More sample scripts are coming soon.)
 
 **Script sample 1**
-Video title: Analyze responses
 
-Product: Dynamics 365 Forms Pro
+**Video title:** Analyze responses
+
+**Product:** Dynamics 365 Forms Pro
 
 Live link: https://www.microsoft.com/en-us/videoplayer/embed/RE2NSHj
 
