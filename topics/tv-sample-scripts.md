@@ -13,6 +13,9 @@ Here are some examples of scripts used for technical, how-to demo videos. You ca
 
 (More sample scripts are coming soon.)
 
+> [!NOTE]  
+> You can include your name at the beginning of the video. For example: Hi, I’m (your name). I’m a program manager for (product) and I’m going to show you how to (do something).
+
 ## Script sample 1
 
 **Video title:** Analyze responses
