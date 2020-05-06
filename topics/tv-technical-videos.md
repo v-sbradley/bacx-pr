@@ -1,6 +1,6 @@
 ---
 title: Technical videos
-ms.date: 04/24/2020
+ms.date: 05/05/2020
 ms.service: 
 ms.topic: conceptual
 author: ReneeW-CPub
@@ -10,7 +10,7 @@ manager: annbe
 
 # Technical videos: Get started
 
-This process is for PMs to use to create post-release demo videos about their features for Customer Care apps, Business 360, Sales, Forms Pro, and Marketing. 
+This process is for PMs to use to create post-release demo videos about their features for Customer Care apps, Business 360, Sales, and Forms Pro. 
 
 Your contacts are Abhinav Dhankar (abdhanka) and your writer. 
 
@@ -19,10 +19,10 @@ Your contacts are Abhinav Dhankar (abdhanka) and your writer.
 1.	When a PM is planning a video, they let their writer know about their plans. Ideally, the PM and writer discuss videos as part of the product documentation planning. 
 2. The PM writes a short script that explains how to do something. The script should be about 1 page. See [Sample scripts](tv-sample-scripts.md) for examples or contact your writer for help. 
 3. CP (both your writer and Abhinav) reviews the script. 
-4. The PM records the video using Camtasia. 
+4. The PM records the video and voiceover using Camtasia. 
 5. CP edits the video. 
 6. The PM views and sign off on the video.
-7. CP does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger.
+7. CP does production work so the video can be published to [YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ) and RedTiger (the Microsoft video hosting service).
 
 ### Use Camtasia
 You will need Camtasia to do the screen capture for your video. If you don't have a license for it, contact your organization's admin group for assistance. CP does not get Camtasia licenses for PMs. 
