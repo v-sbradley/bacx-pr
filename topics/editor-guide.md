@@ -1,4 +1,18 @@
-# Doc set assignments
+---
+title: "Editor's guide"
+ms.date: 11/05/2019
+ms.service: 
+ms.topic: "conceptual"
+author: "emceachern"
+ms.author: "emcheachern"
+manager: "renwe"
+---
+
+# Editor's guide
+
+Here you will find helpful information for editors.
+
+## Doc set assignments
 
 Here are the editorial ownership areas for our BACX doc sets and projects. 
 
@@ -6,13 +20,13 @@ To request editing, use the process you currently use. Tonya and Renee will tria
 
 To ask questions when you can’t find what you need, contact one of these aliases or team members: 
 
-**Aliases**: 
+### Aliases 
 
 BACX CE Editors: [crmed](mailto:crmed@microsoft.com?subject=Style) 
 
 Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com) 
 
-**Editing contacts for specific doc sets/projects**
+### Editing contacts for specific doc sets/projects
 
 | Doc set/project                                                  | Dev editor   | Copy editor  | DTP    | Notes  |
 |----------------------------------------------------------------------|----------------|----------------------|----------------|-------|
