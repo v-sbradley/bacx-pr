@@ -1,5 +1,5 @@
 ---
-title: "GitHub Cheat Sheet"
+title: "GitHub cheat sheet"
 ms.date: 5/11/2020
 ms.service: 
 ms.topic: "conceptual"
@@ -8,6 +8,6 @@ ms.author: "emcheachern"
 manager: "renwe"
 ---
 
-# GitHub Cheat Sheet
+# GitHub cheat sheet
 
 This page is under construction.
