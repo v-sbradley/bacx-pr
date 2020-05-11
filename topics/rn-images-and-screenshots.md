@@ -1,10 +1,11 @@
 ---
 title: "Images, screenshots, and GIFs"
-ms.date: 1/2/2020
+ms.date: 05/11/2020
 ms.service: 
 ms.topic: "conceptual"
-author: "ReneeW-CPub"
-ms.author: "renwe"
+author: "emceachern"
+ms.author: "emceachern"
+manager: "renwe"
 ---
 
 # Images, screenshots, and GIFs

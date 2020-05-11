@@ -1,4 +1,18 @@
-# Doc set assignments
+---
+title: "Editor's guide"
+ms.date: 11/05/2019
+ms.service: 
+ms.topic: "conceptual"
+author: "emceachern"
+ms.author: "emcheachern"
+manager: "renwe"
+---
+
+# Editor's guide
+
+Here you will find helpful information for editors.
+
+## Doc set assignments
 
 Here are the editorial ownership areas for our BACX doc sets and projects. 
 
@@ -6,16 +20,16 @@ To request editing, use the process you currently use. Tonya and Renee will tria
 
 To ask questions when you can’t find what you need, contact one of these aliases or team members: 
 
-**Aliases**: 
+### Aliases 
 
 BACX CE Editors: [crmed](mailto:crmed@microsoft.com?subject=Style) 
 
 Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com) 
 
-**Editing contacts for specific doc sets/projects**
+### Editing contacts for specific doc sets/projects
 
-| Doc set/project                                                  | Dev editor   | Copy editor  | DTP    | Notes  |
-|----------------------------------------------------------------------|----------------|----------------------|----------------|-------|
+| Doc set/project    | Dev editor   | Copy editor  | DTP    | Notes  |
+|-------------------------------------------------------|----------------|----------------------|----------------|-------|
 | F&O | Tonya, Chris | Marge| Chris | Includes task guides. |
 | CE | Renee, Laurie | Marge| N/A |  |
 | BC | Resource needed | Marge| No resource |  |
@@ -35,11 +49,11 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 When you are ready for your content to be edited, log a new request through your team’s current method:
 
 | Team                             | Method of Request                     |
-| --------------------- | ----------------------- | ----- |
+| --------------------- | ----------------------- |
 | F&O, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
 | Triple Crown                              | [Triple Crown tasks](https://dev.azure.com/mseng)   |
 | Customer Engagement, Power Apps, Flow, Power Platform | [Editing Task Request](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)      |
-|                                                       |Query: [CE Editing query](https://dynamicscrm.visualstudio.com/OneCRM/_queries?tempQueryId=3be7b6a8-f759-47fd-ac30-077507d8843d)
+|Query:                                                       | [CE Editing query](https://dynamicscrm.visualstudio.com/OneCRM/_queries?tempQueryId=3be7b6a8-f759-47fd-ac30-077507d8843d)
 
 
 
@@ -87,4 +101,3 @@ Dev editors edit for:
 | MS Learn | Dev edit | Julie, Chris |     |
 | Learning paths | Dev edit | Renee, Laurie, Chris  |      |
 | Video scripts | Dev edit| Tonya, Renee  |        |
-

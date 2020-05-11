@@ -8,7 +8,6 @@ ms.author: "renwe"
 ---
 # Explore the release plans repos
 
-
 We currently use three repos for our release plans content:
 
 - [dynamics365-releasenotes-pr](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr). For **Dynamics 365 wave 2** (October '19) release plans and later.
@@ -23,7 +22,7 @@ For **April '19** content or earlier, doc owners make updates directly in the Bu
 
 No matter which repo is involved, the team's editors might reach out to doc owners via email if questions come up during the editing process. Typically, the editors enter questions or comments directly in the GitHub file using Markdown tags like this:
 
-  \<!--editor: Please review the rewrite of the following sentence. -->
+<!--editor: Please review the rewrite of the following sentence. -->
 
 ## Repo structure
 
