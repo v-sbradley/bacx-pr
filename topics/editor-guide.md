@@ -101,4 +101,3 @@ Dev editors edit for:
 | MS Learn | Dev edit | Julie, Chris |     |
 | Learning paths | Dev edit | Renee, Laurie, Chris  |      |
 | Video scripts | Dev edit| Tonya, Renee  |        |
-
