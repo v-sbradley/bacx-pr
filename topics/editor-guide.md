@@ -28,8 +28,8 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 
 ### Editing contacts for specific doc sets/projects
 
-| Doc set/project                                                  | Dev editor   | Copy editor  | DTP    | Notes  |
-|----------------------------------------------------------------------|----------------|----------------------|----------------|-------|
+| Doc set/project    | Dev editor   | Copy editor  | DTP    | Notes  |
+|-------------------------------------------------------|----------------|----------------------|----------------|-------|
 | F&O | Tonya, Chris | Marge| Chris | Includes task guides. |
 | CE | Renee, Laurie | Marge| N/A |  |
 | BC | Resource needed | Marge| No resource |  |
@@ -49,7 +49,7 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 When you are ready for your content to be edited, log a new request through your team’s current method:
 
 | Team                             | Method of Request                     |
-| --------------------- | ----------------------- | ----- |
+| --------------------- | ----------------------- |
 | F&O, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
 | Triple Crown                              | [Triple Crown tasks](https://dev.azure.com/mseng)   |
 | Customer Engagement, Power Apps, Flow, Power Platform | [Editing Task Request](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)      |
