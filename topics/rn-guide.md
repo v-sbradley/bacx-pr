@@ -29,8 +29,8 @@ With the **2020 release wave 1 plans**, we implemented to following changes:
 
 | Feature | Notes | PDF |
 | -- | -- | -- |
-| **[Dynamics 365 2020 release wave 1 plan](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/)** | Updated regularly. | Updated regularly. |
-| **Power Platform 2020 release wave 1 plan](https://docs.microsoft.com/power-platform-release-plan/2020wave1/)** | Updated regularly. | Updated regularly. |
+| **[Dynamics 365: 2020 release wave 1 plan](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/)** | Updated regularly. | Updated regularly. |
+| **[Power Platform: 2020 release wave 1 plan](https://docs.microsoft.com/power-platform-release-plan/2020wave1/)** | Updated regularly. | Updated regularly. |
 
 ## Archived release plans
 
@@ -42,8 +42,8 @@ With the **2019 release wave 2 plans**, we implemented the following changes:
 
 | Feature | Notes | PDF |
 | -- | -- | -- |
-| **[Dynamics 365 2019 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/)** | This release plan is archived, and will no longer be updated. | No longer updated. |
-| **[Power Platform 2019 release wave 2 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/)** | This release plan is archived, and will no longer be updated. | No longer updated.|
+| **[Dynamics 365: 2019 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/)** | This release plan is archived, and will no longer be updated. | No longer updated. |
+| **[Power Platform: 2019 release wave 2 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/)** | This release plan is archived, and will no longer be updated. | No longer updated.|
 | **[April '19 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April19/index)** | This release plan is archived, and will no longer be updated. | No longer updated. |
 | **[October '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/index)** | This release plan is archived, and will no longer be updated. | No longer updated. |
 | **[April '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April18/index)** | This release plan is archived, and will no longer be updated. | No longer updated. | 
