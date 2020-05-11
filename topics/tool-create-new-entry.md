@@ -11,7 +11,9 @@ manager: "renwe"
 # Create a new entry
 
 In the left nav, select the kind of new entry you want. This can be a product overview, release plan, persona, or something else. 
-Note: Be mindful of what's highlighted in the left nav since that is where this new entry will be created.
+
+> [!NOTE]
+> Be mindful of what's highlighted in the left nav since that is where this new entry will be created.
 
 This field will be published as the "Feature Details" section in the release plans.
 
@@ -35,9 +37,9 @@ This is where you will create, update, move, and duplicate release plans for a v
 6. Add Product Team. You can select from a dropdown or add a new team.
 7. Internal working note: This will not be published and is a good location to share internal information about a feature. 
 8. Select the status for Public Preview/Early Access (dropdown).
-  * If this is selected, you will be prompted to enter a date to the corresponding field. 
+   * If this is selected, you will be prompted to enter a date to the corresponding field. 
 9. Select the stateus for GA (dropdown)
-  * If this is selected, you will be prompted to enter a date to the corresponding field. 
+   * If this is selected, you will be prompted to enter a date to the corresponding field. 
 
 ### Details 
 1. Enter summary. This will be the metadata for the feature.
@@ -63,5 +65,5 @@ Once you have entered all the necessary data, look to the top right of the featu
 * Include in Release plan
 * Doc Owner Reviewed
 
-> ![Note]
-> For your feature to be published, both of these toggles must be set to "Yes" otherwise they will not be included. 
+> ![NOTE]
+> For your feature to be published, both of these toggles must be set to *Yes*, otherwise they will not be included. 
