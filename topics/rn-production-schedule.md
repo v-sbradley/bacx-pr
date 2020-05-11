@@ -13,7 +13,7 @@ The Release plans are regularly updated and published to [docs.microsoft.com](ht
 
 The production schedule can be found [here](https://msit.powerbi.com/groups/fce55d85-50c2-4249-b054-60f8643ad13f/reports/0eb6f27b-2d3a-447d-9a6a-cf77f35bfbcd/ReportSection31aec9950d0006de8110).
 
-# Late submission guidelines
+## Late submission guidelines
 
 Our goal is to publish our release plans in a reliable cadence, which builds customer trust, and ensures that the right information is released at the right time. If deadlines slip, the following process will be adhered to:
 
