@@ -33,7 +33,7 @@ Often, docs build failures can be fixed by requesting a manual content build. To
 
     ![](media/manual-publish-step-4.png)
 
-8. Select **Docs Site** as the target to publish, ensure that **Force Build** is selected, and click **Publish**.
+8. Select **Docs Site** as the target to publish, ensure that **Force Publish** is selected, and click **Publish**.
 
     ![](media/manual-publish-step-5.png)
 
