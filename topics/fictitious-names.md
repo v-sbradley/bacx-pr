@@ -1,6 +1,6 @@
 ---
 title: "Fictitious names| MicrosoftDocs"
-ms.date: 08/23/2019
+ms.date: 07/29/2020
 ms.service: 
 ms.topic: "conceptual"
 author: "KumarVivek"
@@ -47,9 +47,44 @@ Here are the approved names for FY20. 
 > [!IMPORTANT]
 > In addition to the approved names below, you can also use the names in the sample data that ships with Common Data Service.
 
-Tracking notes: Marina Hogan-Maguire approved them 7/23/2019.
+Tracking notes: Marina Hogan-Maguire approved them 7/28/2020.
 
 **Female names**
+
+| **First Name**  | **Last Name**  | **Gender**  |
+|-----------------|----------------|-------------|
+|Eugenia	|Lopez|	Eugenia Lopez|
+|Elizabeth|	Moore|	Elizabeth Moore|
+|Maria	|Sullivan|	Maria Sullivan|
+|Hannah	|Jarvis	| Hannah Jarvis|
+|Grace	|Taylor	|Grace Taylor|
+|Kiana	|Anderson|	Kiana Anderson|
+|Madison	|Butler|	Madison Butler|
+|Abigail	|Jackson|	Abigail Jackson|
+|Natasha	|Jones|	Natasha Jones|
+|Briana	|Hernandez|	Briana Hernandez|
+|Hailey	|Clark|	Hailey Clark|
+|Monica	|Thompson|	Monica Thomson|
+|Jasmine	|Miller|	Jasmine Miller|
+|Isabel	|Garcia|	Isabel Gracia|
+|Sara	|Perez|	Sara Perez|
+
+
+
+|Kayla	Lewis	Kayla Lewis
+|Michelle	Harris	Michelle Harris
+|Serena	Davis	Serena Davis
+|Nicole	Wagner	Nicole Wagner
+|Cora	Thomas	Cora Thomas
+|Ana	Bowman	Ana Bowman
+|Amber	Rodriguez	Amber Rodriguez
+|Olivia	Wilson	Olivia Wilson
+|Renata	Hall	Renata Hall
+|Mikaela	Lee	Mikaela Lee
+|Ashley	Schroeder	Ashley Schroeder
+|Sydney	Mattos	Sydney Mattos
+|Victoria	Burke	Victoria Burke
+
 
 | **First Name**  | **Last Name**  | **Gender**  |
 |-----------------|----------------|-------------|
