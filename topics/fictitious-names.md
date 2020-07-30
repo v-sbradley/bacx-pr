@@ -51,9 +51,9 @@ Tracking notes: Marina Hogan-Maguire approved them 7/28/2020.
 
 **Female names**
 
-| **First Name**  | **Last Name**  | **Gender**  |
+| **First Name**  | **Last Name**  | **Full name **  |
 |-----------------|----------------|-------------|
-|Eugenia	|Lopez|	Eugenia Lopez|
+|Eugenia	        |      Lopez     |Eugenia Lopez|
 |Elizabeth|	Moore|	Elizabeth Moore|
 |Maria	|Sullivan|	Maria Sullivan|
 |Hannah	|Jarvis	| Hannah Jarvis|
@@ -68,22 +68,19 @@ Tracking notes: Marina Hogan-Maguire approved them 7/28/2020.
 |Jasmine	|Miller|	Jasmine Miller|
 |Isabel	|Garcia|	Isabel Gracia|
 |Sara	|Perez|	Sara Perez|
-
-
-
-|Kayla	Lewis	Kayla Lewis
-|Michelle	Harris	Michelle Harris
-|Serena	Davis	Serena Davis
-|Nicole	Wagner	Nicole Wagner
-|Cora	Thomas	Cora Thomas
-|Ana	Bowman	Ana Bowman
-|Amber	Rodriguez	Amber Rodriguez
-|Olivia	Wilson	Olivia Wilson
-|Renata	Hall	Renata Hall
-|Mikaela	Lee	Mikaela Lee
-|Ashley	Schroeder	Ashley Schroeder
-|Sydney	Mattos	Sydney Mattos
-|Victoria	Burke	Victoria Burke
+|Kayla|	Lewis|	Kayla Lewis|
+|Michelle|	Harris|	Michelle Harris|
+|Serena|	Davis|	Serena Davis|
+|Nicole|	Wagner|	Nicole Wagner|
+|Cora|	Thomas|	Cora Thomas|
+|Ana|	Bowman|	Ana Bowman|
+|Amber|	Rodriguez|	Amber Rodriguez|
+|Olivia|	Wilson|	Olivia Wilson|
+|Renata|	Hall|	Renata Hall|
+|Mikaela|	Lee|	Mikaela Lee|
+|Ashley|	Schroeder|	Ashley Schroeder|
+|Sydney|	Mattos|	Sydney Mattos|
+|Victoria|	Burke|	Victoria Burke|
 
 
 | **First Name**  | **Last Name**  | **Gender**  |
