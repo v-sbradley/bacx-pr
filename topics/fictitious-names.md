@@ -54,7 +54,7 @@ Tracking notes: Marina Hogan-Maguire approved them 7/28/2020.
 | **First Name**  | **Last Name**  | **Full name **  |
 |-----------------|----------------|-----------------|
 
-|Eugenia	        |      Lopez     |Eugenia Lopez|
+| Eugenia         | Lopez          | Eugenia Lopez   |
 |Elizabeth|	Moore|	Elizabeth Moore|
 |Maria	|Sullivan|	Maria Sullivan|
 |Hannah	|Jarvis	| Hannah Jarvis|
