@@ -3,7 +3,7 @@ title: 'SEO: Tips for writing titles - Contributor Guide'
 description: This article helps you write titles that fit the search result and scan better, by using examples from published documentation. The titles follow guidance from SEO basics, a useful guide to basic SEO techniques. 
 author: ReneeW-CPub
 ms.author: renwe
-ms.date: 07/07/2020
+ms.date: 08/07/2020
 ms.topic: contributor-guide
 ms.prod: non-product-specific
 ms.custom: internal-contributor-guide
