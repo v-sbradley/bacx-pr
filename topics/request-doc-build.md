@@ -19,6 +19,7 @@ Often, docs build failures can be fixed by requesting a manual content build. To
     
     For example, if the repo URL is https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr, then your repo name is **dynamics-365-customer-engagement-pr** 
 
+    :::image type="content" source="media/manual-publish-step-1.png" alt-text="Search for repo in the OPS portal.":::
     ![](media/manual-publish-step-1.png)
 
 5. Select the repo name from the list below that exactly matches the name you typed, and then select the **Build history** tab.
