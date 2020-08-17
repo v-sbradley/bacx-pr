@@ -24,10 +24,12 @@ Often, docs build failures can be fixed by requesting a manual content build. To
 
 5. Select the repo name from the list below that exactly matches the name you typed, and then select the **Build history** tab.
 
+    :::image type="content" source="media/manual-publish-step-2.png" alt-text="Search for repo in the OPS portal.":::
     ![](media/manual-publish-step-2.png)
 
 6. Click **+ Manual Publish**
 
+    :::image type="content" source="media/manual-publish-step-3.png" alt-text="Search for repo in the OPS portal." border="false":::
     ![](media/manual-publish-step-3.png)
 
 7. Enter the name of the branch to build.
