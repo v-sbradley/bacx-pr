@@ -20,17 +20,14 @@ Often, docs build failures can be fixed by requesting a manual content build. To
     For example, if the repo URL is https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr, then your repo name is **dynamics-365-customer-engagement-pr** 
 
     :::image type="content" source="media/manual-publish-step-1.png" alt-text="Search for repo in the OPS portal.":::
-    ![](media/manual-publish-step-1.png)
 
 5. Select the repo name from the list below that exactly matches the name you typed, and then select the **Build history** tab.
 
-    :::image type="content" source="media/manual-publish-step-2.png" alt-text="Search for repo in the OPS portal.":::
-    ![](media/manual-publish-step-2.png)
+    :::image type="content" source="media/manual-publish-step-2.png" alt-text="Build history tab":::
 
 6. Click **+ Manual Publish**
 
-    :::image type="content" source="media/manual-publish-step-3.png" alt-text="Search for repo in the OPS portal." border="false":::
-    ![](media/manual-publish-step-3.png)
+    :::image type="content" source="media/manual-publish-step-3.png" alt-text="Manual publish button" border="false":::
 
 7. Enter the name of the branch to build.
 
