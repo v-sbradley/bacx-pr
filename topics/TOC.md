@@ -38,8 +38,12 @@
 #### [Dos and Don'ts](rn-gh-dos-and-donts.md)
 #### [Merging & approving PRs](rn-gh-merging-approving-prs.md)
 ## Style guide
-### [Tips and references](style-tips.md)
+### [SEO: Tips for writing H1s](write-a-heading-1.md)
+### [SEO: Write good meta descriptions](write-good-descriptions.md)
+### [SEO: Tips for writing titles](write-titles.md)
+### [When to update the ms.date metadata](msdate.md) 
 ### [Fictitious names and addresses](fictitious-names.md)
+### [Release plans style best practices](style-tips.md)
 ## Editor's guide
 ### [Overview](editor-guide.md)
 ### [Types of edits](types-of-edits.md)
