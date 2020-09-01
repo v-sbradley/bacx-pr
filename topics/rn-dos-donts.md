@@ -1,6 +1,6 @@
 ---
 title: "Do's and don'ts in the release plans"
-ms.date: 05/11/2020
+ms.date: 09/01/2020
 ms.service: 
 ms.topic: "conceptual"
 author: "emceachern"
@@ -13,6 +13,12 @@ manager: "renwe"
 We author some things differently in the release plans than in other docs. The differences are necessary because we create a custom PDF from the Markdown files, and this presents specific conversion issues. Because it is very time-consuming to produce a PDF of 350 pages or more, we limit certain functionality to avoid manual fixes in the PDF version. 
 
 With that in mind, here are some do's and don'ts for release plans:
+
+- Don't use **colons** or **em dashes** in titles. This breaks the sync between the app and GitHub, and it causes a lot of manual fixes in GitHub. Instead, use an **en dash** and a *space on either side*. 
+
+- Don't capitalize the first word following an **em dash**, **en dash**, **hyphen**, or **colon** unless it is a proper noun.
+
+- Don't use spaces on either side of **em dashes**. 
 
 - Don't manually rename or delete topics in GitHub. If you revise a release plan title or remove a title from release plans in the Release Planner tool, the tool will handle it when the GitHub PRs are created. 
 
