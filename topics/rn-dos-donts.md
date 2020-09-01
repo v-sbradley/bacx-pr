@@ -20,7 +20,7 @@ With that in mind, here are some do's and don'ts for release plans:
 
 - Don't use spaces on either side of **em dashes**. 
 
-- Don't manually rename or delete topics in GitHub. If you revise a release plan title or remove a title from release plans in the Release Planner tool, the tool will handle it when the GitHub PRs are created. 
+- Don't manually rename or delete topics in GitHub. If you revise a release plan title or remove a title from release plans in the Release Planner app, the app will handle it when the GitHub PRs are created. 
 
 - Don't use HTML formatting. It breaks the PDFs. 
 
