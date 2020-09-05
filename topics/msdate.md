@@ -1,6 +1,7 @@
 ---
 title: Update the ms.date metadata 
-ms.date: 08/31/2020
+description: Learn when to change the date on an existing file. 
+ms.date: 09/04/2020
 ms.service: 
 ms.topic: article
 author: ReneeW-CPub
