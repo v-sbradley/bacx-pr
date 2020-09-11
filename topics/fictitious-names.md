@@ -1,6 +1,6 @@
 ---
 title: "Fictitious names| MicrosoftDocs"
-ms.date: 07/29/2020
+ms.date: 09/10/2020
 ms.service: 
 ms.topic: "conceptual"
 author: "KumarVivek"
@@ -42,7 +42,7 @@ BACX CE Editors (crmed) to help you. *There are more steps beyond just generatin
 
 ## Approved fictitious names
 
-Here are the approved names for FY20. 
+Here are the approved names for FY21. 
 
 > [!IMPORTANT]
 > In addition to the approved names below, you can also use the names in the sample data that ships with Common Data Service.
