@@ -10,11 +10,11 @@ manager: "renwe"
 
 # Images, screenshots, and GIFs
 
-Images are an important part of the release plans. They provide visual context for features, and helps the customer understand the benenfits and functions of our products. When you submit an image in the release planner app it will get uploaded to the Master branch for that particular repo. It's important to consider the following before you submit your images. 
+Images are an important part of the release plans. They provide visual context for features and help the customer understand the benenfits and functions of our products. When you submit an image in the release planner app it will get uploaded to the Master branch for that particular repo. It's important to consider the following before you submit your images. 
 
 ## Image Dos
 
-- Complete the Alt-text
+- Complete the alt-text
   - Alt-text is necessary to confirm with accessiblity standards
   - It should be a detailed description of the image, including keywords, that's no more than 125 characters (screen readers tend to cut off at that length)
   - Provides some SEO value to your feature
