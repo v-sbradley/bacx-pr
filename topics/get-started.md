@@ -1,6 +1,6 @@
 ---
 title: "Contributors guide: Get started| MicrosoftDocs"
-ms.date: 09/24/2018
+ms.date: 09/25/2020
 ms.service: 
 ms.topic: "conceptual"
 author: "KumarVivek"
@@ -30,7 +30,7 @@ two** steps again. Also, this is just a one-time setup.
     <https://repos.opensource.microsoft.com/MicrosoftDocs>
 
 3.  Request write access to [our repos](#our-repos) by joining the following group:
-    <https://github.com/orgs/MicrosoftDocs/teams/bacx-contribute/members>
+    <https://github.com/orgs/MicrosoftDocs/teams/bacx-contribute/members> <br> As an alternative, you can also go to https://repos.opensource.microsoft.com/MicrosoftDocs, search for **bacx-contribute** MicrosoftDocs Team, and submit the join request.
 
 > [!CAUTION]
 > You must print or save your recovery codes so that you can
