@@ -22,7 +22,6 @@ There are several content types, each of which uses a unique way to provide info
 - [Glossary](#Glossary)
 
 ## <a name="Home_page">Home page</a>
-
 These are also known as *landing pages*. A home page does not just mirror the TOC nor should it be a link farm, but instead is should provide some overview information and possibly graphics that are helpful to the reader. 
 
 ### Title
@@ -34,7 +33,6 @@ These are also known as *landing pages*. A home page does not just mirror the TO
 
 
 ## <a name="Overview">Overview</a>
-
 An overview topic describes what the user can do with this feature using plain terms and no jargon. Think about why the user would use this feature or product and write your topic to address this. 
 
 An overview topic can contain but is not limited to this kind of content:
@@ -64,10 +62,22 @@ All or a combination of those elements can be used to describe:
 
 
 ## <a name="Get_started">Get started</a>
+A Get started topic provides information that will help users get started with a particular product or feature. These topics often describe at a high-level the things that users must consider and the decisions they must make in order to complete a task or series of tasks. 
 
+Here are some things that you might want to consider when writing a Get started topic:
+
+- List any needed prerequisites, such as required software, required tasks, or required permissions.
+- The information in this topic needs to be listed in the order in which a user would complete the configuration of tasks.
+- You might include both overview and procedural information in a Get started topic, basically anything needed to get the user acquainted with what they need to do to get started. 
+
+### Title
+- Write as “Get started  with <Product name>” or “Get started  with <feature>”, depending on the content in the topic. 
+- Do not use “Getting started” in the title.  
+ 
+### Example
+[Get started with the Electronic invoicing add-on](https://docs.microsoft.com/dynamics365/finance/localizations/e-invoicing-get-started)
 
 ## <a name="What's_new">What's new</a>
-
 This topic provides resources where you can learn about the new features that have recently released or new features that will be releasing over the next few months. These topics should not contain any feature descriptions. For feature descriptions, provide a link to the feature description in the release plans. Do not include any feature information that has been postponed.
 
 If needed, you can break this information into subsections.
@@ -83,13 +93,49 @@ Some teams include a section for “In development”. This is where you can pro
 
 
 ## <a name="Procedure">Procedure</a>
+Procedural topics instruct a user on how to complete a task. This can be both frequent and infrequent user tasks. This topic answers the question "How do I do this?" by presenting a series of procedural steps. For this kind of content, you can – and should – include applicable conceptual information together with the procedures, if appropriate.
+
+Sometimes procedureal content is about planning how to do something, like defining the organization structure and setting up the chart of accounts. This kind of content should include any “gotchas” related to the planning decisions that users will make.
+
+Here are some things that you might want to consider when writing a procedure:
+
+- List any needed prerequisites, such as required software, required tasks, or required permissions.
+- When deciding how to organize the tasks, first think about whether the tasks are sequential. If they are, list them in that sequential order. If the tasks aren’t sequential, focus first on the tasks that most users will have to do, and include the less-common tasks later in the topic.
+- If there is a series of tasks, include an introductory sentence or two that describes the procedures and why or when they should be completed.
+- At the end of the topic, include a "Next steps" section and add a link to where the user should go next, if applicable.
+- These topics typically have an "Additional resources" section, to point the user to additional information about the subject. 
+
+### Title
+- Always use precise, imperative verbs, which tell the user what to do, like “Set up” or “Configure.” 
+- Avoid vague verbs, such as “About” or “Using.”
+- After the verb, use a plural noun phrase unless the noun is uncountable. 
+
+### Example
+[Manage robots.txt files](https://docs.microsoft.com/dynamics365/commerce/manage-robots-txt-files)
 
 
 ## <a name="Accessibility">Accessibility</a>
+Accessibility topics describe the functionality that is designed to help users who have various disabilities use a product. Complying with Microsoft Accessibility Standard (MAS) requirements makes sure that our content is created in such a way that it maximizes accessibility for people with disabilities and supports users of various input methods and devices.
+
+Some common sections in an accessibility topic might include: 
+
+- Windows Narrator and keyboard-only access
+- Shortcuts for the most frequently performed actions
+- Navigation search
+- Action search for keyboard-only users or for heads-down data entry
+- Tab sequence
+- Form patterns
+- Responsive layout
+- Guidance to help developers and customers incorporate accessible thinking in their customizations
+
+### Title
+- For SEO, titles should be “Accessibility features”.
+
+### Example
+[Accessibility features]( https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/accessibility-features?toc=/dynamics365/human-resources/toc.json)
 
 
 ## <a name="FAQ">FAQ</a>
-
 Write an FAQ to introduce concepts that the user needs to understand. Include only the concepts that are related to work that the user is trying to do. Write questions that are likely to be asked. You can include any combination of Who, What, Why, Where, When, and How questions that you need. You don't have to include all of these types. Provide answers to all of the questions. 
 
 Be careful not to use an FAQ as a catchall topic. In most cases, this kind of content can fit into existing content to fill in gaps or troubleshooting issues. If an FAQ topic is needed, most likely the content will be based on customer/partner questions that cannot be answered by adding content to existing topics. 
@@ -117,11 +163,10 @@ If you include a yes/no question, start the answer with Yes or No. Then add expl
 - The title should not include "Q and A" or “Q&A”.
 
 ### Example
-LinkedIn integration FAQ
+[LinkedIn integration FAQ](https://docs.microsoft.com/dynamics365/talent/attract-linkedin-faq)
 
 
 ## <a name="Glossary">Glossary</a>
-
 A glossary provides an alphabetical list of definitions for words, phrases, and acronyms that are used for a product or product area. 
 
 In general, a glossary term is:
@@ -138,6 +183,8 @@ The following best practices ensure that terms and definitions are consistent in
 - Don’t restate the term as the definition. For example, don’t define tax hierarchy as A hierarchy of taxes. 
 - Don’t copy definitions word-for-word from existing, non-Microsoft sources. 
 - Be sure that other key concepts in the definition have also been defined. 
+
+Be sure to write each letter of the alphabet as an individual H2 section, so that each letter of the alphabet is listed in the "In this article" pane. This makes it easy for readers to navigate the glossary. 
 
 ### Title
 - Use either the standalone term “Glossary” or precede “glossary” with a product name, such as “Commerce glossary”. 
