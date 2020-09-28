@@ -24,11 +24,11 @@ There are several content types, each of which uses a unique way to provide info
 ## <a name="Home_page">Home page</a>
 These are also known as *landing pages*. A home page does not just mirror the TOC nor should it be a link farm, but instead is should provide some overview information and possibly graphics that are helpful to the reader. 
 
-### Title
+### Title 
 - Use “home page”, lowercase and two words, at the end of the topic title. 
 - Do not use “landing page” or “welcome”. 
 
-### Example
+### Example 
 [System administration home page](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/system-administration-home-page)
 
 
