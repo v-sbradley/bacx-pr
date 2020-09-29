@@ -16,6 +16,7 @@ There are several content types, each of which uses a unique way to provide info
 - [Overview](#Overview)
 - [Get started](#Get_started)
 - [What’s new](#What's_new)
+- [Deprecated](#Deprecated)
 - [Procedure](#Procedure)
 - [Accessibility](#Accessibility)
 - [FAQ](#FAQ)
@@ -85,7 +86,7 @@ If needed, you can break this information into subsections.
 Some teams include a section for “In development”. This is where you can provide a high-level overview of features expected in the next release.
 
 ### Title
-- Write as either “What’s new in <Product name> <version>” or “What’s new or changed in <Product name> <version”, depending on the content in the topic. Including <version> is optional. 
+- Write as either “What’s new in <Product name> <version>” or “What’s new or changed in <Product name> <version>”, depending on the content in the topic. Including <version> is optional. 
 -	Do not use “New features” in the title.  
  
 ### Example
@@ -112,6 +113,19 @@ Here are some things that you might want to consider when writing a procedure:
 
 ### Example
 [Manage robots.txt files](https://docs.microsoft.com/dynamics365/commerce/manage-robots-txt-files)
+
+
+## <a name="Deprecated">Deprecated</a>
+A deprecated topic describes features that have been removed, or that are planned for removal from a particular Dynamics 365 product, such as Dynamics 365 Commerce. Basically, this topic is intended to help customers consider these removals and deprecations for planning purposes.
+
+- A *removed* feature is no longer available in the product.
+- A *deprecated* feature is not in active development and may be removed in a future update.
+
+### Title
+- Titles should be written as “Removed or deprecated features in "Product name".
+
+### Example
+[Removed or deprecated features in Dynamics 365 Finance](https://docs.microsoft.com/dynamics365/finance/get-started/removed-deprecated-features-finance)
 
 
 ## <a name="Accessibility">Accessibility</a>
