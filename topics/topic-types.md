@@ -72,7 +72,7 @@ Here are some things that you might want to consider when writing a Get started 
 - You might include both overview and procedural information in a Get started topic, basically anything needed to get the user acquainted with what they need to do to get started. 
 
 ### Title
-- Write as “Get started  with <Product name>” or “Get started  with <feature>”, depending on the content in the topic. 
+- Write as “Get started  with &lt;Product name&gt;” or “Get started  with &lt;feature&gt;”, depending on the content in the topic. 
 - Do not use “Getting started” in the title.  
  
 ### Example
@@ -86,7 +86,7 @@ If needed, you can break this information into subsections.
 Some teams include a section for “In development”. This is where you can provide a high-level overview of features expected in the next release.
 
 ### Title
-- Write as either “What’s new in <Product name> <version>” or “What’s new or changed in <Product name> <version>”, depending on the content in the topic. Including <version> is optional. 
+- Write as either “What’s new in &lt;Product name&gt; &lt;version&gt;” or “What’s new or changed in &lt;Product name&gt; &lt;version&gt;”, depending on the content in the topic. Including version information is optional. 
 -	Do not use “New features” in the title.  
  
 ### Example
@@ -122,7 +122,7 @@ A deprecated topic describes features that have been removed, or that are planne
 - A *deprecated* feature is not in active development and may be removed in a future update.
 
 ### Title
-- Titles should be written as “Removed or deprecated features in "Product name".
+- Titles should be written as “Removed or deprecated features in &lt;Product name&gt;".
 
 ### Example
 [Removed or deprecated features in Dynamics 365 Finance](https://docs.microsoft.com/dynamics365/finance/get-started/removed-deprecated-features-finance)
