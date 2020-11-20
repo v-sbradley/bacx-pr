@@ -1,6 +1,6 @@
 ---
 title: "Topic types | MicrosoftDocs"
-ms.date: 09/28/2020
+ms.date: 11/20/2020
 ms.service: 
 ms.topic: "conceptual"
 author: "tonyafehr"
@@ -20,6 +20,7 @@ There are several content types, each of which uses a unique way to provide info
 - [Procedure](#Procedure)
 - [Accessibility](#Accessibility)
 - [FAQ](#FAQ)
+- [Troubleshooting](#Troubleshooting)
 - [Glossary](#Glossary)
 
 ## <a name="Home_page">Home page</a>
@@ -178,6 +179,28 @@ If you include a yes/no question, start the answer with Yes or No. Then add expl
 
 ### Example
 [LinkedIn integration FAQ](https://docs.microsoft.com/dynamics365/talent/attract-linkedin-faq)
+
+
+## <a name="Troubleshooting">Troubleshooting</a>
+Write a troubleshooting topic to provide information about how to avoid problems that users are likely to have and how to solve these problems. Arrange the topic in order according to how frequently issues seem to occur, with the least-common issues coming last in the topic. 
+
+For each problem that is addressed, provide a solution. Many problems have multiple possible solutions. After the solutions, tell the user where to go for more information.
+
+- Use H2 headings for each issue so the issue shows up as an "In this article" link.
+- Phrase each issue as a problem, not question, if possible.
+- Include punctuation at the end of the H2 issue headings (period or question mark).
+- Phrase each issue in first person (if it makes sense).
+- Phrase responses in second person.
+- Unless the issue is *very* simple (single sentence/paragraph answer), split the response using H3 headings, with "Issue description" and "Issue resolution". In some cases, you may need to use additional H3 headings, such as when there are multiple/different resolutions.
+- Include full error message text in the H2 heading, if possible (such as: "I received the following error message: "..."). Users will be searching for this error text. If needed, you can shorten the error text by adding ellipsis and then using a block quote to include the full error text in the body.
+- Create troubleshooting topics at the lowest TOC level, and place them last in the node. The issues in the troubleshooting topics will apply to the topics in that node, and be named after it. 
+
+### Title
+- Always include “Troubleshoot” at the start of the title. 
+- Use a noun phrase for the title that matches the name of the parent node in the TOC. 
+
+### Example
+[Troubleshoot inbound warehouse operations](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/troubleshoot-warehouse-inbound)
 
 
 ## <a name="Glossary">Glossary</a>
