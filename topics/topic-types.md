@@ -13,6 +13,7 @@ manager: "AnnBe"
 There are several content types, each of which uses a unique way to provide information to the user. Each topic type has been designed to deliver information in the most effective way. Because Dynamics 365 content is written for a variety of audiences, this topic shows the different content types that we use for each audience. 
 <!--note from editor: Renee to add CE and PP examples. Also add links to relevant info about RP guidelines that Erica and Ashley are writing. -->
 <!--note from editor: Renee to look for topics we can convert to this new style (new for CE and PP) so I can add examples here. Also, get CE and PP doc leads to review. What needs to have an exception? I'm thinking mostly in the PP content. -->
+<!--note from editor: I think we need to include or have a separate topic about the standard TOC for a product. Looking at F&O, the TOCs consistently contain most of these topic types in a specific order. I'd like to do that across the CE and PP content, too. -->
 
 - [Home page](#Home_page)
 - [Overview](#Overview)
