@@ -51,7 +51,7 @@ All or a combination of those elements can be used to describe:
 - Key concepts that a user must understand to complete a task successfully.
 - The situations that the topic material might apply to.
 - Business process or architectural information. 
-- Instructions about where and how user’s need to make decisions.
+- Instructions about where and how users need to make decisions.
 
 ### Title
 - Use a noun phrase for the title. 
