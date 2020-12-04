@@ -11,6 +11,8 @@ manager: "AnnBe"
 # Topic types
 
 There are several content types, each of which uses a unique way to provide information to the user. Each topic type has been designed to deliver information in the most effective way. Because Dynamics 365 content is written for a variety of audiences, this topic shows the different content types that we use for each audience. 
+<!--note from editor: Renee to add CE and PP examples. Also add links to relevant info about RP guidelines that Erica and Ashley are writing. -->
+<!--note from editor: Renee to look for topics we can convert to this new style (new for CE and PP) so I can add examples here. Also, get CE and PP doc leads to review. What needs to have an exception? I'm thinking mostly in the PP content. -->
 
 - [Home page](#Home_page)
 - [Overview](#Overview)
@@ -61,7 +63,7 @@ All or a combination of those elements can be used to describe:
 
 ### Example
 [Dual-write overview](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview)
-
+<!--note from editor: Add more examples that don't have overview in the title, since that's a recommendation for this type.-->
 
 ## <a name="Get_started">Get started</a>
 A Get started topic provides information that will help users get started with a particular product or feature. These topics often describe at a high-level the things that users must consider and the decisions they must make in order to complete a task or series of tasks. 
