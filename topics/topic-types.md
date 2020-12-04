@@ -229,4 +229,4 @@ Be sure to write each letter of the alphabet as an individual H2 section, so tha
 - Use either the standalone term “Glossary” or precede “glossary” with a product name, such as “Commerce glossary”. 
 
 ### Example
-[Customer Insights glossary]
+[Engagement insights capability glossary](https://docs.microsoft.com/dynamics365/customer-insights/engagement-insights/glossary)
