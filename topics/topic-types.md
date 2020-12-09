@@ -228,6 +228,8 @@ Be sure to write each letter of the alphabet as an individual H2 section, so tha
 
 ### Title
 - Use either the standalone term “Glossary” or precede “glossary” with a product name, such as “Commerce glossary”. 
+<!--note from editor: See this page. The lower left area has "Terms and concepts" instead of "glossary". What to add here about that? https://docs.microsoft.com/en-us/dynamics365/customer-insights/ -->
+
 
 ### Example
 [Engagement insights capability glossary](https://docs.microsoft.com/dynamics365/customer-insights/engagement-insights/glossary)
