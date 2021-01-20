@@ -43,6 +43,7 @@
 ### [SEO: Tips for writing titles](write-titles.md)
 ### [Update the msdate metadata](msdate.md) 
 ### [Fictitious names and addresses](fictitious-names.md)
+### [Legal document publishing](legaldocs.md)
 ### [Release plans style best practices](style-tips.md)
 ## Editor's guide
 ### [Overview](editor-guide.md)
