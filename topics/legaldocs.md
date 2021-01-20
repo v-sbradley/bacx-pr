@@ -19,4 +19,4 @@ this request form:
 
 If you are a writer or content strategist who is asked how to get a legal document published, also refer the person asking to the request form. 
 
-The person overseeing legal doc publishing is Dimpi Gandhi (dimpigan).  
+The PMs overseeing the legal doc publishing are Dimpi Gandhi (dimpigan) and John Hart (johhar).  
