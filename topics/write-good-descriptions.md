@@ -3,7 +3,7 @@ title: 'SEO: Write good meta descriptions - Contributor Guide'
 description: Learn how to writer meta descriptions using several examples 
 author: ReneeW-CPub
 ms.author: renwe
-ms.date: 09/09/2019
+ms.date: 08/07/2020
 ms.topic: contributor-guide
 ms.prod: non-product-specific
 ms.custom: internal-contributor-guide
@@ -19,42 +19,41 @@ The meta description is an article summary that displays under page titles on th
 - At least one full sentence that describes the page topic fully.
 - Use text from the introductory paragraph of on-page copy edited for length, if it describes the article intent. 
 - Write key concepts at the head of the description. 
-- Optional: Include a CTA (call to action) in the meta description.
-    Example from H&R Block website (CTA in italics): “Not sure if your dependent children are required to file taxes? *Learn more about tax rules for children with the experts at H&R Block.*”
+- The introductory paragraph can often be used for the meta description by paring down the length and modifying a bit of the language.  
 
 ## Meta description examples
 
-**Example 1:** [https://docs.microsoft.com/learn/paths/get-started-with-marketing/](https://docs.microsoft.com/learn/paths/get-started-with-marketing/)
+**Example 1**
 
-**Current meta description**: Microsoft Dynamics 365 for Marketing is a marketing automation application that enables you to turn prospects into business relationships. You can find and nurture more sales-ready leads by moving beyond basic email marketing. Connect sales and marketing, automate processes, and make smarter decisions to maximize your marketing ROI. Administrators use advanced settings to fine-tune application behavior, set defaults, manage users, enable webinars, check quotas, and more. (475 characters)
+**Current meta description**: Before you can use electronic banking, you must set up export protocols. Export protocols define the file format that is generated when you export payment history to be processed by the bank. Each line contains an export protocol identified by a code and a description. You can set up as many export protocols as necessary. You must set up an export protocol for domestic payments, international payments, SEPA payments, and non-Euro SEPA payments.  (448 characters)
 
-**Edited meta description**: With this learning path, get started using Microsoft Dynamics 365 for Marketing with modules that guide you through basic setup and advanced configurations. (156 characters)
+**Edited meta description**: Before you can use electronic banking, you must set up export protocols. This topic explains how to set up an export protocol for various kinds of payments. (157 characters)
 
 > [!TIP]
-> The original meta description for this page is more than 400 characters. Write meta descriptions that fit character limits (~160 characters maximum), directly explain the page topic, use unique language from the on-page copy, and ideally include a CTA (call to action). In this case, the edited meta description describes the learning path as opposed to simply summarizing Microsoft Dynamics 365 for Marketing. The edited meta description also includes a CTA (“get started”) to encourage users to click on the page and go through the modules. CTA is not required but will enhance the meta description.  The introductory paragraph can often be used for the meta description by paring down the length and modifying a bit of the language.  
+> The original meta description for this page is more than 400 characters. Write meta descriptions that fit character limits (~160 characters maximum), directly explain the page topic and use unique language from the on-page copy. 
 
-**Example 2:** [https://docs.microsoft.com/learn/modules/intro-to-containers/](https://docs.microsoft.com/learn/modules/intro-to-containers/)
+**Example 2**
 
-**Current meta description:** In this module, you’ll learn how to use Docker to quickly deploy a web application. You’ll download an existing Docker image from Docker Hub, and customize it to run your own application. You’ll upload the image to an Azure Container Registry, and run the application in Azure from an Azure Container Instance. (322 characters)
+**Current meta description:** This SDK contains a wealth of resources, including code samples, which are designed to help you build powerful vertical applications using the Customer Engagement (on-premises) platform. It is a guide for developers writing solutions, server-side code, client applications and extensions, custom business logic, plug-ins, integration modules, custom workflow modules and more. The SDK contains an architectural overview of Customer Engagement, the entity model, security model, web services, and sample code.  (508 characters)
 
-**Edited meta description**: In this module, learn how to use Docker to quickly deploy a web application, work with Docker images, and customize images to run your own applications. (153 characters)
+**Edited meta description**: This SDK contains an architectural overview of the entity model, security model, web services, and sample code for Dynamics 365 Customer Engagement (on-premises). (162 characters)
 
 > [!TIP]
 > In this example, the original meta description included many aspects of an ideal meta description, but it was too long. The length was reduced by removing optional phrases and tightening the overall wording. Now, the meta description will fit within character limits. 
 
-**Example 3:** 	[https://docs.microsoft.com/learn/modules/consume-rest-services](https://docs.microsoft.com/learn/modules/consume-rest-services)
+**Example 3**
 
-**Current meta description:** Consume REST web services in Xamarin apps. (41 characters)
+**Current meta description:** Use the VAT Rate Change Tool (28 characters)
 
-**Edited meta description**: In this learning module, learn how to consume REST web services with HttpClient as part of Xamarin applications. (111 characters)
+**Edited meta description**: This topic explains how to use the VAT Rate Change tool to perform VAT rate conversions for master data, journals, and orders. (126 characters)
 > [!TIP]
->In this case, the original meta description duplicated the H1 and was a bit too short to qualify as a full-fledged meta description. To make the meta description a bit more robust, more details were added and a clear CTA was included. The edited meta description will provide more information to users and reduce the chances that a search engine will fill in the meta description field with other on-page copy.
+>In this case, the original meta description was too short to qualify as a full-fledged meta description. The edited meta description will provide more information to users and reduce the chances that a search engine will fill in the meta description field with other on-page copy.
 
-**Example 4:** [https://docs.microsoft.com/sccm/apps/deploy-use/create-deploy-scripts](https://docs.microsoft.com/sccm/apps/deploy-use/create-deploy-scripts)
+**Example 4**
 
-**Current meta description:** Create and run Powershell scripts on client devices. (51 characters)
+**Current meta description:** Find all the training options for administrators. (49 characters)
 
-**Edited meta description**: Learn how automated and sophisticated scripts of PowerShell can enable software deployment from configuration manager console. (143 characters)
+**Edited meta description**: Use this topic to find all of the training options that are available for Dynamics 365  administrators. (103 characters)
 
 > [!TIP]
->The original meta description was too short and lacked detail. By using text from first paragraph and rearraging, the new meta description fits the character limit and gives an inviting  message to users to click on the article.
+>The original meta description was too short and lacked detail. The new meta description fits the character limit and gives an inviting  message to users to click on the article.

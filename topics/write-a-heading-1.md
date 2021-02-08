@@ -3,7 +3,7 @@ title: 'SEO: Tips for writing H1s - Contributor Guide'
 description: This article describes the rules and shows best practices on how to write good H1 headings by providing the examples from published documentation. 
 author: ReneeW-CPub
 ms.author: renwe
-ms.date: 02/21/2019
+ms.date: 08/07/2020
 ms.topic: contributor-guide
 ms.prod: non-product-specific
 ms.custom: internal-contributor-guide
@@ -33,54 +33,18 @@ One of the most complicated tasks of search engines is to understand the meaning
 
 - Ensure that every page has a unique H1 tag that is informative and specific to the on-page copy. 
     
-    Don't use the same H1 on two or more pages.
+   - Don't use the same H1 on two or more pages.
+   - If content is deemed similar between both pages and cannot be differentiated, consider determining a primary page between all alike pages and canonicalize all secondary pages to the primary page using a canonical tag.
 
 - Include primary keyword(s) in the H1 tag to maximize intent and SEO value.
 - Ensure that the H1 isn't generic; it needs to communicate a specific intent.
 - Don't substitute bold or italicized text for heading tags. 
 
-## H1 heading examples
+## H1 example
 
-**Example 1**: [https://docs.microsoft.com/windows/win32/devices](https://docs.microsoft.com/windows/win32/devices)
+**Conversational H1** Assign Delivery Reminder Codes to Vendors   (this H1 is used twice in the same repo)
 
-**Conversational H1**: Devices (7 characters)
-
-**Edited H1**: Overview of device APIs for Windows desktop app technologies (60 characters)
-
+**Edited H1** Assign Delivery Reminder Codes to Vendors (Austria) |  Assign Delivery Reminder Codes to Vendors (Germany)
+           
 > [!TIP]
-> The current H1 tag is vague and overlaps with other Win32 pages. The updated H1 tag is much more informative and specific to the page, which ultimately helps search engines rank the content more effectively. One word is unlikely to ever be enough to describe the intent of a page. Add detail to sparse or very short H1 text.
-
-**Example 2**: [https://docs.microsoft.com/windows/uwp/gaming/getting-started](https://docs.microsoft.com/windows/uwp/gaming/getting-started)
-
-**Current H1**: Getting started (15 characters)
-
-**Edited H1**: Get started with game development on Windows and Xbox (53 characters)
-> [!TIP]
-> Like the previous example, this H1 tag is vague and generic. Any generic phrases like “get started,” “how to,” “reference,” or “tutorial” need additional information to form a fully optimized H1 tag. In this case, added details about the topic (game development on Windows and Xbox) make the H1 tag much more informative and valuable for search engines.
-
-**Example 3**: [https://docs.microsoft.com/azure/virtual-machines/windows/snapshot-copy-managed-disk](https://docs.microsoft.com/azure/virtual-machines/windows/snapshot-copy-managed-disk)
-
-**Current H1**: Create a snapshot (17 characters)
-
-**Edited H1**: Create a snapshot of a virtual hard drive in Azure (50 characters)
-
-> [!TIP]
-> Like the other examples, the current H1 is sparse and generic. The H1 should contain specific details about the page, so the edited H1 includes more detail for users and search engines to better understand the intent.
-
-**Example 4**: [https://docs.microsoft.com/sql/connect/odbc/linux-mac/system-requirements?view=sql-server-ver15](https://docs.microsoft.com/sql/connect/odbc/linux-mac/system-requirements?view=sql-server-ver15)
-
-**Current H1**: System Requirements (19 characters)
-
-**Edited H1**:  ODBC driver system requirements for SQL Server on Linux and Mac (63 characters)
-
-> [!TIP]
-> Like one-word H1s, H1s using just two words rarely communicate page intent adequately. In this case, the current heading isn't specific enough to communicate page relevance and won’t help the page rank. The edited H1 tag includes more details that are more specific to the page copy.
-
-**Example 5**: [https://docs.microsoft.com/azure/cloud-adoption-framework/migrate/azure-migration-guide](https://docs.microsoft.com/azure/cloud-adoption-framework/migrate/azure-migration-guide)
-
-**Current H1**: Azure migration guide: Before you start (39 characters)
-
-**Edited H1**: Azure migration guide: Choices to make before you start (55 characters)
-
-> [!TIP]
-> The current H1 is detailed and relevant to the page content, so the edited version contains only minor changes. Since H1 tags don’t have the same strict character limits as title tags, the language can be less clipped. Otherwise, this H1 tag is a good example of relevant, detailed, SEO-valuable content.
+> The current H1 tag is used two times in the same repo. In order to prevent this from occuring, adding the country that the topic applies to makes each H1 unique.
