@@ -16,6 +16,10 @@ Use the following decision tree to determine the best format for linking.
 
 Are you linking from a topic on docs.microsoft.com to another topic on docs.microsoft.com?
 
+| Yes | No |
+|-----|----|
+| Use a relative link. See [Create a relative link](#relative). | Proceed to [Step 2](#step-2) |
+
 :::row:::
    :::column:::
       **Yes**
@@ -111,7 +115,7 @@ Relative path links, that is, links that don't start with **/** and that do end 
 
 ### Links to articles in other repos or docsets
 
-To create a site-relative link to an article in another docs repo or docset, use the part of the target URL that comes after the locale code. This makes the link functional on docs.microsoft.com, in air-gapped environments like JEDI, and in offline books (if that docset is published as an offline book). For example, to link to the article at **https://docs.microsoft.com/windows/uwp/get-started/get-set-up**, the link syntax is **/windows/uwp/get-started/get-set-up** as shown here:
+To create a site-relative link to an article in another docs repo or docset, use the part of the target URL that comes after the locale code. This makes the link functional on docs.microsoft.com, in air-gapped environments like JEDI, and in offline books (if that docset is published as an offline book). For example, to link to the article at **https://docs.microsoft.com/en-us/windows/uwp/get-started/get-set-up**, the link syntax is **/windows/uwp/get-started/get-set-up** as shown here:
 
 ```md
 For more information, see [Get set up](/windows/uwp/get-started/get-set-up).
@@ -139,7 +143,7 @@ Site-relative links aren't validated at build time like file-relative links. If 
 
   1. Click **New Link**
 
-  2. Fill out the appropriate information. Use **bacxfwlo** for **Security Group Alias** and your alias for **Owner**.
+  2. Fill out the appropriate information. Use **bacxfwlo** for **Security Group Alias** and your alias, and your manager's, for **Owner**.
 
   3. Click **Create**
 
@@ -163,7 +167,7 @@ Site-relative links aren't validated at build time like file-relative links. If 
 
   1. Click **New Link**
 
-  2. Fill out the appropriate information. Use **bacxfwlo** for **Security Group Alias** and your alias for **Owner**.
+  2. Fill out the appropriate information. Use **bacxfwlo** for **Security Group Alias** and your alias, and your manager's, for **Owner**.
 
   3. Click **Create**
 
