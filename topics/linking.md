@@ -20,19 +20,6 @@ Are you linking from a topic on docs.microsoft.com to another topic on docs.micr
 |-----|----|
 | Use a relative link. See [Create a relative link](#relative). | Proceed to [Step 2](#step-2) |
 
-:::row:::
-   :::column:::
-      **Yes**
-
-      Use a relative link. Explanation of AGC. Link to [Creating relative links](#relative).
-   :::column-end:::
-   :::column:::
-      **No**
-
-      Proceed to [Step 2](#step-2)
-   :::column-end:::
-:::row-end:::
-
 <a name="step-2"></a>
 
 ## Step 2
