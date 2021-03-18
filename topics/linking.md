@@ -18,7 +18,7 @@ Are you linking from a topic on docs.microsoft.com to another topic on docs.micr
 
 | Yes | No |
 |-----|----|
-| Use a relative link. See [Create a relative link](#relative). | Proceed to [Step 2](#step-2) |
+| Use a relative link. See [Create a relative link](#relative). | Proceed to [Step 2](#step-2). |
 
 <a name="step-2"></a>
 
@@ -26,18 +26,9 @@ Are you linking from a topic on docs.microsoft.com to another topic on docs.micr
 
 Does the link contain any locale information (i.e., "en-us")? If so, remove the locale and try to follow the link. Does it require the locale information to render correctly?
 
-:::row:::
-   :::column:::
-      **Yes**
-
-      This URL will need to use the go.microsoft.com (also known as FWLink) service. This allows the localization team to specify targets for each locale. See [Creating or using an existing FWLink](#fwlink).
-   :::column-end:::
-   :::column:::
-      **No**
-
-      Proceed to [Step 3](#step-3).
-   :::column-end:::
-:::row-end:::
+| Yes | No |
+|-----|----|
+| This URL will need to use the go.microsoft.com (also known as FWLink) service. This allows the localization team to specify targets for each locale. See [Creating or using an existing FWLink](#fwlink). | Proceed to [Step 3](#step-3). |
 
 <a name="step-3"></a>
 
@@ -45,18 +36,9 @@ Does the link contain any locale information (i.e., "en-us")? If so, remove the 
 
 Is there a reason the link needs to use a link simplification and redirection service? Common reasons creating a shortened URL for social media, or a more memorable URL for marketing.
 
-:::row:::
-   :::column:::
-      **Yes**
-
-      You can use the aka.ms service to simplify and redirect this link. See [Creating or using an existing aka.ms link](#fwlink).
-   :::column-end:::
-   :::column:::
-      **No**
-
-      Proceed to [Step 3](#step-3).
-   :::column-end:::
-:::row-end:::
+| Yes | No |
+|-----|----|
+| You can use the aka.ms service to simplify and redirect this link. See [Creating or using an existing aka.ms link](#fwlink). | Use the original link in your content. |
 
 <a name="relative"></a>
 
