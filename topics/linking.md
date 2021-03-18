@@ -18,7 +18,7 @@ Are you linking from a topic on docs.microsoft.com to another topic on docs.micr
 
 | Yes | No |
 |-----|----|
-| Use a relative link.<br/>See [Create a relative link](#relative). | Proceed to [Step 2](#step-2). |
+| Use a relative link.<br/>See [Create a relative link](#relative). | Go to [Step 2](#step-2). |
 
 <a name="step-2"></a>
 
@@ -28,7 +28,7 @@ Does the link contain any locale information (i.e., "en-us")? If so, remove the 
 
 | Yes | No |
 |-----|----|
-| This URL will need to use the go.microsoft.com (FWLink) service.<br/>This allows the localization team to specify targets for each locale.<br/>See [Create or use an existing FWLink](#fwlink). | Proceed to [Step 3](#step-3). |
+| This URL will need to use the go.microsoft.com (FWLink) service.<br/>This allows the localization team to specify targets for each locale.<br/>See [Create or use an existing FWLink](#fwlink). | Go to [Step 3](#step-3). |
 
 <a name="step-3"></a>
 
@@ -98,7 +98,7 @@ Site-relative links aren't validated at build time like file-relative links. If 
 
 ## Create or use an existing FWLink
 
-  1. Navigate to [https://aka.ms](https://redirectiontool.trafficmanager.net/am/redirection/home?options=host:go.microsoft.com) and select "go.microsoft.com" in the **Host:** dropdown.
+  1. Go to [https://aka.ms](https://redirectiontool.trafficmanager.net/am/redirection/home?options=host:go.microsoft.com) and select "go.microsoft.com" in the **Host:** dropdown.
 
   2. Click **Advanced Filters**
 
@@ -122,7 +122,7 @@ Site-relative links aren't validated at build time like file-relative links. If 
 
 ## Create or use an existing aka.ms link
 
-  1. Navigate to [https://redirectiontool.trafficmanager.net/am/redirection/home?options=host:aka.ms](https://redirectiontool.trafficmanager.net/am/redirection/home?options=host:aka.ms) and select "aka.ms" in the **Host:** dropdown.
+  1. Go to [https://aka.ms](https://redirectiontool.trafficmanager.net/am/redirection/home?options=host:aka.ms) and select "aka.ms" in the **Host:** dropdown.
 
   2. Click **Advanced Filters**
 
