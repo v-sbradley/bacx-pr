@@ -28,7 +28,7 @@ Does the link contain any locale information (i.e., "en-us")? If so, remove the 
 
 | Yes | No |
 |-----|----|
-| This URL will need to use the go.microsoft.com (also known as FWLink) service.<br/>This allows the localization team to specify targets for each locale.<br/>See [Creating or using an existing FWLink](#fwlink). | Proceed to [Step 3](#step-3). |
+| This URL will need to use the go.microsoft.com (FWLink) service.<br/>This allows the localization team to specify targets for each locale.<br/>See [Create or use an existing FWLink](#fwlink). | Proceed to [Step 3](#step-3). |
 
 <a name="step-3"></a>
 
