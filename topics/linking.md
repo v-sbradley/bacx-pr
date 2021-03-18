@@ -85,6 +85,20 @@ Information here about creating relative links on docs.
 
   4. Click **Apply Filters**
 
+  If the query returns results, select the copy icon next to the Link ID and use the copied URL.
+
+  If the query doesn't return results, you'll need to create a new entry.
+
+  1. Click **New Link**
+
+  2. Fill out the appropriate information. Use **bacxfwlo** for **Security Group Alias**.
+
+  3. Click **Create**
+
+  4. Once the link is created, click the copy icon next to the Link ID and use the copied URL.
+
+  
+
 
 <a name="aka"></a>
 
