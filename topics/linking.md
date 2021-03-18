@@ -18,7 +18,7 @@ Are you linking from a topic on docs.microsoft.com to another topic on docs.micr
 
 | Yes | No |
 |-----|----|
-| Use a relative link. See [Create a relative link](#relative). | Proceed to [Step 2](#step-2). |
+| Use a relative link.<br/>See [Create a relative link](#relative). | Proceed to [Step 2](#step-2). |
 
 <a name="step-2"></a>
 
@@ -28,7 +28,7 @@ Does the link contain any locale information (i.e., "en-us")? If so, remove the 
 
 | Yes | No |
 |-----|----|
-| This URL will need to use the go.microsoft.com (also known as FWLink) service. This allows the localization team to specify targets for each locale. See [Creating or using an existing FWLink](#fwlink). | Proceed to [Step 3](#step-3). |
+| This URL will need to use the go.microsoft.com (also known as FWLink) service.<br/>This allows the localization team to specify targets for each locale.<br/>See [Creating or using an existing FWLink](#fwlink). | Proceed to [Step 3](#step-3). |
 
 <a name="step-3"></a>
 
@@ -38,7 +38,7 @@ Is there a reason the link needs to use a link simplification and redirection se
 
 | Yes | No |
 |-----|----|
-| You can use the aka.ms service to simplify and redirect this link. See [Creating or using an existing aka.ms link](#fwlink). | Use the original link in your content. |
+| You can use the aka.ms service to simplify and redirect this link.<br/>See [Creating or using an existing aka.ms link](#fwlink). | Use the original link in your content. |
 
 <a name="relative"></a>
 
