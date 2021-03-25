@@ -1,6 +1,6 @@
 ---
 title: Technical videos
-ms.date: 05/05/2020
+ms.date: 03/25/2021
 ms.service: 
 ms.topic: conceptual
 author: ReneeW-CPub
@@ -10,7 +10,7 @@ manager: annbe
 
 # Technical videos: Get started
 
-This process is for PMs to use to create post-release demo videos about their features for Customer Care apps, Business 360, Sales, and Forms Pro. 
+This process is for PMs to use to create post-release demo videos about their features for customer engagement apps and some Power Platform apps.  
 
 Your contacts are Abhinav Dhankar (abdhanka) and your writer. 
 
