@@ -21,25 +21,35 @@ There are multiple ways to implement links to and from topics on docs.microsoft.
 
 ## Step 1
 
-Are you linking from a topic on docs.microsoft.com to another topic on docs.microsoft.com?
+Will the link you are creating be embedded in a product or service?
 
 | Yes | No |
 |-----|----|
-| Use a relative link.<br/>See [Create a relative link](#relative). | Go to [Step 2](#step-2). |
+| Use the FWLink forwarding service for this link.<br/>See [Create or use an existing FWLink](#fwlink). | Go to [Step 2](#step-2). |
 
 <a name="step-2"></a>
 
 ## Step 2
 
-Does the link contain any locale information (i.e., "en-us")? If so, remove the locale and try to follow the link. Does it require the locale information to render correctly?
+Are you linking from a topic on docs.microsoft.com to another topic on docs.microsoft.com?
 
 | Yes | No |
 |-----|----|
-| This URL will need to use the go.microsoft.com (FWLink) service.<br/>This allows the localization team to specify targets for each locale.<br/>See [Create or use an existing FWLink](#fwlink). | Go to [Step 3](#step-3). |
+| Use a relative link.<br/>See [Create a relative link](#relative). | Go to [Step 3](#step-3). |
 
 <a name="step-3"></a>
 
 ## Step 3
+
+Does the link contain any locale information (i.e., "en-us")? If so, remove the locale and try to follow the link. Does it require the locale information to render correctly?
+
+| Yes | No |
+|-----|----|
+| This URL will need to use the go.microsoft.com (FWLink) service.<br/>This allows the localization team to specify targets for each locale.<br/>See [Create or use an existing FWLink](#fwlink). | Go to [Step 4](#step-4). |
+
+<a name="step-4"></a>
+
+## Step 4
 
 Is there a reason the link needs to use a link simplification and redirection service? Common reasons creating a shortened URL for social media, or a more memorable URL for marketing.
 
