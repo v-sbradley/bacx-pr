@@ -8,14 +8,14 @@ ms.author: "renwe"
 manager: "renwe"
 ---
 
-# Best practices for creating links
+# Requirements for creating links
 
 There are multiple ways to implement links to and from topics on docs.microsoft.com. When implementing a link to or from a topic, you need to be aware of how that link will be used, and how it functions, when deciding which method to use.
 
  - **Raw links** are original, fully qualified URLs, for example [https://www.microsoft.com](https://www.microsoft.com). This format should be used for links to other (non docs) sites when the link doesn't require locale information to render correctly.
  - **Relative links** are links from the docs.microsoft.com site to another topic on the docs.microsoft.com, for example [./index](./index). This is the only link format that will behave correctly within an air gapped cloud environment, and should be used whenever possible. See [Create relative links](#relative).
- - **FWLinks** use the *go.microsoft.com* redirection service, for example [https://go.microsoft.com/fwlink/?linkid=2158040](https://go.microsoft.com/fwlink/?linkid=2158040). This service allows localization to specify different targets for different locales. It should be used whenever the raw link includes a locale value and/or the target site does not render content based on the user's browser settings. See [Create or use an existing FWlink](#fwlink).
- - **Aka.ms links** use the *aka.ms* redirection service, for example [https://aka.ms/BAGReleaseNotes](https://aka.ms/BAGReleaseNotes). This service does not provide localization support, but does allow custom URL values. It should only be used if the raw URL does not contain any locale information, and the target site redirects users based on their browser settings. See [Create or use an existing aka.ms link](#aka).
+ - **FWLinks** use the *go.microsoft.com* redirection service, for example [https://go.microsoft.com/fwlink/?linkid=2158040](https://go.microsoft.com/fwlink/?linkid=2158040). This service allows localization to specify different targets for different locales. It should be used whenever the raw link includes a locale value and/or the target site does not render content based on the user's browser settings. This type of link will not work in an air gapped cloud environment. See [Create or use an existing FWlink](#fwlink).
+ - **Aka.ms links** use the *aka.ms* redirection service, for example [https://aka.ms/BAGReleaseNotes](https://aka.ms/BAGReleaseNotes). This service does not provide localization support, but does allow custom URL values. It should only be used if the raw URL does not contain any locale information, and the target site redirects users based on their browser settings. This type of link will not work in an air gapped cloud environment. See [Create or use an existing aka.ms link](#aka).
 
 **Use the following decision tree to determine the best format for linking.**
 
@@ -45,7 +45,7 @@ Is there a reason the link needs to use a link simplification and redirection se
 
 | Yes | No |
 |-----|----|
-| You can use the aka.ms service to simplify and redirect this link.<br/>See [Creating or using an existing aka.ms link](#aka). | Use the original link in your content. |
+| You can use the aka.ms service to simplify and redirect this link.<br/>See [Creating or using an existing aka.ms link](#aka). | Use the raw link in your content. |
 
 <a name="relative"></a>
 
