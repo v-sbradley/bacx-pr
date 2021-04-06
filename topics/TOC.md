@@ -10,7 +10,6 @@
 #### [Delete topics](delete-rename.md)
 ### [Legacy: Fork our repo](legacy-fork-repo.md) 
 ### [Public pull-request contribution guide](public-pr-contribution-guide.md)
-#### [Guide for Customer-Engagement repository](public-pr-contribution-guide-ce.md)
 ## GitHub guide
 ### [Review links](review-links.md)
 ### [Permission levels](permission-levels.md)
