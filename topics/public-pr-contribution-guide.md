@@ -16,7 +16,7 @@ We have configured public contribution for our Docs repositories. This enables t
 >
 > - **Private Repository:** The working repository for internal contributors (writers/PMs) who have joined [Microsoft Docs](https://github.com/MicrosoftDocs) organization on GitHub. Private repositories are accessible by Microsoft Docs members only.
 > - **Public Repository:** The repository for receiving external feedback from customer/public through the Docs feedback feature. It helps to receive suggested changes through Pull-Requests/issues created by the customers/public.
-> - The public repository exposes the default **Main** branch to the external contributors. Another branch which exists is a sync branch (repo_sync_working_branch) and is used as staging branch by OPS auto sync configurations for syncing content between private-public repository pairs. All branches in public repository contains content which are already published.
+> - The public repository exposes the default **main** branch to the external contributors. Another branch which exists is a sync branch (repo_sync_working_branch) and is used as staging branch by OPS auto sync configurations for syncing content between private-public repository pairs. All branches in public repository contains content which are already published.
 > - An auto assignment tool keeps polling the public repository for any new GitHub issue or pull-request and assign these to the contributors based on the topic's author/configured assignees.
 > - For a list of private-public repository pairs maintained by us, please visit: (Note: you must be connected to VPN/Corpnet to access the link).
 
@@ -34,9 +34,9 @@ We have configured public contribution for our Docs repositories. This enables t
 
 	- For the sync to complete from public to private repository, the pull-request which is created automatically in the private repository needs to be merged. The pull-request can be identified with the title that starts with the text *"Confirm merge from repo_sync_working_branch..."*.
 
-![Public pull-request contribution for private](media/public-pr-contribution.png)
-
 ## Guide to accept changes from external contributor's pull-request submitted in public repository
+
+![Public pull-request contribution for private](media/public-pr-contribution.png)
 
 - **Step 1:** For any external pull-request in public repository which targets **main** as base branch, there are two approaches to merge the content.
 
