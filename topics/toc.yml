@@ -1,0 +1,116 @@
+- name: Business Applications Content Experience Team
+  items:
+  - name: Contributors guide for Docs
+    items:
+    - name: Contributors guide for PMs/Devs
+      href: contributors-guide.md
+    - name: Get started
+      href: get-started.md
+    - name: Work directly in our repos
+      items:
+      - name: Overview
+        href: work-repos.md
+      - name: Make quick edits to a topic
+        href: make-quick-edits.md
+      - name: Make extensive changes
+        href: make-extensive-changes.md
+      - name: Make major or long-running changes
+        href: make-major-changes.md
+      - name: View doc builds for your changes
+        href: view-doc-builds.md
+      - name: Request a manual doc build
+        href: request-doc-build.md
+      - name: Delete topics
+        href: delete-rename.md
+    - name: Requirements for creating links
+      href: linking.md
+    - name: Public repo pull-requests
+      href: public-pr-contribution-guide.md
+    - name: "Legacy: Fork our repo"
+      href: legacy-fork-repo.md
+  - name: GitHub guide
+    items:
+    - name: Review links
+      href: review-links.md
+    - name: Permission levels
+      href: permission-levels.md
+    - name: Repos managed by crmce
+      href: crmce-repos.md
+    - name: Cheat sheet
+      href: gh-cheat-sheet.md
+    - name: FAQs
+      href: GitHub-FAQ.md
+  - name: Release plans guide
+    items:
+    - name: Overview
+      href: rn-guide.md
+    - name: Production schedule
+      href: rn-production-schedule.md
+    - name: Quick-reference guide
+      href: rn-quick-reference-guide.md
+    - name: FAQs
+      href: Tool-FAQ.md
+    - name: Content development
+      items:
+      - name: Workflow
+        href: rn-content-workflow.md
+      - name: Best practices and requirements
+        href: rn-dos-donts.md
+      - name: Images, screenshots, and GIFs
+        href: rn-images-and-screenshots.md
+    - name: Release planner app
+      items:
+      - name: Overview
+        href: tool-get-started.md
+      - name: Create new entry
+        href: tool-create-new-entry.md
+      - name: Generate review document
+        href: generate-review-document.md
+      - name: Add images
+        href: add-images.md
+      - name: Best practices and requirements
+        href: tool-best-practices.md
+    - name: Release plans in GitHub
+      items:
+      - name: Repos and POCs
+        href: rn-repo.md
+      - name: Best practices
+        href: rn-gh-best-practices.md
+      - name: Dos and Don'ts
+        href: rn-gh-dos-and-donts.md
+      - name: Merging & approving PRs
+        href: rn-gh-merging-approving-prs.md
+  - name: Style guide
+    items:
+    - name: "SEO: Tips for writing H1s"
+      href: write-a-heading-1.md
+    - name: "SEO: Write good meta descriptions"
+      href: write-good-descriptions.md
+    - name: "SEO: Tips for writing titles"
+      href: write-titles.md
+    - name: Update the msdate metadata
+      href: msdate.md
+    - name: Fictitious names and addresses
+      href: fictitious-names.md
+    - name: Legal document publishing
+      href: legaldocs.md
+    - name: Release plans style best practices
+      href: style-tips.md
+  - name: Editor's guide
+    items:
+    - name: Overview
+      href: editor-guide.md
+    - name: Types of edits
+      href: types-of-edits.md
+    - name: Editing blogs
+      href: editing-blogs.md
+    - name: Editing queue
+      href: editing-queue.md
+  - name: Technical videos
+    items:
+    - name: Technical videos
+      href: tv-technical-videos.md
+    - name: Sample scripts
+      href: tv-sample-scripts.md
+  - name: Content Engineering requests
+    href: content-engineering-requests.md

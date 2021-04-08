@@ -1,5 +1,5 @@
 ---
-title: "Best practices for creating links"
+title: "Requirements for creating links"
 ms.date: 5/11/2020
 ms.service: 
 ms.topic: "conceptual"
