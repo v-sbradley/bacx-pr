@@ -18,7 +18,7 @@ We have configured public contribution for our Docs repositories. This enables t
 > - **Public Repository:** The repository for receiving external feedback from customer/public through the Docs feedback feature. It helps to receive suggested changes through Pull-Requests/issues created by the customers/public.
 > - The public repository exposes the default **main** branch to the external contributors. Another branch which exists is a sync branch (repo_sync_working_branch) and is used as staging branch by OPS auto sync configurations for syncing content between private-public repository pairs. All branches in public repository contains content which are already published.
 > - An auto assignment tool keeps polling the public repository for any new GitHub issue or pull-request and assign these to the contributors based on the topic's author/configured assignees.
-> - For a list of private-public repository pairs maintained by us, please visit: (Note: you must be connected to VPN/Corpnet to access the link).
+> - For a list of private-public repository pairs maintained by us, please visit: **[Private-Public repository pairs](http://bacx0-web/repos/?type=public)** (Note: you must be connected to VPN/Corpnet to access the link).
 
 ## Syncing configuration in OPS for private and public repository pair
 
