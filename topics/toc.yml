@@ -46,10 +46,6 @@
       href: rn-guide.md
     - name: Production schedule
       href: rn-production-schedule.md
-    - name: Quick-reference guide
-      href: rn-quick-reference-guide.md
-    - name: FAQs
-      href: Tool-FAQ.md
     - name: Content development
       items:
       - name: Workflow
@@ -58,8 +54,12 @@
         href: rn-dos-donts.md
       - name: Images, screenshots, and GIFs
         href: rn-images-and-screenshots.md
-    - name: Release planner app
-      items:
+    - name: Contributor's form
+    - name: BACX Owner's form
+      - name: Quick-reference guide
+        href: rn-quick-reference-guide.md
+      - name: FAQs
+        href: Tool-FAQ.md
       - name: Overview
         href: tool-get-started.md
       - name: Create new entry
@@ -70,8 +70,6 @@
         href: add-images.md
       - name: Best practices and requirements
         href: tool-best-practices.md
-    - name: Release plans in GitHub
-      items:
       - name: Repos and POCs
         href: rn-repo.md
       - name: Best practices
