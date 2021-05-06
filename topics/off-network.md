@@ -3,7 +3,7 @@ title: "Work off the network| MicrosoftDocs"
 ms.date: 05/06/2021
 ms.service: 
 ms.topic: "conceptual"
-author: ""
+author: "ReneeW-CPub"
 ms.author: "renwe"
 manager: "annbe"
 ---
