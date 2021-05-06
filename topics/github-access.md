@@ -12,7 +12,7 @@ manager: "annbe"
 
 Update your GitHub account by signing in to GitHub, selecting the **Profile** drop-down list in the upper-right corner, and then selecting **Settings**. Under **Emails**, change your primary account to your non-Microsoft email alias. Under **Organizations**, select **Leave** to remove yourself from MicrosoftDocs. 
 
-Once your Microsoft account is no longer on the corporate network, let the team's GitHub admin (mailto:buckley.guderian@microsoft.com) know which GitHub repos you need access to and what your non-Microsoft alias is. The admin can add you as an outside collaborator. 
+Once your Microsoft account is no longer on the corporate network, let the team's GitHub admin (<buckley.guderian@microsoft.com>) know which GitHub repos you need access to and what your non-Microsoft alias is. The admin can add you as an outside collaborator. 
 
 You’ll then receive an email invitation for each requested repo. All you have to do is accept the invitation. After that, you should be able to use GitHub like before, except you won’t be able to merge PRs. Your GitHub alias won’t change.
 
