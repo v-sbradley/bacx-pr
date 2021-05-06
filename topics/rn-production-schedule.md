@@ -23,7 +23,7 @@ The content will be published on the following train. There are no exceptions ex
 
 If the issue is deemed critical, the following people will be notified: PM, Doc Owner, Ramana, Erica, Renee, and Ann. This group will collectively determine if we let the publish date slip, or if we move it through the process.
   
-### Marketing moment/annoucement
+### Marketing moment/announcement
 
 We have two possible solutions: 
 
