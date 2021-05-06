@@ -15,8 +15,8 @@ You can join or rejoin Teams chats by adding your new alias. You can do this dur
 
 1. Open a Teams chat, select **View and add participants** in the upper right, and then select **Add people**.
 
-   ![To add yourself, select Add people](media/add-people.png "Screenshot showing selection of Add people")
+   ![Screenshot showing selection of Add people](media/add-people.png "To add yourself, select Add people")
  
 2. Enter the full alias you want to add and make a chat history selection. Then select **Add**.  
 
-   ![Enter your alias to join the chat](media/enter-alias.png "Screenshot showing the Add box to enter an alias")
+   ![Screenshot showing the Add box to enter an alias](media/enter-alias.png "Enter your alias to join the chat")
