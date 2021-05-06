@@ -14,7 +14,7 @@ Submit requests to view and work in sites you use, such as the following:
 
 - **Azure DevOps boards**
 
-  The admin (buckley.guderian@microsoft.com) can add you as a member so you can view and use the task boards. 
+  The admin (<buckley.guderian@microsoft.com>) can add you as a member so you can view and use the task boards. 
 
 - **SharePoint sites** (those that allow external accounts)
  
