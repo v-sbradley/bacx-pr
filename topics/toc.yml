@@ -46,6 +46,10 @@
       href: rn-guide.md
     - name: Production schedule
       href: rn-production-schedule.md
+    - name: "What's new in the release planner app"
+      href: rn-whatsnew.md 
+        - name: 2021 Q4
+          href: rn-2021Q4.md 
     - name: Content development
       items:
       - name: Workflow
@@ -54,9 +58,9 @@
         href: rn-dos-donts.md
       - name: Images, screenshots, and GIFs
         href: rn-images-and-screenshots.md
-    - name: Contributor's form
+    - name: "Contributor's form"
       items: 
-    - name: BACX Owner's form
+    - name: "BACX Owner's form"
       items: 
       - name: Quick-reference guide
         href: rn-quick-reference-guide.md
