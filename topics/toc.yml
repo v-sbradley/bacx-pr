@@ -47,7 +47,7 @@
     - name: Production schedule
       href: rn-production-schedule.md
     - name: "What's new in the release planner app"
-      href: rn-whatsnew.md 
+      items: 
       - name: 2021 Q4
         href: rn-2021Q4.md 
     - name: Content development
