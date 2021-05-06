@@ -10,15 +10,15 @@ manager: "annbe"
 
 # Request guest access to GitHub repos
 
-Update your GitHub account by signing in to GitHub, selecting the Profile drop-down list in the upper-right corner, and then selecting Settings. Under Emails, change your primary account to your non-MS email alias. Under Organizations, select Leave to remove yourself from MicrosoftDocs. 
+Update your GitHub account by signing in to GitHub, selecting the **Profile** drop-down list in the upper-right corner, and then selecting **Settings**. Under **Emails**, change your primary account to your non-Microsoft email alias. Under **Organizations**, select **Leave** to remove yourself from MicrosoftDocs. 
 
-Once your MS account is no longer on the corporate network, let Buckley (buckley.guderian@microsoft.com) know which GitHub repos you need access to and what your non-Microsoft alias is. He can add you as an outside collaborator. 
+Once your Microsoft account is no longer on the corporate network, let the team's GitHub admin (buckley.guderian@microsoft.com) know which GitHub repos you need access to and what your non-Microsoft alias is. The admin can add you as an outside collaborator. 
 
-When he adds you, you’ll receive an email invitation for each requested repo. All you have to do is accept the invitation. After that, you should be able to use GitHub like before, except you won’t be able to merge PRs. Your GitHub alias won’t change.
+You’ll then receive an email invitation for each requested repo. All you have to do is accept the invitation. After that, you should be able to use GitHub like before, except you won’t be able to merge PRs. Your GitHub alias won’t change.
 
-Buckley also will re-add you to the MicrosoftDocs org. 
+The admin also will re-add you to the MicrosoftDocs org. 
 
 For more information on adding outside collaborators, see the following:
 
-Adding outside collaborators to repositories in your organization
-Converting an organization member to an outside collaborator
+- [Adding outside collaborators to repositories in your organization](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/adding-outside-collaborators-to-repositories-in-your-organization)
+- [Converting an organization member to an outside collaborator](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/converting-an-organization-member-to-an-outside-collaborator)
