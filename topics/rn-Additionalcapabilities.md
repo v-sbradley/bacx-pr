@@ -11,9 +11,8 @@ manager: "Chitra"
 
 # Additional Capabilities
 
- '''javascript
- [Not included in the Release Plan reason]
- '''
+***Not included in the Release Plan reason***
+
 
 **Persona:** Product Marketing Group (PMG) & Engineering PMs
 
