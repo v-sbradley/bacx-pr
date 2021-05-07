@@ -18,7 +18,6 @@ When a new plan is created, it gets picked up for publication without allowing t
 **What will it solve:**
 This holds the plan out of the publishing queue for 14 calendar days or until the PMG has reviewed it and sets a holdback. 
 
-
 **How does it work:**
 1.	Whenever a new plan is created either for current or past waves, an countdown alert will show up in the release plan (see screenshot below), and an email notification will be sent to the Product Marketing team prompting them to review the feature.
 2.	PMG will set the holdback type within 14 calendar days. During this cooling period, plans will not be picked up in the GitHub PR generation for the next publication.
