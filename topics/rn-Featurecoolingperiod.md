@@ -27,3 +27,6 @@ This holds the plan out of the publishing queue for 14 calendar days or until th
 3.	However, if the PMG reviews and sets a holdback type within 14 days, the alert notification disappears, and the plan will be picked up for the next PR pull. If the feature is not reviewed within 14 days, it will be picked up for next train regardless if the holdback is set or not.
 
 ![Step two](media/Image3.png "Step two")
+
+
+> [!IMPORTANT]
