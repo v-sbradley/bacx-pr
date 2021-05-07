@@ -11,7 +11,7 @@ manager: "Chitra"
 
 # Additional Capabilities
 
-***Not included in the Release Plan reason***
+**Not included in the Release Plan reason**
 
 
 **Persona:** Product Marketing Group (PMG) & Engineering PMs
