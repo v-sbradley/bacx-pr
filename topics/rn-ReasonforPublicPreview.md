@@ -20,7 +20,7 @@ Public preview is a key milestone that is closely tracked by the internal teams 
 ![Step two](media/Image6.png "Step two")
 
 >
->[!Questions/Feedback?]
+> # Questions/Feedback?
 >
 > - Email [Bahnhof Core Team]( bahnhofcoreteam@microsoft.com) 
 > - To share your feedback, email Release Planner Feedback
