@@ -14,6 +14,7 @@ manager: "Chitra"
 
 **Why this feature:**
 When a new plan is created, it gets picked up for publication without allowing time for the Marketing team to review and set holdbacks.
+
 **What will it solve:**
 This holds the plan out of the publishing queue for 14 calendar days or until the PMG has reviewed it and sets a holdback. 
 
