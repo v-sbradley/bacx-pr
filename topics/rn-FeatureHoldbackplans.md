@@ -29,5 +29,5 @@ PMG can quickly set multiple plans to holdback type “None” by selecting the 
 
 ![Step one](media/Capture1.PNG "Step one")
 
-![Step two](media/Image_2.png"Step two")
+![Step two](media/Image_2.png "Step two")
 
