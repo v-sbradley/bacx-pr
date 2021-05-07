@@ -28,5 +28,6 @@ For example: “Product A” is set for the Inspire 2021 moment disclosure, all 
 PMG can quickly set multiple plans to holdback type “None” by selecting the plans and click the button “Set Holdback to None”
 
 ![Step one](media/Capture1.PNG "Step one")
+
 ![Step two](media/Image_2.png"Step two")
 
