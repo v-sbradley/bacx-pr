@@ -31,7 +31,7 @@ This feature was created to help the Product Marketing and the Support Readiness
 
 ![Step two](media/Image4.png "Step two")
 =======
-# Feature: Public Preview exception 
+
 
 
 
