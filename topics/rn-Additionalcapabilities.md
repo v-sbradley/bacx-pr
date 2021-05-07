@@ -1,4 +1,5 @@
 ---
+
 title: " Additional Capabilities”
 ms.date: 09/01/2020
 ms.service: 
@@ -12,7 +13,7 @@ manager: "Chitra"
 
 # Additional Capabilities
 
-# Not included in the Release Plan reason
+ **Not included in the Release Plan reason**
 
 **Persona:** Product Marketing Group (PMG) & Engineering PMs
 
