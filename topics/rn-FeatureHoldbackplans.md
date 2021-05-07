@@ -17,3 +17,7 @@ The Product Marketing team did not have the ability to hold back a release plan 
 
 **How does it work:**
 
+-	This feature allows the PMM to associate a release plan to a marketing or newsworthy moment. 
+-	Once the feature is set as holdback, it will not be pushed into GitHub to continue the publishing cycle until at least after the disclosure date of the marketing moment has passed.
+
+
