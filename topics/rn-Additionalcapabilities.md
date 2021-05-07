@@ -22,4 +22,4 @@ We have introduced a field to capture the reason why a release plan is saved wit
 
 ![Step two](media/Image5.png "Step two")
 
-$ git config --global color.ui auto
+$git config--global color.ui auto
