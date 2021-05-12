@@ -49,7 +49,17 @@
     - name: "What's new in the release planner app"
       items: 
       - name: 2021 Q4
-        href: rn-2021Q4.md 
+        href: rn-2021Q4.md
+      - name: "Feature: Holdback plans"
+        href: rn-FeatureHoldbackplans.md
+      - name: "Feature: Cooling period"
+        href: rn-Featurecoolingperiod.md
+      - name: "Feature: Public Preview exception"
+        href: rn-Featurepreviewexception.md
+      - name: "Additional Capabilities"
+        href: rn-Additionalcapabilities.md
+      - name: "Reason for Public Preview when set to blank or NA"
+        href: rn-ReasonforPublicPreview.md
     - name: Content development
       items:
       - name: Workflow
